@@ -1,0 +1,153 @@
+.container {
+  display: flex;
+  position: relative;
+}
+
+$rowHeight: 26px;
+$colorPrimary: rgb(33, 41, 55);
+
+.keys {
+  // margin-top: $rowHeight;
+}
+.keys > div {
+  cursor: pointer;
+}
+.notes {
+  overflow-x: hidden;
+}
+.notes-row {
+  height: $rowHeight;
+  display: flex;
+  position: relative;
+}
+
+.item {
+  border: 2px solid rgb(235, 238, 241);
+  background-color: white;
+  width: $rowHeight;
+}
+.item-grid-row {
+  display: flex;
+}
+
+.item-playbar {
+  display: flex;
+}
+
+.item-grid--active {
+  filter: brightness(0.85);
+}
+
+.item-notes {
+  display: flex;
+  position: absolute;
+  height: 100%;
+  pointer-events: none;
+}
+
+.row-hightlight {
+  left: 0;
+  top: 0;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  pointer-events: none;
+}
+
+.item-note {
+  background-color: rgba($colorPrimary, 0.3);
+  outline: 2px solid #ebeef1;
+  outline-offset: -2px;
+  pointer-events: auto;
+
+  &:hover {
+    background-color: rgba($colorPrimary, 0.4);
+    transform: scale(1.02);
+  }
+}
+
+.item-note--preview {
+  outline-color: rgba($colorPrimary, 0.6);
+}
+
+.item-note--has-tip {
+  position: relative;
+}
+
+.tip-indicator {
+  position: absolute;
+  top: 2px;
+  right: 2px;
+  width: 6px;
+  height: 6px;
+  background-color: #ff5722;
+  border-radius: 50%;
+  cursor: pointer;
+  z-index: 10;
+}
+
+.key {
+  color: $colorPrimary;
+  font-weight: bold;
+  font-size: 12px;
+  height: $rowHeight;
+  width: 70px;
+
+  border: 2px solid rgb(235, 238, 241);
+  text-align: right;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  // background-color: white;
+  padding: 0 4px;
+  &--pitch {
+    color: white;
+    background-color: $colorPrimary;
+  }
+}
+@media (min-width: 768px) {
+  .key {
+    width: 80px;
+  }
+}
+
+.key-code {
+  font-size: 10px;
+  opacity: 0.6;
+}
+.key--active {
+  color: $colorPrimary;
+  background-color: rgba($colorPrimary, 0.3);
+}
+
+.empty {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 24px;
+}
+
+.notes-play {
+  // position: absolute;
+  height: $rowHeight;
+  // background-color: #ff5722;
+  top: -$rowHeight;
+  z-index: -1;
+  cursor: pointer;
+
+  .item-grid-row {
+    height: 100%;
+    display: flex;
+    text-align: center;
+    line-height: 22px;
+    font-weight: bold;
+    user-select: none;
+    font-size: 10px;
+  }
+  .item {
+    cursor: pointer;
+    background-color: rgb(235, 238, 241);
+    border: solid white;
+  }
+}

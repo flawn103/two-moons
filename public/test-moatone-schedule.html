@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MoaTone scheduleRepeat Test</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    button {
+      padding: 10px 15px;
+      margin: 5px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+    .controls {
+      margin: 20px 0;
+      padding: 15px;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+    }
+    .note-display {
+      height: 50px;
+      display: flex;
+      align-items: center;
+      font-size: 24px;
+      margin: 20px 0;
+      padding: 10px;
+      border: 1px solid #eee;
+      border-radius: 5px;
+    }
+    .status {
+      margin-top: 20px;
+      padding: 10px;
+      background-color: #f5f5f5;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+<body>
+  <h1>MoaTone scheduleRepeat Test</h1>
+  
+  <div class="note-display" id="noteDisplay">Ready to play</div>
+  
+  <div class="controls">
+    <button id="startBtn">Start</button>
+    <button id="stopBtn">Stop</button>
+    <button id="changeIntervalBtn">Change Interval</button>
+    <div>
+      <label for="intervalInput">Interval (ms):</label>
+      <input type="number" id="intervalInput" value="1000" min="100" max="5000">
+    </div>
+  </div>
+  
+  <div class="status" id="status">Status: Idle</div>
+  
+  <script>
+    // Since we can't directly import TypeScript in browser, we'll create a simplified test
+    // This demonstrates the concept of lookAhead scheduling
+    
+    class SimpleTicker {
+      constructor(callback, interval) {
+        this.callback = callback;
+        this.interval = interval;
+        this.isRunning = false;
+        this.worker = null;
+        this.timeout = null;
+        this.createClock();
+      }
+      
+      createClock() {
+        try {
+          // Try to create a Web Worker
+          const blob = new Blob([
+            `
+            let timeoutTime = ${this.interval};
+            self.onmessage = function(msg){
+              timeoutTime = parseInt(msg.data);
+            };
+            function tick(){
+              setTimeout(tick, timeoutTime);
+              self.postMessage('tick');
+            }
+            tick();
+            `
+          ], { type: 'text/javascript' });
+          
+          const blobUrl = URL.createObjectURL(blob);
+          this.worker = new Worker(blobUrl);
+          this.worker.onmessage = this.callback;
+        } catch (e) {
+          // Fallback to setTimeout
+          this.createTimeout();
+        }
+      }
+      
+      createTimeout() {
+        this.timeout = setTimeout(() => {
+          this.createTimeout();
+          this.callback();
+        }, this.interval);
+      }
+      
+      dispose() {
+        if (this.worker) {
+          this.worker.terminate();
+          this.worker = null;
+        }
+        if (this.timeout) {
+          clearTimeout(this.timeout);
+          this.timeout = null;
+        }
+      }
+    }
+    
+    class SimpleScheduler {
+      constructor() {
+        this.events = new Map();
+        this.eventIdCounter = 0;
+        this.lookAhead = 0.1; // 100ms
+        this.scheduleAheadTime = 25; // 25ms
+        this.ticker = null;
+        this.audioContext = null;
+      }
+      
+      async init() {
+        this.audioContext = new (window.AudioContext || window.webkitAudioContext)();
+        if (this.audioContext.state === 'suspended') {
+          await this.audioContext.resume();
+        }
+      }
+      
+      start() {
+        if (!this.ticker) {
+          this.ticker = new SimpleTicker(() => this.tick(), this.scheduleAheadTime);
+        }
+      }
+      
+      stop() {
+        if (this.ticker) {
+          this.ticker.dispose();
+          this.ticker = null;
+        }
+      }
+      
+      tick() {
+        if (!this.audioContext) return;
+        
+        const currentTime = this.audioContext.currentTime;
+        const lookAheadTime = currentTime + this.lookAhead;
+        
+        this.events.forEach((event) => {
+          while (event.nextTime < lookAheadTime) {
+            event.callback(event.nextTime);
+            event.nextTime += event.interval;
+          }
+        });
+      }
+      
+      scheduleRepeat(callback, intervalMs) {
+        const eventId = `event_${++this.eventIdCounter}`;
+        const intervalSeconds = intervalMs / 1000;
+        const currentTime = this.audioContext.currentTime;
+        
+        const event = {
+          id: eventId,
+          callback,
+          interval: intervalSeconds,
+          nextTime: currentTime + intervalSeconds
+        };
+        
+        this.events.set(eventId, event);
+        
+        if (!this.ticker) {
+          this.start();
+        }
+        
+        return eventId;
+      }
+      
+      clear(eventId) {
+        this.events.delete(eventId);
+        if (this.events.size === 0) {
+          this.stop();
+        }
+      }
+      
+      // Simple synth for testing
+      playNote(note, duration, time) {
+        const frequencies = {
+          'C4': 261.63, 'E4': 329.63, 'G4': 392.00, 'B4': 493.88, 'C5': 523.25
+        };
+        
+        const frequency = frequencies[note] || 440;
+        
+        const oscillator = this.audioContext.createOscillator();
+        const gainNode = this.audioContext.createGain();
+        
+        oscillator.connect(gainNode);
+        gainNode.connect(this.audioContext.destination);
+        
+        oscillator.frequency.setValueAtTime(frequency, time);
+        oscillator.type = 'triangle';
+        
+        gainNode.gain.setValueAtTime(0, time);
+        gainNode.gain.linearRampToValueAtTime(0.3, time + 0.01);
+        gainNode.gain.exponentialRampToValueAtTime(0.001, time + duration);
+        
+        oscillator.start(time);
+        oscillator.stop(time + duration);
+      }
+    }
+    
+    // Create scheduler instance
+    const scheduler = new SimpleScheduler();
+    
+    // DOM elements
+    const noteDisplay = document.getElementById('noteDisplay');
+    const startBtn = document.getElementById('startBtn');
+    const stopBtn = document.getElementById('stopBtn');
+    const changeIntervalBtn = document.getElementById('changeIntervalBtn');
+    const intervalInput = document.getElementById('intervalInput');
+    const statusEl = document.getElementById('status');
+    
+    // Notes to play in sequence
+    const notes = ['C4', 'E4', 'G4', 'B4', 'C5'];
+    let currentNoteIndex = 0;
+    let eventId = null;
+    
+    // Function to play a note
+    function playNote(time) {
+      const note = notes[currentNoteIndex];
+      scheduler.playNote(note, 0.2, time);
+      
+      // Update display
+      noteDisplay.textContent = `Playing: ${note} at time ${time.toFixed(3)}`;
+      
+      // Move to next note
+      currentNoteIndex = (currentNoteIndex + 1) % notes.length;
+    }
+    
+    // Initialize audio context
+    async function init() {
+      await scheduler.init();
+      statusEl.textContent = 'Status: Ready - Using lookAhead scheduling with Web Worker/setTimeout';
+    }
+    
+    // Event listeners
+    startBtn.addEventListener('click', async () => {
+      if (eventId) return;
+      
+      // Ensure audio context is initialized
+      if (!scheduler.audioContext) {
+        await init();
+      }
+      
+      const interval = parseInt(intervalInput.value);
+      eventId = scheduler.scheduleRepeat(playNote, interval);
+      statusEl.textContent = `Status: Playing with ${interval}ms interval (Event ID: ${eventId})`;
+    });
+    
+    stopBtn.addEventListener('click', () => {
+      if (!eventId) return;
+      
+      scheduler.clear(eventId);
+      eventId = null;
+      statusEl.textContent = 'Status: Stopped';
+    });
+    
+    changeIntervalBtn.addEventListener('click', () => {
+      if (!eventId) return;
+      
+      // For changing interval, we need to clear and restart
+      scheduler.clear(eventId);
+      const interval = parseInt(intervalInput.value);
+      eventId = scheduler.scheduleRepeat(playNote, interval);
+      statusEl.textContent = `Status: Changed interval to ${interval}ms (Event ID: ${eventId})`;
+    });
+    
+    // Initialize
+    init();
+  </script>
+</body>
+</html>

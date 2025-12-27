@@ -1,0 +1,2203 @@
+{
+  "title": "和弦-第I章",
+  "content": [
+    {
+      "type": "heading-one",
+      "children": [
+        {
+          "text": "和弦-音乐的地基"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "前面我们介绍了“旋律”，它像是“漂浮”在整首歌的最上方，我们耳朵最容易听到的就是旋律。我们来回顾一下最开始的乐句："
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "94ac264d-6327-494d-b3de-aacc04ba81f1",
+      "data": {
+        "tracks": [
+          {
+            "range": [
+              "C3",
+              "C5"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "C4",
+                "time": 0,
+                "duration": 1
+              },
+              {
+                "value": "D4",
+                "time": 1,
+                "duration": 1
+              },
+              {
+                "value": "E4",
+                "time": 2,
+                "duration": 1
+              },
+              {
+                "value": "G4",
+                "time": 3,
+                "duration": 1
+              },
+              {
+                "value": "A4",
+                "time": 4,
+                "duration": 1
+              },
+              {
+                "value": "A3",
+                "time": 1,
+                "duration": 5
+              },
+              {
+                "value": "G3",
+                "time": 6,
+                "duration": 3
+              },
+              {
+                "value": "B3",
+                "time": 6,
+                "duration": 3
+              },
+              {
+                "value": "F3",
+                "time": 0,
+                "duration": 6
+              },
+              {
+                "value": "B3",
+                "time": 9,
+                "duration": 1
+              },
+              {
+                "value": "G3",
+                "time": 9,
+                "duration": 1
+              },
+              {
+                "value": "E4",
+                "time": 5,
+                "duration": 1
+              },
+              {
+                "value": "G3",
+                "time": 11,
+                "duration": 2
+              },
+              {
+                "value": "B3",
+                "time": 11,
+                "duration": 2
+              },
+              {
+                "value": "C4",
+                "time": 14,
+                "duration": 3
+              },
+              {
+                "value": "G4",
+                "time": 6,
+                "duration": 1
+              },
+              {
+                "value": "C5",
+                "time": 16,
+                "duration": 1
+              },
+              {
+                "value": "B4",
+                "time": 17,
+                "duration": 1
+              },
+              {
+                "value": "A3",
+                "time": 14,
+                "duration": 3
+              },
+              {
+                "value": "C5",
+                "time": 19,
+                "duration": 1
+              },
+              {
+                "value": "G4",
+                "time": 20,
+                "duration": 1
+              },
+              {
+                "value": "D4",
+                "time": 21,
+                "duration": 1
+              },
+              {
+                "value": "E4",
+                "time": 10,
+                "duration": 1
+              },
+              {
+                "value": "C4",
+                "time": 17,
+                "duration": 3
+              },
+              {
+                "value": "A3",
+                "time": 17,
+                "duration": 3
+              },
+              {
+                "value": "E3",
+                "time": 24,
+                "duration": 3
+              },
+              {
+                "value": "C3",
+                "time": 24,
+                "duration": 3
+              },
+              {
+                "value": "C4",
+                "time": 22,
+                "duration": 1
+              },
+              {
+                "value": "D4",
+                "time": 23,
+                "duration": 1
+              },
+              {
+                "value": "G3",
+                "time": 26,
+                "duration": 2
+              },
+              {
+                "value": "E4",
+                "time": 24,
+                "duration": 1
+              },
+              {
+                "value": "A3",
+                "time": 25,
+                "duration": 1
+              },
+              {
+                "value": "D4",
+                "time": 11,
+                "duration": 1
+              },
+              {
+                "value": "C4",
+                "time": 12,
+                "duration": 1
+              },
+              {
+                "value": "G4",
+                "time": 13,
+                "duration": 1
+              },
+              {
+                "value": "E4",
+                "time": 14,
+                "duration": 1
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": [
+              {
+                "value": "kick",
+                "time": 0,
+                "duration": 1
+              },
+              {
+                "value": "kick",
+                "time": 8,
+                "duration": 1
+              },
+              {
+                "value": "kick",
+                "time": 12,
+                "duration": 1
+              },
+              {
+                "value": "kick",
+                "time": 5,
+                "duration": 1
+              },
+              {
+                "value": "kick",
+                "time": 24,
+                "duration": 1
+              },
+              {
+                "value": "kick",
+                "time": 20,
+                "duration": 1
+              }
+            ]
+          }
+        ],
+        "timeLength": 28,
+        "currentTrack": "piano",
+        "bpm": 120,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "它的旋律部分是上面这一部分："
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "94ac264d-6327-494d-b3de-aacc04ba81f1",
+      "data": {
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C5"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "C4",
+                "time": 0,
+                "duration": 1
+              },
+              {
+                "value": "D4",
+                "time": 1,
+                "duration": 1
+              },
+              {
+                "value": "E4",
+                "time": 2,
+                "duration": 1
+              },
+              {
+                "value": "G4",
+                "time": 3,
+                "duration": 1
+              },
+              {
+                "value": "A4",
+                "time": 4,
+                "duration": 1
+              },
+              {
+                "value": "E4",
+                "time": 5,
+                "duration": 1
+              },
+              {
+                "value": "G4",
+                "time": 6,
+                "duration": 1
+              },
+              {
+                "value": "C5",
+                "time": 16,
+                "duration": 1
+              },
+              {
+                "value": "B4",
+                "time": 17,
+                "duration": 1
+              },
+              {
+                "value": "C5",
+                "time": 19,
+                "duration": 1
+              },
+              {
+                "value": "G4",
+                "time": 20,
+                "duration": 1
+              },
+              {
+                "value": "D4",
+                "time": 21,
+                "duration": 1
+              },
+              {
+                "value": "E4",
+                "time": 10,
+                "duration": 1
+              },
+              {
+                "value": "C4",
+                "time": 22,
+                "duration": 1
+              },
+              {
+                "value": "D4",
+                "time": 23,
+                "duration": 1
+              },
+              {
+                "value": "E4",
+                "time": 24,
+                "duration": 1
+              },
+              {
+                "value": "A3",
+                "time": 25,
+                "duration": 1
+              },
+              {
+                "value": "D4",
+                "time": 11,
+                "duration": 1
+              },
+              {
+                "value": "C4",
+                "time": 12,
+                "duration": 1
+              },
+              {
+                "value": "G4",
+                "time": 13,
+                "duration": 1
+              },
+              {
+                "value": "E4",
+                "time": 14,
+                "duration": 1
+              },
+              {
+                "value": "G3",
+                "time": 26,
+                "duration": 2
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 28,
+        "currentTrack": "piano",
+        "bpm": 120,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "只有旋律是不是觉得很单调？"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "让我们加上和弦，它的和弦是下面这一部分："
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "94ac264d-6327-494d-b3de-aacc04ba81f1",
+      "data": {
+        "tracks": [
+          {
+            "range": [
+              "C3",
+              "C4"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "A3",
+                "time": 1,
+                "duration": 5
+              },
+              {
+                "value": "G3",
+                "time": 6,
+                "duration": 3
+              },
+              {
+                "value": "B3",
+                "time": 6,
+                "duration": 3
+              },
+              {
+                "value": "F3",
+                "time": 0,
+                "duration": 6
+              },
+              {
+                "value": "B3",
+                "time": 9,
+                "duration": 1
+              },
+              {
+                "value": "G3",
+                "time": 9,
+                "duration": 1
+              },
+              {
+                "value": "G3",
+                "time": 11,
+                "duration": 2
+              },
+              {
+                "value": "B3",
+                "time": 11,
+                "duration": 2
+              },
+              {
+                "value": "C4",
+                "time": 14,
+                "duration": 3
+              },
+              {
+                "value": "A3",
+                "time": 14,
+                "duration": 3
+              },
+              {
+                "value": "C4",
+                "time": 17,
+                "duration": 3
+              },
+              {
+                "value": "A3",
+                "time": 17,
+                "duration": 3
+              },
+              {
+                "value": "E3",
+                "time": 24,
+                "duration": 3
+              },
+              {
+                "value": "C3",
+                "time": 24,
+                "duration": 3
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 28,
+        "currentTrack": "piano",
+        "bpm": 120,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "从感觉上来说，和弦就像是铺在旋律下面的一层伴奏，可以支撑起旋律，丰富旋律的单一听感。"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "把它们合起来："
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "94ac264d-6327-494d-b3de-aacc04ba81f1",
+      "data": {
+        "tracks": [
+          {
+            "range": [
+              "C3",
+              "C5"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "C4",
+                "time": 0,
+                "duration": 1
+              },
+              {
+                "value": "D4",
+                "time": 1,
+                "duration": 1
+              },
+              {
+                "value": "E4",
+                "time": 2,
+                "duration": 1
+              },
+              {
+                "value": "G4",
+                "time": 3,
+                "duration": 1
+              },
+              {
+                "value": "A4",
+                "time": 4,
+                "duration": 1
+              },
+              {
+                "value": "A3",
+                "time": 1,
+                "duration": 5
+              },
+              {
+                "value": "G3",
+                "time": 6,
+                "duration": 3
+              },
+              {
+                "value": "B3",
+                "time": 6,
+                "duration": 3
+              },
+              {
+                "value": "F3",
+                "time": 0,
+                "duration": 6
+              },
+              {
+                "value": "B3",
+                "time": 9,
+                "duration": 1
+              },
+              {
+                "value": "G3",
+                "time": 9,
+                "duration": 1
+              },
+              {
+                "value": "E4",
+                "time": 5,
+                "duration": 1
+              },
+              {
+                "value": "G3",
+                "time": 11,
+                "duration": 2
+              },
+              {
+                "value": "B3",
+                "time": 11,
+                "duration": 2
+              },
+              {
+                "value": "C4",
+                "time": 14,
+                "duration": 3
+              },
+              {
+                "value": "G4",
+                "time": 6,
+                "duration": 1
+              },
+              {
+                "value": "C5",
+                "time": 16,
+                "duration": 1
+              },
+              {
+                "value": "B4",
+                "time": 17,
+                "duration": 1
+              },
+              {
+                "value": "A3",
+                "time": 14,
+                "duration": 3
+              },
+              {
+                "value": "C5",
+                "time": 19,
+                "duration": 1
+              },
+              {
+                "value": "G4",
+                "time": 20,
+                "duration": 1
+              },
+              {
+                "value": "D4",
+                "time": 21,
+                "duration": 1
+              },
+              {
+                "value": "E4",
+                "time": 10,
+                "duration": 1
+              },
+              {
+                "value": "C4",
+                "time": 17,
+                "duration": 3
+              },
+              {
+                "value": "A3",
+                "time": 17,
+                "duration": 3
+              },
+              {
+                "value": "E3",
+                "time": 24,
+                "duration": 3
+              },
+              {
+                "value": "C3",
+                "time": 24,
+                "duration": 3
+              },
+              {
+                "value": "C4",
+                "time": 22,
+                "duration": 1
+              },
+              {
+                "value": "D4",
+                "time": 23,
+                "duration": 1
+              },
+              {
+                "value": "G3",
+                "time": 26,
+                "duration": 2
+              },
+              {
+                "value": "E4",
+                "time": 24,
+                "duration": 1
+              },
+              {
+                "value": "A3",
+                "time": 25,
+                "duration": 1
+              },
+              {
+                "value": "D4",
+                "time": 11,
+                "duration": 1
+              },
+              {
+                "value": "C4",
+                "time": 12,
+                "duration": 1
+              },
+              {
+                "value": "G4",
+                "time": 13,
+                "duration": 1
+              },
+              {
+                "value": "E4",
+                "time": 14,
+                "duration": 1
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": [
+              {
+                "value": "kick",
+                "time": 0,
+                "duration": 1
+              },
+              {
+                "value": "kick",
+                "time": 8,
+                "duration": 1
+              },
+              {
+                "value": "kick",
+                "time": 12,
+                "duration": 1
+              },
+              {
+                "value": "kick",
+                "time": 5,
+                "duration": 1
+              },
+              {
+                "value": "kick",
+                "time": 24,
+                "duration": 1
+              },
+              {
+                "value": "kick",
+                "time": 20,
+                "duration": 1
+              }
+            ]
+          }
+        ],
+        "timeLength": 28,
+        "currentTrack": "piano",
+        "bpm": 120,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "在听的过程中，眼睛盯着"
+        },
+        {
+          "text": "钢琴窗下面的和弦部分",
+          "bold": true
+        },
+        {
+          "text": "，跟随从左到右的时间轴，让耳朵仔细去听铺底的和弦。"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "你应该已经从主观上感受了和弦带给耳朵的感觉是什么样的，它像是靓丽高楼下厚实的地基，铺垫在旋律下方。"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "接下来，我们从更严肃一点的理论上来看，和弦到底是什么。请带着上面的听觉感受，去理解理论吧"
+        }
+      ]
+    },
+    {
+      "type": "block-quote",
+      "children": [
+        {
+          "text": "和弦（chord）源自希腊文χορδή。在音乐理论里，是指组合在一起的两个以上不同音高的音。在欧洲古典音乐及受其影响的音乐风格里，更多时候是指三个或以上的音高组合，而两个音高的组合则以音程来描述。和弦的组成音，可分开演奏，亦可同时演奏。分开演奏的，称为分解和弦（或分散和弦）。和弦有三度叠置及非三度叠置之分，在西方传统和声中的和弦，均按照三度叠置的原则构成。"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "从上面的百科中，我们可以知道和弦的定义是：一组符合特定音高规律、不同音高的音。"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "所以相比于旋律是单个单个的音符，像下面这样，只要是一组音在一起发声，它们都可以叫做“和弦“："
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "9e8a51a1-40cc-4785-a6e7-2a730d69bdbe",
+      "data": {
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C5"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "C4",
+                "time": 0,
+                "duration": 2
+              },
+              {
+                "value": "D4",
+                "time": 0,
+                "duration": 2
+              },
+              {
+                "value": "D4",
+                "time": 7,
+                "duration": 2
+              },
+              {
+                "value": "E4",
+                "time": 8,
+                "duration": 2
+              },
+              {
+                "value": "E4",
+                "time": 3,
+                "duration": 3
+              },
+              {
+                "value": "G4",
+                "time": 3,
+                "duration": 3
+              },
+              {
+                "value": "D4",
+                "time": 3,
+                "duration": 3
+              },
+              {
+                "value": "G4",
+                "time": 9,
+                "duration": 2
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 12,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "那这些“音”具体是什么音？"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "我们在旋律篇说过，旋律其实就是“音阶中的"
+        },
+        {
+          "text": "音符进行各种组合“",
+          "bold": true
+        },
+        {
+          "text": "。而和弦，简单来说就是“音阶中的"
+        },
+        {
+          "text": "音符进行各种组合，并一起弹奏“",
+          "bold": true
+        },
+        {
+          "text": "。它们都是音阶中的音，“旋律”与“和弦”都从“音阶”中产生，这也是为什么前面说“音阶是音乐的基石”。"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "先阶段性总结一下"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "和弦的定义：音阶中的"
+        },
+        {
+          "text": "音符进行各种组合，并一起弹奏（并不用严格的完全同时弹奏）",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "和弦的作用：作为音乐的铺底，支撑起旋律，丰富听感"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "但是你之前应该也发现了，随便选几个音一起演奏，可能并不好听"
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "9e8a51a1-40cc-4785-a6e7-2a730d69bdbe",
+      "data": {
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C5"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "C4",
+                "time": 0,
+                "duration": 2
+              },
+              {
+                "value": "D4",
+                "time": 0,
+                "duration": 2
+              },
+              {
+                "value": "D4",
+                "time": 7,
+                "duration": 2
+              },
+              {
+                "value": "E4",
+                "time": 8,
+                "duration": 2
+              },
+              {
+                "value": "E4",
+                "time": 3,
+                "duration": 3
+              },
+              {
+                "value": "G4",
+                "time": 3,
+                "duration": 3
+              },
+              {
+                "value": "D4",
+                "time": 3,
+                "duration": 3
+              },
+              {
+                "value": "G4",
+                "time": 9,
+                "duration": 2
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 12,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "所以，和弦如果想要好听，也是有规律的"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "请务必牢记，所有的乐理，实际就是对好听的音的规律总结，并不是什么黑魔法"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "如果我们选一个音，再选择音阶中比它高两个的音，听起来就会很稳定和谐，例如C自然大调中，我们先选取根音"
+        },
+        {
+          "type": "note",
+          "note": true,
+          "id": "24d5ccd5-9452-42d8-8cc6-5c5c3fd6f5df",
+          "noteStr": "C4",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "，C大调的音阶是C D E F G A B，那么在音阶中比C高两个的音就是"
+        },
+        {
+          "type": "note",
+          "note": true,
+          "id": "b66acee1-6e88-43a2-b810-32ddf6051055",
+          "noteStr": "E4",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "，它们中间隔了一个D音"
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "07889674-ee89-44a7-a286-ad1c471188e3",
+      "data": {
+        "scale": {
+          "root": "C",
+          "type": "ionian"
+        },
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C5"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "C4",
+                "time": 0,
+                "duration": 2
+              },
+              {
+                "value": "C4",
+                "time": 6,
+                "duration": 2
+              },
+              {
+                "value": "E4",
+                "time": 3,
+                "duration": 2
+              },
+              {
+                "value": "E4",
+                "time": 6,
+                "duration": 2
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 8,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "这听起来比上面那些胡乱组合的音要好听多了"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "接着我们如法炮制，再找到比"
+        },
+        {
+          "type": "note",
+          "note": true,
+          "id": "b66acee1-6e88-43a2-b810-32ddf6051055",
+          "noteStr": "E4",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "高两个的音"
+        },
+        {
+          "type": "note",
+          "note": true,
+          "id": "6fbf092f-752d-4a32-b1b8-0312e5875932",
+          "noteStr": "G4",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "07889674-ee89-44a7-a286-ad1c471188e3",
+      "data": {
+        "scale": {
+          "root": "C",
+          "type": "ionian"
+        },
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C5"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "C4",
+                "time": 0,
+                "duration": 2
+              },
+              {
+                "value": "E4",
+                "time": 3,
+                "duration": 2
+              },
+              {
+                "value": "G4",
+                "time": 6,
+                "duration": 2
+              },
+              {
+                "value": "G4",
+                "time": 9,
+                "duration": 3
+              },
+              {
+                "value": "C4",
+                "time": 9,
+                "duration": 3
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 12,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "听起来是不是也很好听？"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "你已经找到了组合出好听音符的窍门，在一个音阶中，我们每隔一个音去取一个音，组合起来，就会很好听！"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "试一试，像上面那样，在C自然大调中，每次隔一个音去叠加音（点击空白部分就可以增加音符，拖动可增加长音符）。"
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "07889674-ee89-44a7-a286-ad1c471188e3",
+      "data": {
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C6"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "C4",
+                "time": 0,
+                "duration": 8
+              },
+              {
+                "value": "E4",
+                "time": 1,
+                "duration": 7
+              },
+              {
+                "value": "G4",
+                "time": 2,
+                "duration": 6
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 8,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "你是否已经构建出了好听的声音组合呢？这就是和弦 (*^▽^*)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "一般来说，最方便好用且不俗套的是堆叠了四个音的和弦，也叫做七和弦"
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "07889674-ee89-44a7-a286-ad1c471188e3",
+      "data": {
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C6"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "F4",
+                "time": 0,
+                "duration": 4
+              },
+              {
+                "value": "A4",
+                "time": 1,
+                "duration": 3
+              },
+              {
+                "value": "C5",
+                "time": 2,
+                "duration": 2
+              },
+              {
+                "value": "E5",
+                "time": 3,
+                "duration": 1
+              },
+              {
+                "value": "E4",
+                "time": 6,
+                "duration": 4
+              },
+              {
+                "value": "G4",
+                "time": 7,
+                "duration": 3
+              },
+              {
+                "value": "B4",
+                "time": 8,
+                "duration": 2
+              },
+              {
+                "value": "D5",
+                "time": 9,
+                "duration": 1
+              },
+              {
+                "value": "D4",
+                "time": 12,
+                "duration": 4
+              },
+              {
+                "value": "F4",
+                "time": 13,
+                "duration": 3
+              },
+              {
+                "value": "A4",
+                "time": 14,
+                "duration": 2
+              },
+              {
+                "value": "C5",
+                "time": 15,
+                "duration": 1
+              },
+              {
+                "value": "C4",
+                "time": 18,
+                "duration": 2
+              },
+              {
+                "value": "E4",
+                "time": 18,
+                "duration": 2
+              },
+              {
+                "value": "G4",
+                "time": 18,
+                "duration": 2
+              },
+              {
+                "value": "B4",
+                "time": 18,
+                "duration": 2
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 20,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "前面在音阶篇中，我们说过音阶实际上是一组音的“音程关系”，自然大调音阶中音之间的音程关系是全全半全全全半，其他调式也有自己的独特音程关系。而和弦也是同理，和弦由多个音组成，不同和弦的组成音也有自己独特的“音程关系”，它决定了和弦的性质，也会被赋予不同的名字。"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "比如这样一个和弦，它的组成音是 C E G"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "936a7dc9-8e79-43e5-be54-5686297ad025",
+      "data": {
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C5"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "C4",
+                "time": 0,
+                "duration": 4
+              },
+              {
+                "value": "E4",
+                "time": 0,
+                "duration": 4
+              },
+              {
+                "value": "G4",
+                "time": 0,
+                "duration": 4
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 4,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        },
+        {
+          "type": "note",
+          "note": true,
+          "id": "00470d3f-970e-4252-b8a6-8fe88d7b8788",
+          "noteStr": "C4",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "与"
+        },
+        {
+          "type": "note",
+          "note": true,
+          "id": "b52d1428-4902-426e-bb07-5a5021ff6ce4",
+          "noteStr": "E4",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "之间差了4个半音，"
+        },
+        {
+          "type": "note",
+          "note": true,
+          "id": "8b6dbfef-ed57-49e0-93ce-bc10bc7407b1",
+          "noteStr": "E4",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "与"
+        },
+        {
+          "type": "note",
+          "note": true,
+          "id": "5d043b5b-c90a-4580-b48d-aa96c18a4efd",
+          "noteStr": "G4",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "之间差了3个半音。"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "接下来再看看这个，组成音是 D F A"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        },
+        {
+          "type": "note",
+          "note": true,
+          "id": "bd48b1b2-9a75-4a99-9ae7-b75e6e73ce89",
+          "noteStr": "D4",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "与"
+        },
+        {
+          "type": "note",
+          "note": true,
+          "id": "836c035e-805f-47e6-a1c3-4b763419035c",
+          "noteStr": "F4",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "之间差了3个半音，"
+        },
+        {
+          "type": "note",
+          "note": true,
+          "id": "3cdd9d3b-62ac-4da0-9817-db4955de8007",
+          "noteStr": "F4",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "与"
+        },
+        {
+          "type": "note",
+          "note": true,
+          "id": "7e2456ca-4eee-4422-b1d7-96be6ae77ac6",
+          "noteStr": "A4",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "之间差了4个半音，和上面的音程关系刚好相反。"
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "936a7dc9-8e79-43e5-be54-5686297ad025",
+      "data": {
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C5"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "D4",
+                "time": 0,
+                "duration": 4
+              },
+              {
+                "value": "F4",
+                "time": 0,
+                "duration": 4
+              },
+              {
+                "value": "A4",
+                "time": 0,
+                "duration": 4
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 4,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "音阶中每个音之间的音程关系不是固定的，而我们又是在音阶中隔一个取一个音，所以音阶中不同和弦之间的音程关系也是不一样的。"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "像前者C E G这种，音程关系是4半音(C到E) + 3半音(E到G)的，我们把它叫做“大和弦”，英文是“maj”。而因为最低音是C，所以全名就叫“大C和弦”，英文则记作“Cmaj”，maj其实就是major（主要, 重大, 大）的缩写。它的听感会比较开阔、稳定。"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "而像D F A这种，音程关系是3半音+4半音的，则叫做“小和弦”，英文是“min”。而因为最低音是D，所以全名就是“小D和弦”，英文则记作“Dmin”，min就是minor（次要, 较小的）的缩写。它的听感会比较柔美。"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "前面也说过四个音堆叠的和弦，它叫做“七和弦”，因为根音"
+        },
+        {
+          "type": "note",
+          "note": true,
+          "id": "7cd149fd-a221-40b7-acc2-d38f0a52d8c1",
+          "noteStr": "C4",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "（最低音）和最高音"
+        },
+        {
+          "type": "note",
+          "note": true,
+          "id": "f0509bfe-c5b8-4a74-929b-da185eab1fea",
+          "noteStr": "B4",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "的差距是“七度”。"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "这里引入了一个新的音程概念叫做“度”，其实也很简单，就是音程的另一种表示方法，比如1和2，唱了1,2两个音，所以1和2之间是“二度”。234，唱了2,3,4三个音，所以2和4之间是“三度”。"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "234是“三度”。123也是“三度”，但因为2到4是全音+半音，1到3是全音+全音；所以2到4是“小三度”，1到3则是“大三度”。这些命名的规则很繁琐，但这是历史遗留下来的东西，在学习过程中遇到了，记住就好(*^▽^*)。"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "这里有一张表，说明了度数和音程的关系，不用背下来，需要的时候来参考下就行"
+        }
+      ]
+    },
+    {
+      "type": "img",
+      "id": "f81b12b5-3e45-48fc-bd9e-a7032bbe2505",
+      "url": "https://luv-club.oss-cn-chengdu.aliyuncs.com/f216a184-523c-4a21-a62e-ee7c998372d7-image.png",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "接下来介绍上面提到的，在现代流行音乐中非常重要的“七和弦”。和大小和弦的命名逻辑大差不差，如果根音是C，且下面三个音是“大和弦”，再在上面加一个“大三度”，那么就叫做C大七和弦，英文记作Cmaj7。"
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "ec4a49fd-10af-4b32-997f-8a5c92ceb0ad",
+      "data": {
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C5"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "G4",
+                "time": 2,
+                "duration": 5
+              },
+              {
+                "value": "B4",
+                "time": 3,
+                "duration": 4
+              },
+              {
+                "value": "E4",
+                "time": 1,
+                "duration": 6
+              },
+              {
+                "value": "C4",
+                "time": 0,
+                "duration": 7
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 8,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "如果下面三个音是“小和弦”，再在上面加一个“小三度”，则叫做C小七和弦，英文记作Cmin7。"
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "ec4a49fd-10af-4b32-997f-8a5c92ceb0ad",
+      "data": {
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C5"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "G4",
+                "time": 2,
+                "duration": 5
+              },
+              {
+                "value": "D#4/Eb4",
+                "time": 1,
+                "duration": 6
+              },
+              {
+                "value": "C4",
+                "time": 0,
+                "duration": 7
+              },
+              {
+                "value": "A#4/Bb4",
+                "time": 3,
+                "duration": 4
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 8,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "如果下面三个音是“大和弦”，再在上面加一个“小三度”，则叫做C属和弦，英文记作C7。"
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "ec4a49fd-10af-4b32-997f-8a5c92ceb0ad",
+      "data": {
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C5"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "G4",
+                "time": 2,
+                "duration": 5
+              },
+              {
+                "value": "C4",
+                "time": 0,
+                "duration": 7
+              },
+              {
+                "value": "A#4/Bb4",
+                "time": 3,
+                "duration": 4
+              },
+              {
+                "value": "E4",
+                "time": 1,
+                "duration": 6
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 8,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "七和弦的听感相比于基础的大小和弦，会更加流行、新颖。"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "除了这些组合方式，还有很多种音程组合方式可以组合出不同的和弦，但最开始了解了大小和弦，大小七和弦就足够了。"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "如果想深入了解各种和弦，可以看看"
+        },
+        {
+          "text": "https://www.bilibili.com/video/BV1Xs411374a?p=2&vd_source=46298d0a1193054930d8f3a0b2b49106",
+          "link": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "最后再回顾一下\n和弦是音乐中的铺底，可以支撑起旋律，丰富旋律的单一听感\n和弦同旋律一样，都是音阶中的音\n和弦有多种类型，有不同听感\n和弦想要好听，有特定的组成技巧"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "我们现在已经知道了单个和弦如何构建。单个和弦就像是做菜时的一个个调味料，有的甜甜的，有的辣辣的，我们需要了解他们带来的听感，在写曲子时把各种调味料按我们想要的感觉混合起来，但具体如何在音乐中放入多个和弦，它们之间如何连接，我们是否又只能用音阶内的音来组成和弦呢？让我们进入 "
+        },
+        {
+          "text": "和弦-第二章",
+          "bold": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "/post/basic/harmony-II",
+          "link": true
+        }
+      ]
+    }
+  ]
+}

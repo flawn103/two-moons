@@ -1,0 +1,75 @@
+.checkbox {
+  &--vertical {
+    display: flex;
+    flex-direction: column;
+  }
+
+  :global {
+    .ant-radio-wrapper {
+      padding: 4px 8px;
+      border-radius: 12px;
+    }
+  }
+
+  .checkbox--right {
+    background-color: #a2cf6e;
+  }
+
+  &--wrong {
+    :global {
+      .ant-radio-wrapper-checked,
+      .ant-radio-button-wrapper-checked {
+        background-color: #f77b72;
+      }
+    }
+  }
+  &--right {
+    :global {
+      .ant-radio-wrapper-checked,
+      .ant-radio-button-wrapper-checked {
+        background-color: #a2cf6e;
+      }
+    }
+  }
+}
+
+// .select {
+//   :global {
+//     .ant-select-selection-overflow {
+//       // flex-wrap: nowrap;
+//       max-width: 140px;
+//       overflow: auto;
+//       @media (min-width: 768px) {
+//         flex-wrap: wrap;
+//         max-width: none;
+//       }
+//     }
+//   }
+// }
+
+.practice-single {
+  margin: 0 auto;
+  width: 100%;
+  @media (min-width: 768px) {
+    width: 800px;
+  }
+}
+
+.imageFeather {
+  position: relative;
+  margin-bottom: -12px;
+  &::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 10%; // 覆盖底部区域进行羽化
+    pointer-events: none;
+    background: linear-gradient(
+      to bottom,
+      rgba(255, 255, 255, 0) 0%,
+      rgba(255, 255, 255, 1) 100%
+    );
+  }
+}

@@ -1,0 +1,25 @@
+.languageSwitcher {
+  display: flex;
+  align-items: center;
+  
+  :global(.ant-select) {
+    .ant-select-selector {
+      background: transparent !important;
+      border: none !important;
+      box-shadow: none !important;
+    }
+    
+    .ant-select-selection-item {
+      color: inherit;
+      font-size: 14px;
+    }
+    
+    &:hover .ant-select-selector {
+      background: rgba(0, 0, 0, 0.04) !important;
+    }
+  }
+  
+  :global(.ant-select-arrow) {
+    color: inherit;
+  }
+}

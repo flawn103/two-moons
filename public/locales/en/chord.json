@@ -1,0 +1,28 @@
+{
+  "和弦编辑器 - 吉他钢琴和弦图表生成器": "Chord Editor - Guitar Piano Chord Editor",
+  "在线和弦编辑器，支持吉他和钢琴两种模式，自定义调弦、和弦识别、音阶显示等功能。生成专业的和弦图表，适合音乐学习和创作。": "Online chord editor/creator supporting guitar and piano, with custom tuning, chord recognition, scale display and other features. Generate professional chord charts for music learning and composition.",
+  "和弦编辑器,吉他和弦,钢琴和弦,和弦图表,音乐理论,音乐学习": "chord creator, chord editor,guitar chords,piano chords,chord charts,music theory,music",
+  "音阶和弦": "Scale Chords",
+  "和弦辨认": "Chord",
+  "chordEditor": {
+    "title": "Chord Editor",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "collect": "Collect",
+    "play": "Play",
+    "stop": "Stop",
+    "autoAccompaniment": "Auto Accompaniment",
+    "settings": "Settings",
+    "bpm": "BPM",
+    "beats": "Beats",
+    "rhythmPattern": "Rhythm Pattern",
+    "length": "Length",
+    "dragToAdjustLength": "Drag to adjust length",
+    "全拍": "Full Beat",
+    "单次演奏": "Single Play",
+    "间隔演奏": "Interval Play",
+    "高低交替": "High-Low Alternate"
+  }
+}

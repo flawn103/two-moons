@@ -1,0 +1,1159 @@
+{
+  "title": "Chord - Chapter II",
+  "content": [
+    {
+      "type": "heading-one",
+      "children": [
+        {
+          "text": "How should chords be connected?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In the previous chapter, you should have already understood what a 'chord' sounds like and how it is constructed from a scale. However, what we discussed before were individual chords. How should chords be串联ed together to form a song?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "A temporary answer is 'connect them randomly.' In modern music, as long as the chords are within the scale, you can串联 them however you like."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "First, you need to understand the concepts of "
+        },
+        {
+          "text": "chord progression",
+          "bold": true
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "chord degrees",
+          "bold": true
+        },
+        {
+          "text": ". Have you heard of '4536251'? This sequence of numbers represents a chord progression."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In C major, because C is the first note of the scale, we consider the C chord as the "
+        },
+        {
+          "text": "I chord",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "66f63c15-0bc2-4edb-998f-08d6d41b0f41",
+      "data": {
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C5"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "C4",
+                "time": 2,
+                "duration": 4
+              },
+              {
+                "value": "E4",
+                "time": 2,
+                "duration": 4
+              },
+              {
+                "value": "G4",
+                "time": 2,
+                "duration": 4
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 8,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In C major, the second note is D, so the D chord serves as the ii chord."
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "66f63c15-0bc2-4edb-998f-08d6d41b0f41",
+      "data": {
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C5"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "D4",
+                "time": 2,
+                "duration": 4
+              },
+              {
+                "value": "F4",
+                "time": 2,
+                "duration": 4
+              },
+              {
+                "value": "A4",
+                "time": 2,
+                "duration": 4
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 8,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "And so on."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Taking C major as an example, '4321' represents a chord progression connected as F (IV chord) => E (iii chord) => D (ii chord) => C (I chord)."
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "5f95e8bf-197c-4d43-b285-8ee7120d2c19",
+      "data": {
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C6"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "A4",
+                "time": 0,
+                "duration": 4
+              },
+              {
+                "value": "F4",
+                "time": 0,
+                "duration": 4
+              },
+              {
+                "value": "C5",
+                "time": 0,
+                "duration": 4
+              },
+              {
+                "value": "E5",
+                "time": 0,
+                "duration": 4
+              },
+              {
+                "value": "B4",
+                "time": 6,
+                "duration": 4
+              },
+              {
+                "value": "D5",
+                "time": 6,
+                "duration": 4
+              },
+              {
+                "value": "E4",
+                "time": 4,
+                "duration": 4
+              },
+              {
+                "value": "D5",
+                "time": 4,
+                "duration": 4
+              },
+              {
+                "value": "B4",
+                "time": 4,
+                "duration": 4
+              },
+              {
+                "value": "G4",
+                "time": 4,
+                "duration": 4
+              },
+              {
+                "value": "C5",
+                "time": 8,
+                "duration": 4
+              },
+              {
+                "value": "A4",
+                "time": 8,
+                "duration": 4
+              },
+              {
+                "value": "F4",
+                "time": 8,
+                "duration": 4
+              },
+              {
+                "value": "D4",
+                "time": 8,
+                "duration": 4
+              },
+              {
+                "value": "C4",
+                "time": 12,
+                "duration": 4
+              },
+              {
+                "value": "B4",
+                "time": 12,
+                "duration": 4
+              },
+              {
+                "value": "G4",
+                "time": 12,
+                "duration": 4
+              },
+              {
+                "value": "E4",
+                "time": 12,
+                "duration": 4
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 16,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The chords above are all seventh chords composed of four notes. The degree number is not directly related to the chord quality; C major triad and C major seventh are both C chords and both are I chords (if you forgot what a seventh chord is, review the previous chapter)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "As mentioned at the beginning, you can串联 them freely, so you can also change the order—try 2341."
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "5f95e8bf-197c-4d43-b285-8ee7120d2c19",
+      "data": {
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C6"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "B4",
+                "time": 6,
+                "duration": 4
+              },
+              {
+                "value": "D5",
+                "time": 6,
+                "duration": 4
+              },
+              {
+                "value": "E4",
+                "time": 4,
+                "duration": 4
+              },
+              {
+                "value": "C5",
+                "time": 0,
+                "duration": 4
+              },
+              {
+                "value": "G4",
+                "time": 4,
+                "duration": 4
+              },
+              {
+                "value": "A4",
+                "time": 0,
+                "duration": 4
+              },
+              {
+                "value": "F4",
+                "time": 0,
+                "duration": 4
+              },
+              {
+                "value": "D4",
+                "time": 0,
+                "duration": 4
+              },
+              {
+                "value": "D5",
+                "time": 4,
+                "duration": 4
+              },
+              {
+                "value": "B4",
+                "time": 4,
+                "duration": 4
+              },
+              {
+                "value": "F4",
+                "time": 8,
+                "duration": 4
+              },
+              {
+                "value": "E5",
+                "time": 8,
+                "duration": 4
+              },
+              {
+                "value": "C5",
+                "time": 8,
+                "duration": 4
+              },
+              {
+                "value": "A4",
+                "time": 8,
+                "duration": 4
+              },
+              {
+                "value": "C4",
+                "time": 12,
+                "duration": 4
+              },
+              {
+                "value": "B4",
+                "time": 12,
+                "duration": 4
+              },
+              {
+                "value": "G4",
+                "time": 12,
+                "duration": 4
+              },
+              {
+                "value": "E4",
+                "time": 12,
+                "duration": 4
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 16,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Does it feel uplifting and then suddenly return to calm?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Different note connections create different progression colors and evoke different feelings—choose the combinations you like!"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Although theoretically you can combine any chords within the key, different chords have different sonic characteristics. For example, the I chord sounds the most stable because the root of the scale is C."
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "66f63c15-0bc2-4edb-998f-08d6d41b0f41",
+      "data": {
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C5"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "C4",
+                "time": 0,
+                "duration": 1
+              },
+              {
+                "value": "E4",
+                "time": 1,
+                "duration": 1
+              },
+              {
+                "value": "G4",
+                "time": 2,
+                "duration": 1
+              },
+              {
+                "value": "C4",
+                "time": 4,
+                "duration": 4
+              },
+              {
+                "value": "E4",
+                "time": 4,
+                "duration": 4
+              },
+              {
+                "value": "G4",
+                "time": 4,
+                "duration": 4
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 8,
+        "currentTrack": "piano",
+        "bpm": 80,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The V dominant seventh chord, G7, sounds unstable and somewhat uncomfortable. Its notes are 5, 7, 2, 4."
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "66f63c15-0bc2-4edb-998f-08d6d41b0f41",
+      "data": {
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C6"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "G4",
+                "time": 0,
+                "duration": 1
+              },
+              {
+                "value": "B4",
+                "time": 1,
+                "duration": 1
+              },
+              {
+                "value": "D5",
+                "time": 2,
+                "duration": 1
+              },
+              {
+                "value": "F5",
+                "time": 3,
+                "duration": 1
+              },
+              {
+                "value": "F5",
+                "time": 5,
+                "duration": 3
+              },
+              {
+                "value": "D5",
+                "time": 5,
+                "duration": 3
+              },
+              {
+                "value": "B4",
+                "time": 5,
+                "duration": 3
+              },
+              {
+                "value": "G4",
+                "time": 5,
+                "duration": 3
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 8,
+        "currentTrack": "piano",
+        "bpm": 80,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "heading-two",
+      "children":  [{
+          "text": "The Secret of Tension – From Unstable to Stable",
+          "id": "harmony-5-1"
+        }]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "For the C major scale, 1 is the most stable tone. In the G7 chord, 7 is only a half-step away from 1, and 4 is only a half-step away from 3. It’s like being about to reach stability but getting stuck. Let’s try moving from G7 to C."
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "66f63c15-0bc2-4edb-998f-08d6d41b0f41",
+      "data": {
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C6"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "G4",
+                "time": 0,
+                "duration": 1
+              },
+              {
+                "value": "B4",
+                "time": 1,
+                "duration": 1
+              },
+              {
+                "value": "D5",
+                "time": 2,
+                "duration": 1
+              },
+              {
+                "value": "F5",
+                "time": 3,
+                "duration": 1
+              },
+              {
+                "value": "F5",
+                "time": 5,
+                "duration": 3
+              },
+              {
+                "value": "D5",
+                "time": 5,
+                "duration": 3
+              },
+              {
+                "value": "B4",
+                "time": 5,
+                "duration": 3
+              },
+              {
+                "value": "G4",
+                "time": 5,
+                "duration": 3
+              },
+              {
+                "value": "G4",
+                "time": 9,
+                "duration": 4
+              },
+              {
+                "value": "E4",
+                "time": 9,
+                "duration": 4
+              },
+              {
+                "value": "C4",
+                "time": 9,
+                "duration": 4
+              },
+              {
+                "value": "C5",
+                "time": 9,
+                "duration": 4
+              },
+              {
+                "value": "E5",
+                "time": 9,
+                "duration": 4
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 16,
+        "currentTrack": "piano",
+        "bpm": 80,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Doesn’t that feel satisfying now? This shift from 'uncomfortable' to 'comfortable' is called 'resolution' in music theory."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Eating sweet cake all the time makes us tired of it. If we add a bit of bitter matcha in between, making it less comfortable, then return to the sweet cake, it feels good again. This process of 'conflict => resolution' is the source of human satisfaction. Always being comfortable can actually become uncomfortable. You’ve probably experienced how boring it is when every day is a holiday, yet how exciting Friday feels during school time."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The two uncomfortable notes in G7 move by half-step to the stable C chord, turning 'uncomfortable' into 'comfortable.'"
+        }
+      ]
+    },
+    {
+      "type": "img",
+      "id": "27917f84-880a-4880-9f2d-0cc41fe198ac",
+      "url": "https://luv-club.oss-cn-chengdu.aliyuncs.com/f016ef14-da46-455f-aa74-4b78e6e8687a-image.png ",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "These sonic characteristics can guide your chord connections. The G7–C progression (V–I) we mentioned is very common because of the half-step resolution, but you can also deliberately use I–V for a fresh sound. In modern music, you can connect any diatonic chords freely—everything serves the ear."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "By now, do you have a basic grasp of music theory? If you have questions, feel free to email me via the address on my homepage or ask the AI robot at the top of the page (*^▽^*)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "With this knowledge, you can already try writing a phrase. Follow the steps below:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "1. Use the C-major IV–V–vi progression—F, G, Am chords—and lay out the progression; the duration of each chord is up to you. If you forgot how to write chords, review "
+        },
+        {
+          "text": "/post/basic/harmony-I",
+          "link": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "2. Add any melody notes from the C major scale."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Give it a try—you can do it! I’ve highlighted the C-major scale notes in pink."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "e3e38702-5c1d-4d03-a21a-08d79ddd5a29",
+      "data": {
+        "scale": {
+          "root": "C",
+          "type": "ionian"
+        },
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C6"
+            ],
+            "instrument": "piano",
+            "notes": []
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 12,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Did you succeed? If not, you can refer to the simple phrase I wrote."
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "e3e38702-5c1d-4d03-a21a-08d79ddd5a29",
+      "data": {
+        "scale": {
+          "root": "C",
+          "type": "ionian"
+        },
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C6"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "A4",
+                "time": 0,
+                "duration": 1
+              },
+              {
+                "value": "A4",
+                "time": 1,
+                "duration": 1
+              },
+              {
+                "value": "A5",
+                "time": 0,
+                "duration": 1
+              },
+              {
+                "value": "A4",
+                "time": 3,
+                "duration": 1
+              },
+              {
+                "value": "F4",
+                "time": 0,
+                "duration": 1
+              },
+              {
+                "value": "B5",
+                "time": 2,
+                "duration": 1
+              },
+              {
+                "value": "F4",
+                "time": 1,
+                "duration": 1
+              },
+              {
+                "value": "C5",
+                "time": 1,
+                "duration": 1
+              },
+              {
+                "value": "C6",
+                "time": 5,
+                "duration": 1
+              },
+              {
+                "value": "F4",
+                "time": 3,
+                "duration": 1
+              },
+              {
+                "value": "B5",
+                "time": 7,
+                "duration": 1
+              },
+              {
+                "value": "D5",
+                "time": 4,
+                "duration": 3
+              },
+              {
+                "value": "B5",
+                "time": 9,
+                "duration": 1
+              },
+              {
+                "value": "G5",
+                "time": 10,
+                "duration": 1
+              },
+              {
+                "value": "C5",
+                "time": 3,
+                "duration": 1
+              },
+              {
+                "value": "G4",
+                "time": 4,
+                "duration": 3
+              },
+              {
+                "value": "B4",
+                "time": 4,
+                "duration": 3
+              },
+              {
+                "value": "C5",
+                "time": 0,
+                "duration": 1
+              },
+              {
+                "value": "A4",
+                "time": 8,
+                "duration": 4
+              },
+              {
+                "value": "C5",
+                "time": 8,
+                "duration": 4
+              },
+              {
+                "value": "E5",
+                "time": 8,
+                "duration": 4
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 12,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "You can see that when I wrote the chord progression, I added some rhythmic variations so it doesn’t sound stiff."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "After learning all these tidy rules, let’s see how to break free from them and add some spicy seasoning to this well-behaved music! 🌶️ "
+        },
+        {
+          "text": "/post/basic/modulation",
+          "link": true
+        }
+      ]
+    }
+  ]
+}

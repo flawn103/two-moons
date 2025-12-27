@@ -1,0 +1,98 @@
+// @tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import "./button.scss";
+
+:root {
+  --adm-toast-top: calc(12px + env(safe-area-inset-top));
+}
+
+$scroll-bar-w: 8px;
+::-webkit-scrollbar {
+  width: $scroll-bar-w;
+}
+
+.ant-menu-light,
+.ant-menu-light > .ant-menu {
+  background: none;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.05);
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 4px;
+  background: rgba(0, 0, 0, 0.15);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 0, 0, 0.2);
+}
+
+::-webkit-scrollbar-thumb:active {
+  background: rgba(0, 0, 0, 0.25);
+}
+
+* {
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  @apply text-primary;
+  margin: 0;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+}
+
+textarea {
+  display: block;
+}
+
+iframe {
+  display: block;
+}
+
+a {
+  color: #1d87da;
+  text-decoration: inherit;
+  @apply transition-colors;
+  @apply hover:text-gray-500;
+  transition-duration: 0.35s;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+hr,
+p,
+pre {
+  margin: 0;
+}
+
+.ant-menu-submenu-popup .ant-menu-vertical.ant-menu-sub {
+  min-width: auto;
+}
+
+.ant-menu-horizontal {
+  border-bottom: none;
+}
+
+html.night-mode::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  pointer-events: none;
+  z-index: 2147483647;
+  background: rgba(0, 0, 0, 0.7);
+}

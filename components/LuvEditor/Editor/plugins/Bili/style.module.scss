@@ -1,0 +1,13 @@
+@import "../../../theme/var.scss";
+
+// nodes
+.iframe {
+  max-width: 100%;
+  width: 800px;
+  height: 260px;
+  @media (min-width: 768px) {
+    & {
+      height: 420px;
+    }
+  }
+}

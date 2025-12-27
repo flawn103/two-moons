@@ -1,0 +1,24 @@
+{
+  "name": "log-service",
+  "version": "1.0.0",
+  "description": "Winston log service for API request logging",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "winston": "^3.17.0",
+    "winston-daily-rotate-file": "^5.0.0"
+  },
+  "keywords": [
+    "logging",
+    "winston",
+    "express"
+  ],
+  "author": "",
+  "license": "MIT"
+}

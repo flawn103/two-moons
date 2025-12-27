@@ -1,0 +1,5 @@
+export const color = {
+  primary: "#3a4f61",
+  info: "#9ca7b0",
+  "info-bg": "#ebedef",
+};

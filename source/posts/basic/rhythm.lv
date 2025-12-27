@@ -1,0 +1,491 @@
+{
+  "title": "旋律",
+  "content": [
+    {
+      "type": "heading-one",
+      "children": [
+        {
+          "text": "旋律-对音阶进行组合"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "以最简单的方式来理解旋律，它就是对前文音阶中的"
+        },
+        {
+          "text": "音符进行各种组合",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "这是一组1=C的音阶"
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "2bf171ee-d089-4ff7-8194-2509294c803d",
+      "data": {
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C5"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "C4",
+                "time": 0,
+                "duration": 1
+              },
+              {
+                "value": "D4",
+                "time": 1,
+                "duration": 1
+              },
+              {
+                "value": "E4",
+                "time": 2,
+                "duration": 1
+              },
+              {
+                "value": "F4",
+                "time": 3,
+                "duration": 1
+              },
+              {
+                "value": "G4",
+                "time": 4,
+                "duration": 1
+              },
+              {
+                "value": "A4",
+                "time": 5,
+                "duration": 1
+              },
+              {
+                "value": "B4",
+                "time": 6,
+                "duration": 1
+              },
+              {
+                "value": "C5",
+                "time": 7,
+                "duration": 1
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 12,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "我们先随便挑选音阶中的几个音符，随便组合放上去"
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "2bf171ee-d089-4ff7-8194-2509294c803d",
+      "data": {
+        "scale": {
+          "root": "C",
+          "type": "ionian"
+        },
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C5"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "E4",
+                "time": 0,
+                "duration": 1
+              },
+              {
+                "value": "C4",
+                "time": 1,
+                "duration": 1
+              },
+              {
+                "value": "G4",
+                "time": 3,
+                "duration": 1
+              },
+              {
+                "value": "C5",
+                "time": 7,
+                "duration": 1
+              },
+              {
+                "value": "B4",
+                "time": 5,
+                "duration": 1
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 12,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "这就已经算是最简单的旋律了！"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "前文中提到过，音阶中的音，无论怎么排列都会是好听的，所以对于初学者一段旋律全部用音阶内的音是没有任何问题的。"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "接着我们改变音符的时长"
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "2bf171ee-d089-4ff7-8194-2509294c803d",
+      "data": {
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C5"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "E4",
+                "time": 0,
+                "duration": 2
+              },
+              {
+                "value": "G4",
+                "time": 4,
+                "duration": 1
+              },
+              {
+                "value": "C4",
+                "time": 2,
+                "duration": 1
+              },
+              {
+                "value": "B4",
+                "time": 5,
+                "duration": 1
+              },
+              {
+                "value": "C5",
+                "time": 6,
+                "duration": 2
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 12,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "可以看到，我们并没有改变每个音的音高，只是简单将每个音的时间做了调整，就会呈现出很不一样的效果，这种对音符时间的规划，就是我们经常提到的“节奏”。"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "我们再来尝试一次"
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "2bf171ee-d089-4ff7-8194-2509294c803d",
+      "data": {
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C5"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "E4",
+                "time": 0,
+                "duration": 1
+              },
+              {
+                "value": "C5",
+                "time": 7,
+                "duration": 3
+              },
+              {
+                "value": "C4",
+                "time": 1,
+                "duration": 2
+              },
+              {
+                "value": "B4",
+                "time": 6,
+                "duration": 1
+              },
+              {
+                "value": "G4",
+                "time": 4,
+                "duration": 1
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 12,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "你可能会有个疑问，旋律的创作是完全随机的吗？"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "我个人的经验是，审美占40%，积累占20%，技法套路占20%，随机运气占20%。初学时会随机的去拼凑旋律，就像上文中那样，拼凑出好的旋律就记录下来下次可以继续用，也可以有意的去记录一些别人写的好旋律，这样慢慢去积累自己的乐句库。如果想认真学习音乐，积累是必不可少的过程，和学习语言非常相似。"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "审美、积累、运气（这里先不涉及技法，后面会补充说明）这三者中，我会将审美放在了最重要的位置，审美是很容易被忽略的点，用直接一点的话来说，审美不够，再多的积累与努力也可能收效甚微，因为你都不知道什么是更好的，自然也不知道该积累什么样的乐句，练习的方向是什么。就像一个没有味觉的厨子，怎么能够做出好的菜肴呢。"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "这是艺术类学习和传统学习最大的不同，审美是非常重要的，甚至是一切的根基，而旋律又是音乐几大模块中最依赖审美的，但审美也是一项可以训练的技能。"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "你既然都愿意花时间看教程了，审美应该不会很差（因为你愿意花时间成本去拓展热爱的事物(*^▽^*)）。这里并不推荐没有任何基础的人为了所谓的“磨耳朵”，带着非常强的目的性去听非常复杂纯正的古典、爵士曲目，初学者还没有建立对复杂音乐的欣赏思路，听着大概率会觉得无聊反而可能丢失热情。更推荐从经典简单的入手，过渡到一些融合的、更偏流行的音乐，如酸爵士，新古典，前卫摇滚。还有一个很好用的方法，就是听听你现在喜欢的音乐家，他们在听哪些人的音乐。"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "但我依然推荐你走进音乐厅去感受现场的音乐，我相信即使你无法分析曲式，那个空间的能量与情感也依旧会左右你的审美，而且它真的不贵！"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "建立了良好的审美后，再去尝试拼凑旋律，因为这时候你就大概知道你的旋律是否算“好听“，有一个合格的评判标准了。"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "在本站的 练习室"
+        },
+        {
+          "text": "/practice#melody",
+          "link": true
+        },
+        {
+          "text": " 中，你也可以测试自己对旋律的辨认程度"
+        }
+      ]
+    },
+    {
+      "type": "img",
+      "id": "d9d33956-c1b6-4cc8-b47a-2b5bd99e2a9e",
+      "url": "https://luv-club.oss-cn-chengdu.aliyuncs.com/ac27c137-83f7-4392-890b-36176a6271bd-IMG_6783.PNG",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "对于自己拼凑出的好旋律或者听到的好旋律，去有意识的记录与回顾，记在语音备忘录上也好，音乐制作软件（如库乐队、guitar pro）上也好，"
+        },
+        {
+          "text": "慢慢积累，脑中就会有一套自己的旋律库了。"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "总之，旋律是非常依赖审美与积累的，多去留意生活中令你印象深刻的旋律吧。但是一首歌曲光有旋律是不够的，太单调了，我们还得有“伴奏”，接下来让我们进入到 "
+        },
+        {
+          "text": "和弦",
+          "bold": true
+        },
+        {
+          "text": " 的世界 "
+        },
+        {
+          "text": "➡️",
+          "bold": true
+        },
+        {
+          "text": "/post/basic/harmony-I",
+          "link": true
+        }
+      ]
+    }
+  ]
+}

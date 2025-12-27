@@ -1,0 +1,527 @@
+{
+  "title": "为何要学习乐理",
+  "content": [
+    {
+      "type": "heading-one",
+      "children": [
+        {
+          "text": "你好，欢迎喜欢音乐的你"
+        }
+      ]
+    },
+{
+    "type": "block-quote",
+    "children": [
+        {
+            "text": "此教程面向纯零基础小白，想学习进阶系统的乐理，请看 "
+        },
+        {
+            "text": "自由派音乐理论 ",
+            "bold": true
+        },
+        {
+            "text": "https://music-theory.aizcutei.com",
+            "link": true
+        }
+    ]
+},
+{
+    "type": "paragraph",
+    "children": [
+        {
+            "text": ""
+        }
+    ]
+},
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "你肯定比你想象的更擅长音乐",
+          "bold": true
+        },
+        {
+          "text": "，音乐是人类与生俱来的能力。你如果不经过系统的绘画训练，很难画出结构合理透视精准的绘画，但是，你听一首歌后就能开始哼唱，能够听出一首歌是否跑调，这都是你出生自带的超能力，而经过简单的基础乐理学习，就能够发挥更多的超能力！所以，请不要担心例如“我是否有天赋”这样的问题，你天生就有音乐的能力。"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "block-quote",
+      "children": [
+        {
+          "text": "乐理是什么？"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "创作音乐并不是天才的音乐家们灵光一现，好听的音符就接二连三凭空产生了。这些所谓“好听”的音也有规律可循，而“乐理”就是人们对"
+        },
+        {
+          "text": "好听的声音",
+          "bold": true
+        },
+        {
+          "text": "总结出的规律，你可以想象有这么个故事，从前有个人拿着锤子在打铁，发出叮叮叮的声音"
+        }
+      ]
+    },
+    {
+      "type": "img",
+      "id": "f7551726-bb00-4649-ab13-1e2022049f52",
+      "url": "https://luv-club.oss-cn-chengdu.aliyuncs.com/0c82ce94-695a-4ea2-a905-ab88e74aadab-93d09ef852d0ef9196fefee57887fd02.jpg",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "路过的一个人发现这个声音还挺好听，于是自己把这个声音记在脑子里，回去自己打铁，然后打着打着发现不同长度的铁块敲着声音不一样，某几个铁块一起敲打时发出的音很好听，于是人们开始慢慢研究这些好听的音的规律，比如这个音比那个音的频率高1.06倍，就会很好听。这些规律经过一代代的总结归纳，演化为了现代音乐理论。所以乐理，实际就是对"
+        },
+        {
+          "text": "好听的声音的规律总结",
+          "bold": true
+        },
+        {
+          "text": "，我们不必刨根问底为什么这些音好听，只需要站在巨人的肩膀上，运用前人总结的知识就好。"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "block-quote",
+      "children": [
+        {
+          "text": "学乐理真的有必要吗"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "树立正确的音乐价值观我觉得是很重要的，音乐是几乎性价比最高的文化娱乐方式，但是当下音乐创作者在作品中倾注的心血，可能听众只能消化20%左右，如果学习了一些必要的基础的乐理知识，在听歌的时候，你将会获得完全不一样的体验，不再只是“哇好听”，而是能发现歌曲中精巧的编排、灵动的呼应，这里听起来有点怪但好听其实是离调，这里变成另一首歌是转调。对于创作者，自己的作品能被更好的解读与消费，对于听众，能从更理性的角度，从歌曲中体会到更多元丰富的快乐，甚至也能自己写一些简单的歌曲。"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "但也希望，你不会因为了解了更多的乐理知识而对音乐产生鄙视链，而是对任意的曲子，都能发现其中的闪光点，会有“原来这个地方也挺有意思”的感觉"
+        },
+        {
+          "text": "：",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "block-quote",
+      "children": [
+        {
+          "text": "这个歌好土，下一首 ×"
+        }
+      ]
+    },
+    {
+      "type": "block-quote",
+      "children": [
+        {
+          "text": "这个歌一般般，但是这里的旋律乐句还不错，这里的配器有点意思 √"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "如果因为学习到更多乐理，反而变得开始对音乐区分阶级，甚至越来越难以从音乐中获得幸福与快乐，我觉得那干脆不要学习乐理，好的音乐审美"
+        },
+        {
+          "text": "应该是向下兼容的。",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "希望乐理能成为你更深一步参与音乐审美活动的钥匙，而不是刺伤他人的武器。用心去了解、学习、拥抱你所热爱的事物，也许在某个低落的深夜伏案剪影里，也许在某次琴键迟疑又坚定的触碰中，你会突然听见，来自热爱的回响。"
+        }
+      ]
+    },
+    {
+      "type": "img",
+      "id": "24256c44-9fd6-408b-a6b5-9c913aa272b6",
+      "url": "https://luv-club.oss-cn-chengdu.aliyuncs.com/62a49df4-600b-4076-bb42-6656af9026d9-80de575a14bdab62eb8a351f9e96b1c2_720.jpg",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "接下来就会进入正式的简明乐理教程，欢迎愿意对音乐付出时间来学习的你！"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "可以先听听本次学习后我们将要做出的小句子，点击一下play："
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "94ac264d-6327-494d-b3de-aacc04ba81f1",
+      "data": {
+        "tracks": [
+          {
+            "range": [
+              "C3",
+              "C5"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "C4",
+                "time": 0,
+                "duration": 1
+              },
+              {
+                "value": "D4",
+                "time": 1,
+                "duration": 1
+              },
+              {
+                "value": "E4",
+                "time": 2,
+                "duration": 1
+              },
+              {
+                "value": "G4",
+                "time": 3,
+                "duration": 1
+              },
+              {
+                "value": "A4",
+                "time": 4,
+                "duration": 1
+              },
+              {
+                "value": "A3",
+                "time": 1,
+                "duration": 5
+              },
+              {
+                "value": "G3",
+                "time": 6,
+                "duration": 3
+              },
+              {
+                "value": "B3",
+                "time": 6,
+                "duration": 3
+              },
+              {
+                "value": "F3",
+                "time": 0,
+                "duration": 6
+              },
+              {
+                "value": "B3",
+                "time": 9,
+                "duration": 1
+              },
+              {
+                "value": "G3",
+                "time": 9,
+                "duration": 1
+              },
+              {
+                "value": "E4",
+                "time": 5,
+                "duration": 1
+              },
+              {
+                "value": "G3",
+                "time": 11,
+                "duration": 2
+              },
+              {
+                "value": "B3",
+                "time": 11,
+                "duration": 2
+              },
+              {
+                "value": "C4",
+                "time": 14,
+                "duration": 3
+              },
+              {
+                "value": "G4",
+                "time": 6,
+                "duration": 1
+              },
+              {
+                "value": "C5",
+                "time": 16,
+                "duration": 1
+              },
+              {
+                "value": "B4",
+                "time": 17,
+                "duration": 1
+              },
+              {
+                "value": "A3",
+                "time": 14,
+                "duration": 3
+              },
+              {
+                "value": "C5",
+                "time": 19,
+                "duration": 1
+              },
+              {
+                "value": "G4",
+                "time": 20,
+                "duration": 1
+              },
+              {
+                "value": "D4",
+                "time": 21,
+                "duration": 1
+              },
+              {
+                "value": "E4",
+                "time": 10,
+                "duration": 1
+              },
+              {
+                "value": "C4",
+                "time": 17,
+                "duration": 3
+              },
+              {
+                "value": "A3",
+                "time": 17,
+                "duration": 3
+              },
+              {
+                "value": "E3",
+                "time": 24,
+                "duration": 3
+              },
+              {
+                "value": "C3",
+                "time": 24,
+                "duration": 3
+              },
+              {
+                "value": "C4",
+                "time": 22,
+                "duration": 1
+              },
+              {
+                "value": "D4",
+                "time": 23,
+                "duration": 1
+              },
+              {
+                "value": "G3",
+                "time": 26,
+                "duration": 2
+              },
+              {
+                "value": "E4",
+                "time": 24,
+                "duration": 1
+              },
+              {
+                "value": "A3",
+                "time": 25,
+                "duration": 1
+              },
+              {
+                "value": "D4",
+                "time": 11,
+                "duration": 1
+              },
+              {
+                "value": "C4",
+                "time": 12,
+                "duration": 1
+              },
+              {
+                "value": "G4",
+                "time": 13,
+                "duration": 1
+              },
+              {
+                "value": "E4",
+                "time": 14,
+                "duration": 1
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": [
+              {
+                "value": "kick",
+                "time": 0,
+                "duration": 1
+              },
+              {
+                "value": "kick",
+                "time": 8,
+                "duration": 1
+              },
+              {
+                "value": "kick",
+                "time": 12,
+                "duration": 1
+              },
+              {
+                "value": "kick",
+                "time": 5,
+                "duration": 1
+              },
+              {
+                "value": "kick",
+                "time": 24,
+                "duration": 1
+              },
+              {
+                "value": "kick",
+                "time": 20,
+                "duration": 1
+              }
+            ]
+          }
+        ],
+        "timeLength": 28,
+        "currentTrack": "piano",
+        "bpm": 120,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "这段乐句的原曲来自chilichill乐团"
+        }
+      ]
+    },
+    {
+      "type": "bili",
+      "id": "1710f272-e413-443e-a426-8e73cc323750",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "url": "//player.bilibili.com/player.html?aid=578387058&bvid=BV1Yz4y1w7EN&cid=1333761152&p=1&autoplay=0"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "原曲的节奏与音色与示例有些许不同，方便更清晰的学习。"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "接下来，就进入下一章，音乐的基石-"
+        },
+        {
+          "text": "音阶 ➡️",
+          "bold": true
+        },
+        {
+          "text": "/post/basic/scale",
+          "link": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1159 @@
+{
+  "title": "和弦-第II章",
+  "content": [
+    {
+      "type": "heading-one",
+      "children": [
+        {
+          "text": "和弦该如何连接？"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "上一章节中，你应该已经了解了“和弦”听起来是什么样的，它又是如何从音阶中组合出来的。但是之前我们讨论的都是单个和弦，和弦之间应该如何串联呢，从何组成一首歌曲呢？"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "一个暂时的答案是“随意串联”，在现代音乐中，只要是音阶内的和弦，你随便串联都是ok的"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "首先，你需要了解"
+        },
+        {
+          "text": "和弦进行",
+          "bold": true
+        },
+        {
+          "text": "与"
+        },
+        {
+          "text": "和弦级数",
+          "bold": true
+        },
+        {
+          "text": "的概念，你是否听说过“4536251”，这串数字代表的就是和弦进行"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "在C大调中，因为C是音阶的第一个音，所以我们将C和弦作为C大调的"
+        },
+        {
+          "text": "1级和弦",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "66f63c15-0bc2-4edb-998f-08d6d41b0f41",
+      "data": {
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C5"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "C4",
+                "time": 2,
+                "duration": 4
+              },
+              {
+                "value": "E4",
+                "time": 2,
+                "duration": 4
+              },
+              {
+                "value": "G4",
+                "time": 2,
+                "duration": 4
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 8,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "而C大调中，第二个音是D，那么D和弦则作为2级和弦"
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "66f63c15-0bc2-4edb-998f-08d6d41b0f41",
+      "data": {
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C5"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "D4",
+                "time": 2,
+                "duration": 4
+              },
+              {
+                "value": "F4",
+                "time": 2,
+                "duration": 4
+              },
+              {
+                "value": "A4",
+                "time": 2,
+                "duration": 4
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 8,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "以此类推"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "以C大调为例，4321代表的就是按照F（4级和弦） => E（3级和弦） => D（2级和弦） => C（1级和弦）连接的一组和弦进行"
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "5f95e8bf-197c-4d43-b285-8ee7120d2c19",
+      "data": {
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C6"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "A4",
+                "time": 0,
+                "duration": 4
+              },
+              {
+                "value": "F4",
+                "time": 0,
+                "duration": 4
+              },
+              {
+                "value": "C5",
+                "time": 0,
+                "duration": 4
+              },
+              {
+                "value": "E5",
+                "time": 0,
+                "duration": 4
+              },
+              {
+                "value": "B4",
+                "time": 6,
+                "duration": 4
+              },
+              {
+                "value": "D5",
+                "time": 6,
+                "duration": 4
+              },
+              {
+                "value": "E4",
+                "time": 4,
+                "duration": 4
+              },
+              {
+                "value": "D5",
+                "time": 4,
+                "duration": 4
+              },
+              {
+                "value": "B4",
+                "time": 4,
+                "duration": 4
+              },
+              {
+                "value": "G4",
+                "time": 4,
+                "duration": 4
+              },
+              {
+                "value": "C5",
+                "time": 8,
+                "duration": 4
+              },
+              {
+                "value": "A4",
+                "time": 8,
+                "duration": 4
+              },
+              {
+                "value": "F4",
+                "time": 8,
+                "duration": 4
+              },
+              {
+                "value": "D4",
+                "time": 8,
+                "duration": 4
+              },
+              {
+                "value": "C4",
+                "time": 12,
+                "duration": 4
+              },
+              {
+                "value": "B4",
+                "time": 12,
+                "duration": 4
+              },
+              {
+                "value": "G4",
+                "time": 12,
+                "duration": 4
+              },
+              {
+                "value": "E4",
+                "time": 12,
+                "duration": 4
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 16,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "上面的和弦都是有四个音组成的七和弦，级数与和弦的性质并没有直接关系，C大三和弦，C大七和弦，都是C和弦，也都是1级和弦（忘了什么是七和弦可以看看前一章）。"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "开头说了，你可以随意串联，所以你也可以换一种顺序，试试2341"
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "5f95e8bf-197c-4d43-b285-8ee7120d2c19",
+      "data": {
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C6"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "B4",
+                "time": 6,
+                "duration": 4
+              },
+              {
+                "value": "D5",
+                "time": 6,
+                "duration": 4
+              },
+              {
+                "value": "E4",
+                "time": 4,
+                "duration": 4
+              },
+              {
+                "value": "C5",
+                "time": 0,
+                "duration": 4
+              },
+              {
+                "value": "G4",
+                "time": 4,
+                "duration": 4
+              },
+              {
+                "value": "A4",
+                "time": 0,
+                "duration": 4
+              },
+              {
+                "value": "F4",
+                "time": 0,
+                "duration": 4
+              },
+              {
+                "value": "D4",
+                "time": 0,
+                "duration": 4
+              },
+              {
+                "value": "D5",
+                "time": 4,
+                "duration": 4
+              },
+              {
+                "value": "B4",
+                "time": 4,
+                "duration": 4
+              },
+              {
+                "value": "F4",
+                "time": 8,
+                "duration": 4
+              },
+              {
+                "value": "E5",
+                "time": 8,
+                "duration": 4
+              },
+              {
+                "value": "C5",
+                "time": 8,
+                "duration": 4
+              },
+              {
+                "value": "A4",
+                "time": 8,
+                "duration": 4
+              },
+              {
+                "value": "C4",
+                "time": 12,
+                "duration": 4
+              },
+              {
+                "value": "B4",
+                "time": 12,
+                "duration": 4
+              },
+              {
+                "value": "G4",
+                "time": 12,
+                "duration": 4
+              },
+              {
+                "value": "E4",
+                "time": 12,
+                "duration": 4
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 16,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "是否有种激昂向上后，突然回归平静的感觉？"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "不同的音符连接，会造就不同的进行色彩，带给人不同的感受，选择你喜欢的组合吧！"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "虽然理论上你用任意调内和弦组合都可以，但是不同的和弦会有着不同的声音特质，比如一级和弦听起来最稳定，因为音阶的根音就是C"
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "66f63c15-0bc2-4edb-998f-08d6d41b0f41",
+      "data": {
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C5"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "C4",
+                "time": 0,
+                "duration": 1
+              },
+              {
+                "value": "E4",
+                "time": 1,
+                "duration": 1
+              },
+              {
+                "value": "G4",
+                "time": 2,
+                "duration": 1
+              },
+              {
+                "value": "C4",
+                "time": 4,
+                "duration": 4
+              },
+              {
+                "value": "E4",
+                "time": 4,
+                "duration": 4
+              },
+              {
+                "value": "G4",
+                "time": 4,
+                "duration": 4
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 8,
+        "currentTrack": "piano",
+        "bpm": 80,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "五级属七和弦，也就是G7，听起来不稳定，有种不舒服的感觉，它的构成音是5、7、2、4"
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "66f63c15-0bc2-4edb-998f-08d6d41b0f41",
+      "data": {
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C6"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "G4",
+                "time": 0,
+                "duration": 1
+              },
+              {
+                "value": "B4",
+                "time": 1,
+                "duration": 1
+              },
+              {
+                "value": "D5",
+                "time": 2,
+                "duration": 1
+              },
+              {
+                "value": "F5",
+                "time": 3,
+                "duration": 1
+              },
+              {
+                "value": "F5",
+                "time": 5,
+                "duration": 3
+              },
+              {
+                "value": "D5",
+                "time": 5,
+                "duration": 3
+              },
+              {
+                "value": "B4",
+                "time": 5,
+                "duration": 3
+              },
+              {
+                "value": "G4",
+                "time": 5,
+                "duration": 3
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 8,
+        "currentTrack": "piano",
+        "bpm": 80,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "heading-two",
+      "children":  [{
+          "text": "张力的秘诀 - 从不稳定到稳定",
+          "id": "harmony-5-1"
+        }]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "因为对于C大调音阶来说，1才是最稳定的音，而现在G7和弦中，7与1只差半音，4与3也只差半音，就像是快要到稳定的音了，但是又卡住了，我们试一下G7之后接到C和弦"
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "66f63c15-0bc2-4edb-998f-08d6d41b0f41",
+      "data": {
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C6"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "G4",
+                "time": 0,
+                "duration": 1
+              },
+              {
+                "value": "B4",
+                "time": 1,
+                "duration": 1
+              },
+              {
+                "value": "D5",
+                "time": 2,
+                "duration": 1
+              },
+              {
+                "value": "F5",
+                "time": 3,
+                "duration": 1
+              },
+              {
+                "value": "F5",
+                "time": 5,
+                "duration": 3
+              },
+              {
+                "value": "D5",
+                "time": 5,
+                "duration": 3
+              },
+              {
+                "value": "B4",
+                "time": 5,
+                "duration": 3
+              },
+              {
+                "value": "G4",
+                "time": 5,
+                "duration": 3
+              },
+              {
+                "value": "G4",
+                "time": 9,
+                "duration": 4
+              },
+              {
+                "value": "E4",
+                "time": 9,
+                "duration": 4
+              },
+              {
+                "value": "C4",
+                "time": 9,
+                "duration": 4
+              },
+              {
+                "value": "C5",
+                "time": 9,
+                "duration": 4
+              },
+              {
+                "value": "E5",
+                "time": 9,
+                "duration": 4
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 16,
+        "currentTrack": "piano",
+        "bpm": 80,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "这一下是不是就舒服了，这种从“不舒服“变得“舒服”的感觉，就是乐理中的“解决”。"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "一直吃甜甜的蛋糕，我们会吃腻，如果中间配上一点点苦苦的抹茶，变得不那么舒服，再去吃甜甜的蛋糕，就会觉得舒服了，这种“冲突 => 解决”的过程，就是人类满足感产生的源泉。永远都处于舒服状态，反而可能变得不舒服，你应该也体验过，在寒暑假每天都不上学反而会无聊，但是上学时的周五就会很兴奋。"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "G7中两个不舒服的音，半音趋近变化到了最稳定的C和弦，从“不舒服”转向“舒服”。"
+        }
+      ]
+    },
+    {
+      "type": "img",
+      "id": "27917f84-880a-4880-9f2d-0cc41fe198ac",
+      "url": "https://luv-club.oss-cn-chengdu.aliyuncs.com/f016ef14-da46-455f-aa74-4b78e6e8687a-image.png",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "这些声音的特质可以作为你和弦连接时的参考，像我们上面提到的G7-C（也就是5级到1级）的进行方式，因为半音趋近的关系，是非常常用的进行，但你也可以专门为了追求新颖的听感，就反着用1-5进行，这都是可以的！现代音乐中，你完全可以在调内随意连接，一切为了听感服务。"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "到这里，你是否对基本的音乐理论有了一些概念了呢，如果有问题，欢迎随时联系我主页的邮箱，或者问问页面上方的机器人ai (*^▽^*)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "有了这些知识，你已经可以尝试写一段乐句了，试着沿着下面的步骤"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "1. 用C调的456进行，也就是F和弦，G和弦，A和弦，铺一下进行，每一个和弦的时间由你来定，忘了怎么写和弦可以回顾下 "
+        },
+        {
+          "text": "/post/basic/harmony-I",
+          "link": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "2. 随便选取C调中的旋律加进去"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "来试试吧，你可以的，我已经将C大调的音用粉色行标记了"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "e3e38702-5c1d-4d03-a21a-08d79ddd5a29",
+      "data": {
+        "scale": {
+          "root": "C",
+          "type": "ionian"
+        },
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C6"
+            ],
+            "instrument": "piano",
+            "notes": []
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 12,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "有成功吗？如果没有的话，可以参考下我写的简单句子"
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "e3e38702-5c1d-4d03-a21a-08d79ddd5a29",
+      "data": {
+        "scale": {
+          "root": "C",
+          "type": "ionian"
+        },
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C6"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "A4",
+                "time": 0,
+                "duration": 1
+              },
+              {
+                "value": "A4",
+                "time": 1,
+                "duration": 1
+              },
+              {
+                "value": "A5",
+                "time": 0,
+                "duration": 1
+              },
+              {
+                "value": "A4",
+                "time": 3,
+                "duration": 1
+              },
+              {
+                "value": "F4",
+                "time": 0,
+                "duration": 1
+              },
+              {
+                "value": "B5",
+                "time": 2,
+                "duration": 1
+              },
+              {
+                "value": "F4",
+                "time": 1,
+                "duration": 1
+              },
+              {
+                "value": "C5",
+                "time": 1,
+                "duration": 1
+              },
+              {
+                "value": "C6",
+                "time": 5,
+                "duration": 1
+              },
+              {
+                "value": "F4",
+                "time": 3,
+                "duration": 1
+              },
+              {
+                "value": "B5",
+                "time": 7,
+                "duration": 1
+              },
+              {
+                "value": "D5",
+                "time": 4,
+                "duration": 3
+              },
+              {
+                "value": "B5",
+                "time": 9,
+                "duration": 1
+              },
+              {
+                "value": "G5",
+                "time": 10,
+                "duration": 1
+              },
+              {
+                "value": "C5",
+                "time": 3,
+                "duration": 1
+              },
+              {
+                "value": "G4",
+                "time": 4,
+                "duration": 3
+              },
+              {
+                "value": "B4",
+                "time": 4,
+                "duration": 3
+              },
+              {
+                "value": "C5",
+                "time": 0,
+                "duration": 1
+              },
+              {
+                "value": "A4",
+                "time": 8,
+                "duration": 4
+              },
+              {
+                "value": "C5",
+                "time": 8,
+                "duration": 4
+              },
+              {
+                "value": "E5",
+                "time": 8,
+                "duration": 4
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 12,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "可以看到，我在写和弦的进行时，对节奏做了一些处理，听起来就不会那么死板"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "这些规规矩矩的理论学了这么多，接下来，我们看看如何跳脱这些理论，为这些规规矩矩的音乐，加一点辣辣的调味料！🌶️ "
+        },
+        {
+          "text": "/post/basic/modulation",
+          "link": true
+        }
+      ]
+    }
+  ]
+}

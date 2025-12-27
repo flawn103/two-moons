@@ -1,0 +1,487 @@
+{
+  "title": "Melody",
+  "content": [
+    {
+      "type": "heading-one",
+      "children": [
+        {
+          "text": "Melody – Combining Notes from a Scale"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In the simplest terms, a melody is just taking the notes from a scale and arranging them in different ways."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Here is a C-major scale:"
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "2bf171ee-d089-4ff7-8194-2509294c803d",
+      "data": {
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C5"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "C4",
+                "time": 0,
+                "duration": 1
+              },
+              {
+                "value": "D4",
+                "time": 1,
+                "duration": 1
+              },
+              {
+                "value": "E4",
+                "time": 2,
+                "duration": 1
+              },
+              {
+                "value": "F4",
+                "time": 3,
+                "duration": 1
+              },
+              {
+                "value": "G4",
+                "time": 4,
+                "duration": 1
+              },
+              {
+                "value": "A4",
+                "time": 5,
+                "duration": 1
+              },
+              {
+                "value": "B4",
+                "time": 6,
+                "duration": 1
+              },
+              {
+                "value": "C5",
+                "time": 7,
+                "duration": 1
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 12,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Let’s pick a few notes from the scale and place them in any order:"
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "2bf171ee-d089-4ff7-8194-2509294c803d",
+      "data": {
+        "scale": {
+          "root": "C",
+          "type": "ionian"
+        },
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C5"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "E4",
+                "time": 0,
+                "duration": 1
+              },
+              {
+                "value": "C4",
+                "time": 1,
+                "duration": 1
+              },
+              {
+                "value": "G4",
+                "time": 3,
+                "duration": 1
+              },
+              {
+                "value": "C5",
+                "time": 7,
+                "duration": 1
+              },
+              {
+                "value": "B4",
+                "time": 5,
+                "duration": 1
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 12,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "That’s already the simplest kind of melody!"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "As mentioned earlier, any arrangement of notes within a scale will sound pleasant, so for beginners there’s absolutely nothing wrong with using only scale tones."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Next, let’s change the length of each note:"
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "2bf171ee-d089-4ff7-8194-2509294c803d",
+      "data": {
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C5"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "E4",
+                "time": 0,
+                "duration": 2
+              },
+              {
+                "value": "G4",
+                "time": 4,
+                "duration": 1
+              },
+              {
+                "value": "C4",
+                "time": 2,
+                "duration": 1
+              },
+              {
+                "value": "B4",
+                "time": 5,
+                "duration": 1
+              },
+              {
+                "value": "C5",
+                "time": 6,
+                "duration": 2
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 12,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Notice that we didn’t change any pitches—only the timing of each note. This timing layout is what we call “rhythm.”"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Let’s try one more time:"
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "2bf171ee-d089-4ff7-8194-2509294c803d",
+      "data": {
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C5"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "E4",
+                "time": 0,
+                "duration": 1
+              },
+              {
+                "value": "C5",
+                "time": 7,
+                "duration": 3
+              },
+              {
+                "value": "C4",
+                "time": 1,
+                "duration": 2
+              },
+              {
+                "value": "B4",
+                "time": 6,
+                "duration": 1
+              },
+              {
+                "value": "G4",
+                "time": 4,
+                "duration": 1
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 12,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "You might wonder: is melody writing completely random?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "My own breakdown is: 40 % taste, 20 % vocabulary, 20 % technique/patterns, 20 % pure luck. At first you randomly piece notes together, just like above; when something sounds good, save it for later. You can also deliberately collect melodies you love and build your own phrase library. If you want to study music seriously, accumulation is essential—very much like learning a language."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Among taste, vocabulary, and luck, I put taste first. Taste is easily overlooked: without it, endless accumulation and effort may bring little reward, because you don’t know what “better” is, nor what phrases to collect or what to practice. It’s like a cook with no sense of taste—how can he make great dishes?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This is the biggest difference between studying arts and traditional subjects. Taste is the foundation, and melody is the most taste-dependent element in music—yet taste itself is a trainable skill."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Since you’re willing to spend time on this tutorial, your taste is probably already decent (you’re investing time in something you love (*^▽^*)). I don’t recommend absolute beginners force themselves to “train their ears” by diving into complex classical or jazz pieces with a heavy sense of duty; without frameworks for listening, you’ll likely get bored and lose enthusiasm. Start with simple classics, then move to crossover styles like acid jazz, neo-classical, or prog-rock. Another handy trick: check what music your favorite artists themselves listen to."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Still, I encourage you to walk into a concert hall and feel live music. Even if you can’t analyze form, the energy and emotion in that space will shape your taste—and live concerts really aren’t expensive!"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Once you’ve built good taste, try piecing melodies together again—you’ll have a reliable standard for deciding whether your melody is “good.”"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In the site’s Practice Room"
+        },
+        {
+          "text": "/practice#melody",
+          "link": true
+        },
+        {
+          "text": " you can also test how well you recognize melodies."
+        }
+      ]
+    },
+    {
+      "type": "img",
+      "id": "d9d33956-c1b6-4cc8-b47a-2b5bd99e2a9e",
+      "url": "https://luv-club.oss-cn-chengdu.aliyuncs.com/ac27c137-83f7-4392-890b-36176a6271bd-IMG_6783.PNG",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Whenever you craft a nice melody or hear one, consciously record and review it—voice memos, DAWs(like garageband、guitar pro)."
+        },
+        {
+          "text": "Keep accumulating, and you’ll build an internal melody library."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In short, melody relies heavily on taste and vocabulary. Pay attention to the melodies that move you in daily life. But melody alone isn’t enough for a song—it’s too bare. We still need “accompaniment.” Next, let’s enter the world of "
+        },
+        {
+          "text": "chords",
+          "bold": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "➡️",
+          "bold": true
+        },
+        {
+          "text": "/post/basic/harmony-I",
+          "link": true
+        }
+      ]
+    }
+  ]
+}

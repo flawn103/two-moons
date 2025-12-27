@@ -1,0 +1,527 @@
+{
+  "title": "Why Study Music Theory",
+  "content": [
+    {
+      "type": "heading-one",
+      "children": [
+        {
+          "text": "Hello, music lover"
+        }
+      ]
+    },
+    {
+      "type": "block-quote",
+      "children": [
+        {
+          "text": "This tutorial is for complete beginners. For advanced, systematic theory, see "
+        },
+        {
+          "text": "Libre Music Theory ",
+          "bold": true
+        },
+        {
+          "text": "https://music-theory.aizcutei.com ",
+          "link": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "You are probably better at music than you think",
+          "bold": true
+        },
+        {
+          "text": "; music is an innate human ability. Without systematic drawing lessons it’s hard to sketch with correct perspective, yet after hearing a song you can hum it back, notice when it’s off-key—superpowers you were born with. A little basic theory unlocks even more of them! So don’t worry about “Do I have talent?” You already do."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "block-quote",
+      "children": [
+        {
+          "text": "What is music theory?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Composing isn’t a lightning strike of genius where pretty notes pop out of thin air. Those “pretty” sounds follow patterns, and “music theory” is humanity’s summary of"
+        },
+        {
+          "text": "what sounds good",
+          "bold": true
+        },
+        {
+          "text": ". Imagine a story: someone once clanged a hammer on an anvil—ding, ding, ding—"
+        }
+      ]
+    },
+    {
+      "type": "img",
+      "id": "145198c3-1926-4050-b323-f86224f0bfd2",
+      "url": "https://luv-club.oss-cn-chengdu.aliyuncs.com/0c82ce94-695a-4ea2-a905-ab88e74aadab-93d09ef852d0ef9196fefee57887fd02.jpg ",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "A passer-by liked the sound, memorized it, went home and tried it himself. He noticed different-sized metal gave different pitches, and that certain combinations sounded great. People slowly uncovered the rules—like “if this pitch is 1.06× the frequency of that one, it feels nice.” Generation after generation distilled such findings into modern music theory. So theory is just a"
+        },
+        {
+          "text": "codified guide to good-sounding notes",
+          "bold": true
+        },
+        {
+          "text": ". We don’t need to ask why they please the ear; we can simply stand on giants’ shoulders and use what they discovered."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "block-quote",
+      "children": [
+        {
+          "text": "Is theory really necessary?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "A healthy musical value system matters. Music offers one of the best cost-to-joy ratios of any cultural pastime, yet listeners digest maybe 20 % of the care creators pour in. Learn a bit of theory and the same song becomes a new experience: you’ll spot clever arrangements, playful echoes—“that odd-but-cool spot is a modulation; here it morphs into another key.” For creators, your work is understood and appreciated; for listeners, rational insight multiplies the fun and may even let you write simple pieces yourself."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "But I hope deeper knowledge won’t turn you into a snob. Aim to find sparkle in any track, thinking “that phrase is actually neat” instead of "
+        },
+        {
+          "text": ":",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "block-quote",
+      "children": [
+        {
+          "text": "“This song is trash, skip.” ×"
+        }
+      ]
+    },
+    {
+      "type": "block-quote",
+      "children": [
+        {
+          "text": "“It’s so-so, but that melodic twist is nice, and the instrumentation here is clever.” √"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "If learning theory makes you build hierarchies and saps the joy from music, you might as well skip it. Good taste"
+        },
+        {
+          "text": "should be downward-compatible.",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "May theory become the key that lets you step deeper into musical beauty, not a blade that cuts others. Learn, explore, embrace what you love; one late night, silhouetted over your desk, or in a hesitant yet decisive touch of a key, you may suddenly hear the echo of your passion."
+        }
+      ]
+    },
+    {
+      "type": "img",
+      "id": "a47ebda9-c529-496b-b9ec-201a9db17c94",
+      "url": "https://luv-club.oss-cn-chengdu.aliyuncs.com/62a49df4-600b-4076-bb42-6656af9026d9-80de575a14bdab62eb8a351f9e96b1c2_720.jpg ",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Next we enter the formal concise theory course. Welcome, you who are willing to give music your time!"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "First listen to the little phrase we’ll build by the end; hit play:"
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "09c4c477-60f3-44eb-80e1-95dcf4b1671d",
+      "data": {
+        "tracks": [
+          {
+            "range": [
+              "C3",
+              "C5"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "C4",
+                "time": 0,
+                "duration": 1
+              },
+              {
+                "value": "D4",
+                "time": 1,
+                "duration": 1
+              },
+              {
+                "value": "E4",
+                "time": 2,
+                "duration": 1
+              },
+              {
+                "value": "G4",
+                "time": 3,
+                "duration": 1
+              },
+              {
+                "value": "A4",
+                "time": 4,
+                "duration": 1
+              },
+              {
+                "value": "A3",
+                "time": 1,
+                "duration": 5
+              },
+              {
+                "value": "G3",
+                "time": 6,
+                "duration": 3
+              },
+              {
+                "value": "B3",
+                "time": 6,
+                "duration": 3
+              },
+              {
+                "value": "F3",
+                "time": 0,
+                "duration": 6
+              },
+              {
+                "value": "B3",
+                "time": 9,
+                "duration": 1
+              },
+              {
+                "value": "G3",
+                "time": 9,
+                "duration": 1
+              },
+              {
+                "value": "E4",
+                "time": 5,
+                "duration": 1
+              },
+              {
+                "value": "G3",
+                "time": 11,
+                "duration": 2
+              },
+              {
+                "value": "B3",
+                "time": 11,
+                "duration": 2
+              },
+              {
+                "value": "C4",
+                "time": 14,
+                "duration": 3
+              },
+              {
+                "value": "G4",
+                "time": 6,
+                "duration": 1
+              },
+              {
+                "value": "C5",
+                "time": 16,
+                "duration": 1
+              },
+              {
+                "value": "B4",
+                "time": 17,
+                "duration": 1
+              },
+              {
+                "value": "A3",
+                "time": 14,
+                "duration": 3
+              },
+              {
+                "value": "C5",
+                "time": 19,
+                "duration": 1
+              },
+              {
+                "value": "G4",
+                "time": 20,
+                "duration": 1
+              },
+              {
+                "value": "D4",
+                "time": 21,
+                "duration": 1
+              },
+              {
+                "value": "E4",
+                "time": 10,
+                "duration": 1
+              },
+              {
+                "value": "C4",
+                "time": 17,
+                "duration": 3
+              },
+              {
+                "value": "A3",
+                "time": 17,
+                "duration": 3
+              },
+              {
+                "value": "E3",
+                "time": 24,
+                "duration": 3
+              },
+              {
+                "value": "C3",
+                "time": 24,
+                "duration": 3
+              },
+              {
+                "value": "C4",
+                "time": 22,
+                "duration": 1
+              },
+              {
+                "value": "D4",
+                "time": 23,
+                "duration": 1
+              },
+              {
+                "value": "G3",
+                "time": 26,
+                "duration": 2
+              },
+              {
+                "value": "E4",
+                "time": 24,
+                "duration": 1
+              },
+              {
+                "value": "A3",
+                "time": 25,
+                "duration": 1
+              },
+              {
+                "value": "D4",
+                "time": 11,
+                "duration": 1
+              },
+              {
+                "value": "C4",
+                "time": 12,
+                "duration": 1
+              },
+              {
+                "value": "G4",
+                "time": 13,
+                "duration": 1
+              },
+              {
+                "value": "E4",
+                "time": 14,
+                "duration": 1
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": [
+              {
+                "value": "kick",
+                "time": 0,
+                "duration": 1
+              },
+              {
+                "value": "kick",
+                "time": 8,
+                "duration": 1
+              },
+              {
+                "value": "kick",
+                "time": 12,
+                "duration": 1
+              },
+              {
+                "value": "kick",
+                "time": 5,
+                "duration": 1
+              },
+              {
+                "value": "kick",
+                "time": 24,
+                "duration": 1
+              },
+              {
+                "value": "kick",
+                "time": 20,
+                "duration": 1
+              }
+            ]
+          }
+        ],
+        "timeLength": 28,
+        "currentTrack": "piano",
+        "bpm": 120,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The original phrase comes from the band Chilichill."
+        }
+      ]
+    },
+    {
+      "type": "bili",
+      "id": "5bdad2e2-308c-469a-b803-2f48b0cd4897",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "url": "//player.bilibili.com/player.html?aid=578387058&bvid=BV1Yz4y1w7EN&cid=1333761152&p=1&autoplay=0"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The demo’s rhythm and timbre differ slightly from the original for clearer study."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Next, we move to the cornerstone of music—"
+        },
+        {
+          "text": "Scales ➡️",
+          "bold": true
+        },
+        {
+          "text": "/post/basic/scale",
+          "link": true
+        }
+      ]
+    }
+  ]
+}

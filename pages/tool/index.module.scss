@@ -1,0 +1,30 @@
+.tab {
+  :global {
+    .roll-notes {
+      max-width: calc(100vw - 100px);
+      @media (min-width: 768px) {
+        & {
+          max-width: 760px;
+        }
+      }
+    }
+
+    .ant-tag {
+      font-size: 18px;
+      font-weight: bold;
+    }
+  }
+}
+
+.tab-single {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+}
+
+.roll-wrapper {
+  display: flex;
+  justify-content: center;
+}

@@ -1,0 +1,695 @@
+{
+  "title": "离调篇 - 让音乐更有味道的秘密",
+  "content": [
+    {
+      "type": "heading-one",
+      "children": [{ "text": "离调 - 给和弦加点芥末" }]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "让我们先来做个小实验。下面这段音乐，所有的和弦都在C大调里面，听起来很安全、很舒服，对吧？"
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "modulation-1",
+      "data": {
+        "tracks": [
+          {
+            "range": ["C4", "C6"],
+            "instrument": "piano",
+            "notes": [
+              { "value": "C4", "time": 0, "duration": 2 },
+              { "value": "E4", "time": 0, "duration": 2 },
+              { "value": "G4", "time": 0, "duration": 2 },
+              { "value": "C5", "time": 0, "duration": 2 },
+              { "value": "F4", "time": 2, "duration": 2 },
+              { "value": "G4", "time": 4, "duration": 2 },
+              { "value": "A4", "time": 2, "duration": 2 },
+              { "value": "C5", "time": 2, "duration": 2 },
+              { "value": "B4", "time": 4, "duration": 2 },
+              { "value": "D5", "time": 4, "duration": 2 },
+              { "value": "C4", "time": 6, "duration": 2 },
+              { "value": "E4", "time": 6, "duration": 2 },
+              { "value": "G4", "time": 6, "duration": 2 },
+              { "value": "C5", "time": 6, "duration": 2 }
+            ]
+          },
+          { "instrument": "drum", "notes": [] }
+        ],
+        "timeLength": 8,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [{ "text": "" }]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "现在听听这个版本。我在中间加了一个\"外来者\" - 一个不属于C大调的和弦。"
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "modulation-2",
+      "data": {
+        "tracks": [
+          {
+            "range": ["C4", "C6"],
+            "instrument": "piano",
+            "notes": [
+              { "value": "C4", "time": 0, "duration": 2 },
+              { "value": "E4", "time": 0, "duration": 2 },
+              { "value": "A4", "time": 2, "duration": 2 },
+              { "value": "G4", "time": 0, "duration": 2 },
+              {
+                "value": "G#4/Ab4",
+                "time": 4,
+                "duration": 1,
+                "tip": "Ab音不在C大调中，从前面的Fmaj和弦变为了Fmin和弦"
+              },
+              { "value": "C5", "time": 0, "duration": 2 },
+              { "value": "F4", "time": 4, "duration": 1 },
+              { "value": "F4", "time": 2, "duration": 2 },
+              { "value": "C5", "time": 2, "duration": 2 },
+              { "value": "C5", "time": 4, "duration": 1 },
+              { "value": "G4", "time": 5, "duration": 1 },
+              { "value": "B4", "time": 5, "duration": 1 },
+              { "value": "D5", "time": 5, "duration": 1 },
+              { "value": "C4", "time": 6, "duration": 2 },
+              { "value": "E4", "time": 6, "duration": 2 },
+              { "value": "G4", "time": 6, "duration": 2 },
+              { "value": "C5", "time": 6, "duration": 2 }
+            ]
+          },
+          { "instrument": "drum", "notes": [] }
+        ],
+        "timeLength": 8,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [{ "text": "" }]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "听出来了吗？在序号「5」的时候，那个Ab音（红点标注）突然出现，让整个音乐突然变得\"不自然\"了一点。但接下来又回到了熟悉的G和弦，一切又变得自然了。"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [{ "text": "请再仔细听听从 5 => 6 的那种从调外到调内感觉" }]
+    },
+    {
+      "type": "img",
+      "id": "72a83ef3-8861-42a8-b562-0b268cc5c1e3",
+      "url": "https://luv-club.oss-cn-chengdu.aliyuncs.com/fb8abeec-6042-42ff-ae56-2fadb81f46ff-image.png",
+      "children": [{ "text": "" }]
+    },
+    { "type": "paragraph", "children": [{ "text": "" }] },
+    { "type": "heading-two", "children": [{ "text": "" }] },
+    {
+      "type": "heading-one",
+      "children": [{ "text": "先制造不舒服，再给你舒服" }]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        { "text": "还记得我们之前说过的\"解决\"吗？G7和弦到C和弦 " },
+        { "text": "/post/basic/harmony-II#harmony-5-1 ", "link": true },
+        {
+          "text": "的那种从\"不舒服\"到\"舒服\"的感觉？离调其实就是这个原理的升级版。"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "上一章说\"一直吃甜甜的蛋糕，我们会吃腻，需要中间配上一点点苦苦的抹茶\"，离调就是抹茶粉其中之一，先给你一点\"不一样\"的味道，再回到熟悉的味道，熟悉的东西就会变得更加美好。"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "就像烘焙师做蛋糕——他们先撒一把略带苦味的可可/抹茶粉或夹一层微酸的莓果酱，让味蕾瞬间“警觉”起来；紧接着再把香甜松软的面包体推上前，苦与酸被轻轻抚平，甜才真正绽放，你于是获得更大的满足。调内这些规规矩矩的音符就像是「蛋糕」，调外这些意外到访的音符就像是「抹茶粉」。"
+        }
+      ]
+    },
+    { "type": "paragraph", "children": [{ "text": "" }] },
+    { "type": "heading-one", "children": [{ "text": "" }] },
+    { "type": "heading-one", "children": [{ "text": "更多的味道实验" }] },
+    {
+      "type": "paragraph",
+      "children": [
+        { "text": "让我们再试试别的\"调味料\"。这是一个C大调 4-3-6-1 进行" }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "modulation-3",
+      "data": {
+        "tracks": [
+          {
+            "range": ["C4", "C6"],
+            "instrument": "piano",
+            "notes": [
+              { "value": "E5", "time": 0, "duration": 2 },
+              { "value": "C5", "time": 0, "duration": 2 },
+              { "value": "A4", "time": 0, "duration": 2 },
+              { "value": "D5", "time": 2, "duration": 2 },
+              { "value": "B4", "time": 2, "duration": 2 },
+              { "value": "G5", "time": 4, "duration": 2 },
+              { "value": "E5", "time": 4, "duration": 2 },
+              { "value": "C5", "time": 4, "duration": 2 },
+              { "value": "A4", "time": 4, "duration": 2 },
+              { "value": "G4", "time": 2, "duration": 2 },
+              { "value": "E4", "time": 2, "duration": 2 },
+              { "value": "F4", "time": 0, "duration": 2 },
+              { "value": "B4", "time": 6, "duration": 2 },
+              { "value": "C4", "time": 6, "duration": 2 },
+              { "value": "E4", "time": 6, "duration": 2 },
+              { "value": "G4", "time": 6, "duration": 2 }
+            ]
+          },
+          { "instrument": "drum", "notes": [] }
+        ],
+        "timeLength": 8,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [{ "text": "" }]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "我们换将3级的Emin7和弦换为E7和弦，也就是将A音下降半音（红点标注）"
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "modulation-3",
+      "data": {
+        "tracks": [
+          {
+            "range": ["C4", "C6"],
+            "instrument": "piano",
+            "notes": [
+              { "value": "E5", "time": 0, "duration": 2 },
+              { "value": "C5", "time": 0, "duration": 2 },
+              {
+                "value": "G#4/Ab4",
+                "time": 2,
+                "duration": 2,
+                "tip": "A变为Ab，将Emin7和弦变为E7和弦"
+              },
+              { "value": "A4", "time": 0, "duration": 2 },
+              { "value": "D5", "time": 2, "duration": 2 },
+              { "value": "B4", "time": 2, "duration": 2 },
+              { "value": "G5", "time": 4, "duration": 2 },
+              { "value": "E5", "time": 4, "duration": 2 },
+              { "value": "C5", "time": 4, "duration": 2 },
+              { "value": "A4", "time": 4, "duration": 2 },
+              { "value": "E4", "time": 2, "duration": 2 },
+              { "value": "F4", "time": 0, "duration": 2 },
+              { "value": "B4", "time": 6, "duration": 2 },
+              { "value": "C4", "time": 6, "duration": 2 },
+              { "value": "E4", "time": 6, "duration": 2 },
+              { "value": "G4", "time": 6, "duration": 2 }
+            ]
+          },
+          { "instrument": "drum", "notes": [] }
+        ],
+        "timeLength": 8,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [{ "text": "" }]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "是不是听起来反而好像更和谐了！因为三级的这个III7离调和弦已经太常用了，很多日系jpop都会听到，常用到我们耳朵已经完全习惯了。所以音符的「苦」与「甜」也都是相对的，可能会随着人们的习惯而变化。"
+        }
+      ]
+    },
+    { "type": "paragraph", "children": [{ "text": "" }] },
+    { "type": "heading-one", "children": [{ "text": "生活中的离调" }] },
+    {
+      "type": "paragraph",
+      "children": [{ "text": "其实离调的原理在我们的生活中无处不在：" }]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "• 电影里的情节转折 - 先制造一些不舒服的紧张感，最后大团圆结局"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        { "text": "• 食物的惊喜搭配 - 甜甜的蛋糕加上一层微苦的抹茶" }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "• 周五的兴奋感 - 在暑假中期你可能会觉得无聊，但周五最后一节课一般都会很开心"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [{ "text": "音乐家们只是把这个心理原理用声音来实现了。" }]
+    },
+    { "type": "paragraph", "children": [{ "text": "" }] },
+    {
+      "type": "heading-one",
+      "children": [{ "text": "从感觉走向套路：音乐家的\"秘密配方\"。" }]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "我们刚才体验的\"先制造不舒服，再给你舒服\"，其实是音乐世界里的一条\"黄金法则\"。几百年来，音乐家们在这个原理上，总结了很多了拿来即用的「套路」"
+        }
+      ]
+    },
+    { "type": "paragraph", "children": [{ "text": "" }] },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "上面我们提到了上一章的 5 - 1 进行，一级和弦是最稳定的和弦，五级是最不稳定的和弦，5 - 1 是最明显的从「不舒服」=>「舒服」的例子..."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "诶！那我们能否利用 5 - 1 进行的这个特性，去人为的构造紧张与解决呢？"
+        }
+      ]
+    },
+    { "type": "paragraph", "children": [{ "text": "" }] },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "下面是一个普通的 C 大调 1（Cmaj和弦） - 4（Fmaj和弦） 进行的例子："
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "modulation-4",
+      "data": {
+        "tracks": [
+          {
+            "range": ["C4", "C6"],
+            "instrument": "piano",
+            "notes": [
+              { "value": "G4", "time": 0, "duration": 4 },
+              { "value": "E4", "time": 0, "duration": 4 },
+              { "value": "C4", "time": 0, "duration": 4 },
+              { "value": "C5", "time": 0, "duration": 4 },
+              { "value": "F4", "time": 4, "duration": 4 },
+              { "value": "A4", "time": 4, "duration": 4 },
+              { "value": "C5", "time": 4, "duration": 4 },
+              { "value": "F5", "time": 4, "duration": 4 }
+            ]
+          },
+          { "instrument": "drum", "notes": [] }
+        ],
+        "timeLength": 10,
+        "currentTrack": "piano",
+        "bpm": 80,
+        "keyboardOctave": 4
+      },
+      "children": [{ "text": "" }]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "我们在四级和弦前面，人为的去创造一个「临时」的 5 - 1 进行。"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "也就是把四级的 Fmaj 和弦，当作「临时」的一级和弦（这个临时的F大调的五级和弦就是 C7 和弦，可以自己在钢琴键上数一数），我们再把 C7 加在 Fmaj 前面，C7 - Fmaj 这个进行，就是我们人为创造的 F 大调的 5 - 1 进行了。"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "这个进行放在我们原本的 C 大调中，就会有别样的听感，既不全是中规中矩的 C 大调调内音，但也因为遵循了 5 - 1 进行的 紧张 - 解决 逻辑，从而变得合理："
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "modulation-4",
+      "data": {
+        "tracks": [
+          {
+            "range": ["C4", "C6"],
+            "instrument": "piano",
+            "notes": [
+              { "value": "C4", "time": 0, "duration": 3 },
+              { "value": "E4", "time": 0, "duration": 3 },
+              { "value": "G4", "time": 0, "duration": 3 },
+              { "value": "C5", "time": 0, "duration": 3 },
+              { "value": "E4", "time": 4, "duration": 2 },
+              { "value": "C4", "time": 4, "duration": 2 },
+              { "value": "G4", "time": 4, "duration": 2 },
+              { "value": "F5", "time": 6, "duration": 2 },
+              { "value": "C5", "time": 6, "duration": 2 },
+              { "value": "F4", "time": 6, "duration": 2 },
+              { "value": "A4", "time": 6, "duration": 2 },
+              {
+                "value": "A#4/Bb4",
+                "time": 4,
+                "duration": 2,
+                "tip": "调外音Bb，这是一个C7和弦"
+              }
+            ]
+          },
+          { "instrument": "drum", "notes": [] }
+        ],
+        "timeLength": 10,
+        "currentTrack": "piano",
+        "bpm": 80,
+        "keyboardOctave": 4
+      },
+      "children": [{ "text": "" }]
+    },
+    { "type": "paragraph", "children": [{ "text": "" }] },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "这就相当于我们基于“紧张-解决”的底层逻辑，去「人为」构建更多的局域性的 紧张-解决。"
+        }
+      ]
+    },
+    { "type": "paragraph", "children": [{ "text": "" }] },
+    { "type": "heading-three", "children": [{ "text": "" }] },
+    { "type": "heading-one", "children": [{ "text": "更多经典\"调味料\"" }] },
+    {
+      "type": "paragraph",
+      "children": [{ "text": "• \"三全音替代\"：用 Db7 代替 G7" }]
+    },
+    { "type": "paragraph", "children": [{ "text": "" }] },
+    {
+      "type": "paragraph",
+      "children": [{ "text": "先来看看这两个和弦的构成音：" }]
+    },
+    { "type": "paragraph", "children": [{ "text": "G7：G  B  D  F" }] },
+    { "type": "paragraph", "children": [{ "text": "Db7：Db F  Ab B" }] },
+    { "type": "paragraph", "children": [{ "text": "" }] },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "首先要理解，音乐中的「三全音」，也就是两个音的音程是三个全音，是非常让人紧张，想要被解决的，听听看"
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "3d40d276-06e6-4a89-9fba-6ac0003113f2",
+      "data": {
+        "tracks": [
+          {
+            "range": ["C4", "C6"],
+            "instrument": "piano",
+            "notes": [
+              { "value": "F5", "time": 0, "duration": 4 },
+              { "value": "B4", "time": 0, "duration": 4 }
+            ]
+          },
+          { "instrument": "drum", "notes": [] }
+        ],
+        "timeLength": 4,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [{ "text": "" }]
+    },
+    { "type": "paragraph", "children": [{ "text": "" }] },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "五级和弦的紧张感很大程度也来自于这个三全音音程，它听起来太难受了，想要马上回到稳定的一级和弦。"
+        }
+      ]
+    },
+    { "type": "paragraph", "children": [{ "text": "" }] },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "来看看 G7 和 Db7 的两个和弦，其实都有三全音！而且还是相同的三全音："
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [{ "text": "G7 的 3 音 B 和 7 音 F → B↔F" }]
+    },
+    {
+      "type": "paragraph",
+      "children": [{ "text": "Db7 的 3 音 F 和 7 音 Cb(=B) → F↔B" }]
+    },
+    {
+      "type": "paragraph",
+      "children": [{ "text": "同一对音，只是左右互换。" }]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        { "text": "这对 B↔F（三全音）是“最不稳、最想回 C”的声响；" }
+      ]
+    },
+    { "type": "paragraph", "children": [{ "text": "" }] },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "既然尴尬点完全相同，那就能发挥同样的「不舒服」的作用，Db7 就能顺理成章的顶替 G7，把听众拉回主和弦 C"
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "modulation-5",
+      "data": {
+        "tracks": [
+          {
+            "range": ["C4", "C6"],
+            "instrument": "piano",
+            "notes": [
+              { "value": "C4", "time": 0, "duration": 2 },
+              { "value": "E4", "time": 0, "duration": 2 },
+              { "value": "G4", "time": 0, "duration": 2 },
+              { "value": "C5", "time": 0, "duration": 2 },
+              {
+                "value": "C#4/Db4",
+                "time": 4,
+                "duration": 2,
+                "tip": "Db7与G7的不舒服程度差不多，不舒服的音也相同，可用来顶替G7和弦的功能"
+              },
+              { "value": "D4", "time": 2, "duration": 2 },
+              { "value": "F4", "time": 2, "duration": 2 },
+              { "value": "A4", "time": 2, "duration": 2 },
+              { "value": "C5", "time": 2, "duration": 2 },
+              { "value": "F4", "time": 4, "duration": 2 },
+              { "value": "Ab4", "time": 4, "duration": 2 },
+              { "value": "C5", "time": 4, "duration": 2 },
+              { "value": "C4", "time": 6, "duration": 2 },
+              { "value": "E4", "time": 6, "duration": 2 },
+              { "value": "G4", "time": 6, "duration": 2 },
+              { "value": "C5", "time": 6, "duration": 2 }
+            ]
+          },
+          { "instrument": "drum", "notes": [] }
+        ],
+        "timeLength": 8,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [{ "text": "" }]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "这就是基于「功能」相同，关键音符也相同，那我们就可以尝试替换，如果听感好，那就用！"
+        }
+      ]
+    },
+    { "type": "paragraph", "children": [{ "text": "" }] },
+    { "type": "paragraph", "children": [{ "text": "" }] },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "下面再给一些离调的示例，如有兴趣可以深入研究原理，肯定都是有一定的逻辑在的！"
+        }
+      ]
+    },
+    { "type": "paragraph", "children": [{ "text": "" }] },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "• \"4 - 3 循环\"：根音下行的基础上，五音也在持续下行，给人朦胧的听感🌙"
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "modulation-6",
+      "data": {
+        "tracks": [
+          {
+            "range": ["C4", "C6"],
+            "instrument": "piano",
+            "notes": [
+              { "value": "F4", "time": 0, "duration": 1 },
+              { "value": "A4", "time": 1, "duration": 1 },
+              { "value": "C5", "time": 2, "duration": 1 },
+              { "value": "E5", "time": 3, "duration": 1 },
+              { "value": "E4", "time": 4, "duration": 1 },
+              { "value": "G4", "time": 5, "duration": 1 },
+              { "value": "B4", "time": 6, "duration": 1 },
+              { "value": "D#4/Eb4", "time": 8, "duration": 1 },
+              { "value": "G4", "time": 9, "duration": 1 },
+              { "value": "A#4/Bb4", "time": 10, "duration": 1 },
+              { "value": "D5", "time": 7, "duration": 1 },
+              { "value": "D5", "time": 11, "duration": 1 },
+              { "value": "D4", "time": 12, "duration": 1 },
+              { "value": "F4", "time": 13, "duration": 1 },
+              { "value": "A4", "time": 14, "duration": 1 },
+              { "value": "C5", "time": 15, "duration": 1 }
+            ]
+          },
+          { "instrument": "drum", "notes": [] }
+        ],
+        "timeLength": 16,
+        "currentTrack": "piano",
+        "bpm": 120,
+        "keyboardOctave": 4
+      },
+      "children": [{ "text": "" }]
+    },
+    { "type": "paragraph", "children": [{ "text": "" }] },
+    {
+      "type": "img",
+      "id": "48041c5d-c52b-4452-a945-dc259d701211",
+      "url": "https://luv-club.oss-cn-chengdu.aliyuncs.com/1cd33a96-f37f-4987-916c-cc54c83b4c99-image.png",
+      "children": [{ "text": "" }]
+    },
+    { "type": "paragraph", "children": [{ "text": "" }] },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "• \"辉煌终止\"：b6maj - b7maj -1maj，听起来像是盛大的落幕🎇"
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "modulation-6",
+      "data": {
+        "tracks": [
+          {
+            "range": ["C4", "C6"],
+            "instrument": "piano",
+            "notes": [
+              { "value": "G#4/Ab4", "time": 0, "duration": 2 },
+              { "value": "C5", "time": 0, "duration": 2 },
+              { "value": "G#4/Ab4", "time": 2, "duration": 2 },
+              { "value": "D5", "time": 4, "duration": 1 },
+              { "value": "A#4/Bb4", "time": 4, "duration": 1 },
+              { "value": "F5", "time": 5, "duration": 2 },
+              { "value": "A#4/Bb4", "time": 5, "duration": 2 },
+              { "value": "D5", "time": 5, "duration": 2 },
+              { "value": "F5", "time": 4, "duration": 1 },
+              { "value": "G5", "time": 7, "duration": 5 },
+              { "value": "E5", "time": 7, "duration": 5 },
+              { "value": "C5", "time": 7, "duration": 5 },
+              { "value": "C5", "time": 2, "duration": 2 },
+              { "value": "D#5/Eb5", "time": 2, "duration": 2 },
+              { "value": "D#5/Eb5", "time": 0, "duration": 2 }
+            ]
+          },
+          { "instrument": "drum", "notes": [] }
+        ],
+        "timeLength": 12,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [{ "text": "" }]
+    },
+    { "type": "paragraph", "children": [{ "text": "" }] },
+    { "type": "paragraph", "children": [{ "text": "" }] },
+    { "type": "heading-two", "children": [{ "text": "从套路到创造" }] },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "除了上面提到的，还有非常多的离调套路，虽然离调是「非常规」的，但一旦用多了，人耳也会慢慢习惯变得平平无奇，人就是这样喜新厌旧的物种。"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "请记住，无论多复杂的理论，核心永远是今天体验到的这个简单真理：先制造一点合理的\"不一样\"，再让它\"回归\"，熟悉的东西就会变得更加动人。用这个原理去创造你自己的「离调」吧！但也要注意离调不是炫技，而是为了更好地表达情感。就像做菜一样，调料要放得恰到好处，才能做出最美味的音乐。"
+        }
+      ]
+    },
+    { "type": "paragraph", "children": [{ "text": "" }] },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "下次听到音乐时，试着留意一下那些让你心里\"咯噔\"一下的瞬间 - 那很可能就是离调在发挥作用呢！"
+        }
+      ]
+    }
+  ]
+}

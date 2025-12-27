@@ -1,0 +1,162 @@
+[
+  { "type": "heading-one", "children": [{ "text": "交互式的简明乐理" }] },
+  { "type": "heading-one", "children": [{ "text": "& 实用的音乐工具箱" }] },
+  {
+    "type": "paragraph",
+    "children": [
+      {
+        "text": "你是否想要了解一首歌是如何被创作出来的，歌曲中的音符又为何有着吸引人的魔力？想更多了解音乐却又无处下手，看音乐理论又觉晦涩难懂？"
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "children": [
+      { "text": "不必担心，" },
+      { "text": "你肯定比你想象的更擅长音乐", "bold": true },
+      { "text": "，音乐是人类与生俱来的能力，跟随交互式教程一起学习基础乐理。" }
+    ]
+  },
+  { "type": "paragraph", "children": [{ "text": "" }] },
+  {
+    "type": "paragraph",
+    "children": [{ "text": "🎶 教程中有直观的可播放音符：" }]
+  },
+  {
+    "type": "paragraph",
+    "children": [
+      { "text": "这是构成中国风的“五声音阶”，试着点一点" },
+      {
+        "type": "note",
+        "id": "65b83c64-dac9-4f21-aaf9-100fbe1cdab8",
+        "noteStr": "C4",
+        "editing": false,
+        "children": [{ "text": "" }]
+      },
+      { "text": "" },
+      {
+        "type": "note",
+        "id": "65b83c64-dac9-4f21-aaf9-100fbe1cdab8",
+        "noteStr": "D4",
+        "editing": false,
+        "children": [{ "text": "" }]
+      },
+      { "text": "" },
+      {
+        "type": "note",
+        "id": "65b83c64-dac9-4f21-aaf9-100fbe1cdab8",
+        "noteStr": "E4",
+        "editing": false,
+        "children": [{ "text": "" }]
+      },
+      { "text": "" },
+      {
+        "type": "note",
+        "id": "65b83c64-dac9-4f21-aaf9-100fbe1cdab8",
+        "noteStr": "G4",
+        "editing": false,
+        "children": [{ "text": "" }]
+      },
+      { "text": "" },
+      {
+        "type": "note",
+        "id": "65b83c64-dac9-4f21-aaf9-100fbe1cdab8",
+        "noteStr": "A4",
+        "editing": false,
+        "children": [{ "text": "" }]
+      },
+      { "text": "" }
+    ]
+  },
+  { "type": "paragraph", "children": [{ "text": "" }] },
+  {
+    "type": "paragraph",
+    "children": [
+      {
+        "text": "🎹 还有可直观看到音符排列的钢琴窗，试着按下“play”按钮，播放一段简单的乐句："
+      }
+    ]
+  },
+  {
+    "type": "roll",
+    "id": "94ac264d-6327-494d-b3de-aacc04ba81f1",
+    "data": {
+      "tracks": [
+        {
+          "range": ["C3", "C5"],
+          "instrument": "piano",
+          "notes": [
+            { "value": "C4", "time": 0, "duration": 1 },
+            { "value": "D4", "time": 1, "duration": 1 },
+            { "value": "E4", "time": 2, "duration": 1 },
+            { "value": "G4", "time": 3, "duration": 1 },
+            { "value": "A4", "time": 4, "duration": 1 },
+            { "value": "A3", "time": 1, "duration": 5 },
+            { "value": "G3", "time": 6, "duration": 3 },
+            { "value": "B3", "time": 6, "duration": 3 },
+            { "value": "F3", "time": 0, "duration": 6 },
+            { "value": "B3", "time": 9, "duration": 1 },
+            { "value": "G3", "time": 9, "duration": 1 },
+            { "value": "E4", "time": 5, "duration": 1 },
+            { "value": "G3", "time": 11, "duration": 2 },
+            { "value": "B3", "time": 11, "duration": 2 },
+            { "value": "C4", "time": 14, "duration": 3 },
+            { "value": "G4", "time": 6, "duration": 1 },
+            { "value": "C5", "time": 16, "duration": 1 },
+            { "value": "B4", "time": 17, "duration": 1 },
+            { "value": "A3", "time": 14, "duration": 3 },
+            { "value": "C5", "time": 19, "duration": 1 },
+            { "value": "G4", "time": 20, "duration": 1 },
+            { "value": "D4", "time": 21, "duration": 1 },
+            { "value": "E4", "time": 10, "duration": 1 },
+            { "value": "C4", "time": 17, "duration": 3 },
+            { "value": "A3", "time": 17, "duration": 3 },
+            { "value": "E3", "time": 24, "duration": 3 },
+            { "value": "C3", "time": 24, "duration": 3 },
+            { "value": "C4", "time": 22, "duration": 1 },
+            { "value": "D4", "time": 23, "duration": 1 },
+            { "value": "G3", "time": 26, "duration": 2 },
+            { "value": "E4", "time": 24, "duration": 1 },
+            { "value": "A3", "time": 25, "duration": 1 },
+            { "value": "D4", "time": 11, "duration": 1 },
+            { "value": "C4", "time": 12, "duration": 1 },
+            { "value": "G4", "time": 13, "duration": 1 },
+            { "value": "E4", "time": 14, "duration": 1 }
+          ]
+        },
+        {
+          "instrument": "drum",
+          "notes": [
+            { "value": "kick", "time": 0, "duration": 1 },
+            { "value": "kick", "time": 8, "duration": 1 },
+            { "value": "kick", "time": 12, "duration": 1 },
+            { "value": "kick", "time": 5, "duration": 1 },
+            { "value": "kick", "time": 24, "duration": 1 },
+            { "value": "kick", "time": 20, "duration": 1 }
+          ]
+        }
+      ],
+      "timeLength": 28,
+      "currentTrack": "piano",
+      "bpm": 120,
+      "keyboardOctave": 4
+    },
+    "children": [{ "text": "" }]
+  },
+  { "type": "paragraph", "children": [{ "text": "" }] },
+  {
+    "type": "paragraph",
+    "children": [
+      { "text": "🤖 教程中如果有不懂的地方，直接问问右下角的音乐助手" }
+    ]
+  },
+  { "type": "paragraph", "children": [{ "text": "" }] },
+  {
+    "type": "paragraph",
+    "children": [
+      {
+        "text": "📦右上角还有丰富的音乐实用工具，视唱练耳、和弦编辑、乐句笔记..."
+      }
+    ]
+  }
+]

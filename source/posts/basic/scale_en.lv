@@ -1,0 +1,1192 @@
+{
+  "title": "Scales",
+  "content": [
+    {
+      "type": "heading-one",
+      "children": [
+        {
+          "text": "Scales – Finding Good Sounds"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "First, ask yourself: why does music sound “good”? Every day we are surrounded by all kinds of noises—car horns, office keyboard clicks—yet these sounds are not as “pleasant” as music. Why?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "These questions lead us to the topic of “scales” in music theory. Scales are also what TV talent shows call “keys” or “modes”; they are the bedrock of music."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Recall junior-high physics: sound is produced by vibration. The faster an object vibrates, the “higher” the pitch. A bee flaps faster, the buzz sounds “higher” and harsher."
+        }
+      ]
+    },
+    {
+      "type": "img",
+      "id": "ee2a7e37-a566-429f-8106-d41b8476d31d",
+      "url": "https://luv-club.oss-cn-chengdu.aliyuncs.com/be717b5a-8b49-434a-a936-2877d9496e07-image.png",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "So “pitch” is essentially vibration frequency."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Human ears are naturally fond of certain frequencies. "
+        },
+        {
+          "text": "The underlying principle of music is that simple",
+          "bold": true
+        },
+        {
+          "text": ". As mentioned in the prologue, ancient people found that striking specific pitches sounded “nice”, but they only had empirical knowledge, no standards or rules. Random trial-and-error produced uneven quality and low efficiency, so people began searching for standards and patterns to create pleasant, smooth music."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Generations explored and passed down experience, discovering that if the pitches within a set obeyed certain ratio relationships, the music felt harmonious and smooth. We call such a set a “scale”."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Most people first meet the “Do-Re-Mi-Fa-Sol-La-Ti-Do” scale (numbered 1 2 3 4 5 6 7 1 in cipher notation)."
+        },
+        {
+          "type": "note",
+          "id": "d9dc1096-a191-487b-abbd-0ca972fea176",
+          "noteStr": "C4",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": ""
+        },
+        {
+          "type": "note",
+          "id": "cd2393e1-431d-4ebd-a29e-8510a7b3a7e5",
+          "noteStr": "D4",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": ""
+        },
+        {
+          "type": "note",
+          "id": "7ca9b455-eb46-4374-9702-315bca65900b",
+          "noteStr": "E4",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": ""
+        },
+        {
+          "type": "note",
+          "id": "1300ae3c-75f1-4307-9a32-cba42beae171",
+          "noteStr": "F4",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": ""
+        },
+        {
+          "type": "note",
+          "id": "74308267-40d8-4ff0-9bc4-340d7eb3baeb",
+          "noteStr": "G4",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": ""
+        },
+        {
+          "type": "note",
+          "id": "d0a86172-67db-440e-b6f0-8ff9503fb34f",
+          "noteStr": "A4",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": ""
+        },
+        {
+          "type": "note",
+          "id": "2b89856c-bdf7-4e76-99b5-e824fd51daba",
+          "noteStr": "B4",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": ""
+        },
+        {
+          "type": "note",
+          "id": "6ce18279-4583-44a1-b79b-7328b1e6cfad",
+          "noteStr": "C5",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": ". Click the note blocks on the left to feel the pitches within this scale."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "You may wonder what the letter C and the number 4 in "
+        },
+        {
+          "type": "note",
+          "id": "6ce18279-4583-44a1-b79b-7328b1e6cfad",
+          "noteStr": "C4",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " mean."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Besides inventing “scales”, our predecessors also created “note names”. As said, pitch is fundamentally “frequency”; higher frequency sounds sharper, lower frequency sounds deeper. We name specific frequencies for convenience—e.g., 440 Hz is called A. If two pitches’ frequencies "
+        },
+        {
+          "text": "differ by exactly double",
+          "bold": true
+        },
+        {
+          "text": ", e.g. 261 Hz "
+        },
+        {
+          "type": "note",
+          "id": "4a367750-8bc6-436f-bf2a-c13fae7fe5c2",
+          "noteStr": "C4",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " and 522 Hz "
+        },
+        {
+          "type": "note",
+          "id": "22c52eb6-60de-4958-a8c1-b1c9b130cccc",
+          "noteStr": "C5",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": ", the distance between them is an “octave”. The number after C4, C5 etc. means the right note is one octave higher; they sound like the same pitch class. Click “play” below to feel the consonance of notes an octave apart:"
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "74289d78-1eae-4020-8bed-e557559d074b",
+      "data": {
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C5"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "C4",
+                "time": 0,
+                "duration": 2
+              },
+              {
+                "value": "C5",
+                "time": 4,
+                "duration": 2
+              },
+              {
+                "value": "C4",
+                "time": 8,
+                "duration": 4
+              },
+              {
+                "value": "C5",
+                "time": 8,
+                "duration": 4
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 12,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Inside this "
+        },
+        {
+          "text": "octave",
+          "bold": true
+        },
+        {
+          "text": " we pick a note every certain interval. The first note is "
+        },
+        {
+          "type": "note",
+          "id": "8e1873d5-cf9c-4072-acc9-cb41ca86d0aa",
+          "noteStr": "C4",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "; the second note’s frequency is 1.06× the first "
+        },
+        {
+          "type": "note",
+          "id": "bb7a75e3-6b19-42fc-adf2-548329a28f9a",
+          "noteStr": "C#4",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " (“#” means raise a semitone, “b” means lower), the third is 1.06× the second "
+        },
+        {
+          "type": "note",
+          "id": "bb7a75e3-6b19-42fc-adf2-548329a28f9a",
+          "noteStr": "D4",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": ", and so on, giving 12 notes (1.06 is approximate; search “12-tone equal temperament” if curious). The distance between two pitches is called an “interval”; the smallest interval in modern music is a “semitone”; its frequency ratio is ~1.06. A “whole tone” is 1.06×1.06. No need to memorize the numbers—just grasp the idea."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Feeling dizzy? That’s normal—dizziness means knowledge is swirling in your brain. If anything is unclear, ask the AI helper at the top 🤖"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Continuing the 1.06× calculation until the last note’s frequency is double the first (the “octave”) yields the 12 standard pitches of modern music: C, C#, D, D#, E, F, F#, G, G#, A, A#, B. “#” is sharp, raising a note by a semitone; E-F is already defined as a semitone (many such “rules” exist in music—no need to over-think). Listen to these 12 notes:"
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "74289d78-1eae-4020-8bed-e557559d074b",
+      "data": {
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C5"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "C4",
+                "time": 0,
+                "duration": 1
+              },
+              {
+                "value": "C#4/Db4",
+                "time": 1,
+                "duration": 1
+              },
+              {
+                "value": "D4",
+                "time": 2,
+                "duration": 1
+              },
+              {
+                "value": "D#4/Eb4",
+                "time": 3,
+                "duration": 1
+              },
+              {
+                "value": "E4",
+                "time": 4,
+                "duration": 1
+              },
+              {
+                "value": "F4",
+                "time": 5,
+                "duration": 1
+              },
+              {
+                "value": "F#4/Gb4",
+                "time": 6,
+                "duration": 1
+              },
+              {
+                "value": "G4",
+                "time": 7,
+                "duration": 1
+              },
+              {
+                "value": "G#4/Ab4",
+                "time": 8,
+                "duration": 1
+              },
+              {
+                "value": "A4",
+                "time": 9,
+                "duration": 1
+              },
+              {
+                "value": "A#4/Bb4",
+                "time": 10,
+                "duration": 1
+              },
+              {
+                "value": "B4",
+                "time": 11,
+                "duration": 1
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 12,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The highest note above is B4; adding one more semitone lands on C5, entering the next octave."
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "74289d78-1eae-4020-8bed-e557559d074b",
+      "data": {
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C6"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "C4",
+                "time": 0,
+                "duration": 1
+              },
+              {
+                "value": "C#4/Db4",
+                "time": 1,
+                "duration": 1
+              },
+              {
+                "value": "D4",
+                "time": 2,
+                "duration": 1
+              },
+              {
+                "value": "D#4/Eb4",
+                "time": 3,
+                "duration": 1
+              },
+              {
+                "value": "E4",
+                "time": 4,
+                "duration": 1
+              },
+              {
+                "value": "F4",
+                "time": 5,
+                "duration": 1
+              },
+              {
+                "value": "F#4/Gb4",
+                "time": 6,
+                "duration": 1
+              },
+              {
+                "value": "G4",
+                "time": 7,
+                "duration": 1
+              },
+              {
+                "value": "G#4/Ab4",
+                "time": 8,
+                "duration": 1
+              },
+              {
+                "value": "A4",
+                "time": 9,
+                "duration": 1
+              },
+              {
+                "value": "A#4/Bb4",
+                "time": 10,
+                "duration": 1
+              },
+              {
+                "value": "B4",
+                "time": 11,
+                "duration": 1
+              },
+              {
+                "value": "D#5/Eb5",
+                "time": 17,
+                "duration": 1
+              },
+              {
+                "value": "E5",
+                "time": 18,
+                "duration": 1
+              },
+              {
+                "value": "C5",
+                "time": 14,
+                "duration": 1
+              },
+              {
+                "value": "F5",
+                "time": 19,
+                "duration": 1
+              },
+              {
+                "value": "C#5/Db5",
+                "time": 15,
+                "duration": 1
+              },
+              {
+                "value": "D5",
+                "time": 16,
+                "duration": 1
+              },
+              {
+                "value": "F#5/Gb5",
+                "time": 20,
+                "duration": 1
+              },
+              {
+                "value": "G5",
+                "time": 21,
+                "duration": 1
+              },
+              {
+                "value": "G#5/Ab5",
+                "time": 22,
+                "duration": 1
+              },
+              {
+                "value": "A5",
+                "time": 23,
+                "duration": 1
+              },
+              {
+                "value": "A#5/Bb5",
+                "time": 24,
+                "duration": 1
+              },
+              {
+                "value": "B5",
+                "time": 25,
+                "duration": 1
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 28,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "But these are all letter names ABCD; how do they relate to the 1 2 3 4 5 6 7 we started with?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Note names are "
+        },
+        {
+          "text": "fixed",
+          "bold": true
+        },
+        {
+          "text": " labels for individual pitches; 1 2 3 4 5 6 7 is a scale, a set of "
+        },
+        {
+          "text": "relationships",
+          "bold": true
+        },
+        {
+          "text": "—it’s dynamic. When you hum 1 2 3 4 5 6 7, no matter which pitch you start on, it feels “the same” because "
+        },
+        {
+          "text": "a scale is about the intervals between notes",
+          "bold": true
+        },
+        {
+          "text": ". As long as the interval pattern is identical, you’re singing the same scale; you can let 1 be C, D, or anything you like."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Natural major scale when 1 = C; the pink row shows scale degrees, dark pink marks 1:"
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "f893698b-5f69-4ece-8b87-494dca558445",
+      "data": {
+        "scale": {
+          "root": "C",
+          "type": "ionian"
+        },
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "D5"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "C4",
+                "time": 0,
+                "duration": 1
+              },
+              {
+                "value": "D4",
+                "time": 1,
+                "duration": 1
+              },
+              {
+                "value": "E4",
+                "time": 2,
+                "duration": 1
+              },
+              {
+                "value": "F4",
+                "time": 3,
+                "duration": 1
+              },
+              {
+                "value": "G4",
+                "time": 4,
+                "duration": 1
+              },
+              {
+                "value": "A4",
+                "time": 5,
+                "duration": 1
+              },
+              {
+                "value": "B4",
+                "time": 6,
+                "duration": 1
+              },
+              {
+                "value": "C5",
+                "time": 7,
+                "duration": 1
+              },
+              {
+                "value": "C4",
+                "time": 10,
+                "duration": 2
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 12,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Natural major scale when 1 = D:"
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "a02c194a-a689-4d07-85de-426805c8f6dd",
+      "data": {
+        "scale": {
+          "root": "D",
+          "type": "ionian"
+        },
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C5"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "D4",
+                "time": 0,
+                "duration": 1
+              },
+              {
+                "value": "E4",
+                "time": 1,
+                "duration": 1
+              },
+              {
+                "value": "F#4/Gb4",
+                "time": 2,
+                "duration": 1
+              },
+              {
+                "value": "G4",
+                "time": 3,
+                "duration": 1
+              },
+              {
+                "value": "A4",
+                "time": 4,
+                "duration": 1
+              },
+              {
+                "value": "B4",
+                "time": 5,
+                "duration": 1
+              },
+              {
+                "value": "C#5/Db5",
+                "time": 6,
+                "duration": 1
+              },
+              {
+                "value": "D5",
+                "time": 7,
+                "duration": 1
+              },
+              {
+                "value": "D4",
+                "time": 10,
+                "duration": 2
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 12,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Don’t they look like stair “steps”?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "1 2 3 4 5 6 7 1 (major scale) is simply a set of pitches obeying this pattern:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "img",
+      "id": "699a6093-c87b-4dfb-a8ef-947217f7ee3e",
+      "url": "https://luv-club.oss-cn-chengdu.aliyuncs.com/1faafaf9-aff1-4818-85a0-ee2b92f29a42-image.png",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Animation:"
+        },
+        {
+          "type": "img",
+          "id": "1a6eb15e-0bc5-4940-b91e-d01e7eed5bbc",
+          "url": "https://luv-club.oss-cn-chengdu.aliyuncs.com/51048a2c-3d4a-402d-8d9c-b726a40d9bf5-d9ca3a9a10f5e4f31ea6e2523b5761d674b5bca1.gif@1256w_628h_!web-article-pic.webp",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "You should also realize that the absolute pitch of a melody doesn’t matter; what matters is the “intervals”. As long as the intervals are identical, it sounds similar. Scale degrees have specific interval relationships, proven by predecessors to be harmonious and pleasant."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "But scales aren’t limited to “1 2 3 4 5 6 7”. Pleasant pitch sets are countless. The Chinese-sounding “pentatonic scale” is “1 2 3 5 6”. Try clicking these notes at will "
+        },
+        {
+          "type": "note",
+          "id": "d9dc1096-a191-487b-abbd-0ca972fea176",
+          "noteStr": "C4",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": ""
+        },
+        {
+          "type": "note",
+          "id": "cd2393e1-431d-4ebd-a29e-8510a7b3a7e5",
+          "noteStr": "D4",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": ""
+        },
+        {
+          "type": "note",
+          "id": "7ca9b455-eb46-4374-9702-315bca65900b",
+          "noteStr": "E4",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": ""
+        },
+        {
+          "type": "note",
+          "id": "74308267-40d8-4ff0-9bc4-340d7eb3baeb",
+          "noteStr": "G4",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": ""
+        },
+        {
+          "type": "note",
+          "id": "d0a86172-67db-440e-b6f0-8ff9503fb34f",
+          "noteStr": "A4",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": ""
+        },
+        {
+          "type": "note",
+          "id": "6ce18279-4583-44a1-b79b-7328b1e6cfad",
+          "noteStr": "C5",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "—whatever random clicks still feel “Chinese”. Different places and eras breed different scales, each with a unique flavor: the pentatonic sounds grand and open, while the Japanese pentatonic sounds dark and winding "
+        },
+        {
+          "type": "note",
+          "id": "3944f4e1-eabd-40b6-b422-e65dcee25de0",
+          "noteStr": "C4",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": ""
+        },
+        {
+          "type": "note",
+          "id": "3944f4e1-eabd-40b6-b422-e65dcee25de0",
+          "noteStr": "Db4",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": ""
+        },
+        {
+          "type": "note",
+          "id": "3944f4e1-eabd-40b6-b422-e65dcee25de0",
+          "noteStr": "F4",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": ""
+        },
+        {
+          "type": "note",
+          "id": "3944f4e1-eabd-40b6-b422-e65dcee25de0",
+          "noteStr": "G4",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": ""
+        },
+        {
+          "type": "note",
+          "id": "3944f4e1-eabd-40b6-b422-e65dcee25de0",
+          "noteStr": "Ab4",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": ""
+        },
+        {
+          "type": "note",
+          "id": "3944f4e1-eabd-40b6-b422-e65dcee25de0",
+          "noteStr": "C5",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": ". Many more scales exist—minor, Phrygian, Dorian, etc.—but the major scale “1 2 3 4 5 6 7” is the most widespread and versatile, so it’s our default."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "A “scale” is only a standard and a rule, yet beyond rules lie infinite possibilities. Creating within a scale is easy, fast, and stable, but confining ourselves is never humanity’s goal. We explore new scales, fuse different ones, or insert foreign notes; such changes can yield unexpected effects. All progress follows the cycle: discover rules → break rules → discover new rules. If you find a set of pitches that sounds good, you have created your own scale."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "There are infinitely many pitches, but with scales we know which ones sound good, instantly reducing the choices for composition! Next we’ll learn how to use scales to create "
+        },
+        {
+          "text": "melody",
+          "bold": true
+        },
+        {
+          "text": "➡️",
+          "bold": true
+        },
+        {
+          "link": true,
+          "text": "/post/basic/rhythm"
+        }
+      ]
+    }
+  ]
+}

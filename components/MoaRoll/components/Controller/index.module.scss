@@ -1,0 +1,39 @@
+$colorPrimary: rgb(33, 41, 55);
+
+.controller {
+  display: flex;
+  flex-direction: column;
+  row-gap: 12px;
+  font-size: 12px;
+  padding: 8px;
+  border-top: rgb(44, 56, 68) 2px solid;
+  background-color: white;
+
+  & label {
+    margin-bottom: 4px;
+  }
+}
+
+.row {
+  display: flex;
+}
+
+.btn {
+  background-color: white;
+  border: 2px solid $colorPrimary;
+  font-size: 12px;
+  cursor: pointer;
+  text-align: center;
+  width: 100%;
+  padding: 4px;
+  &:hover {
+    background-color: $colorPrimary;
+    color: white;
+  }
+}
+.controller {
+  input {
+    width: 100%;
+    accent-color: $colorPrimary;
+  }
+}

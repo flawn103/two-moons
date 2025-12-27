@@ -1,0 +1,88 @@
+.container {
+  font-family: "SF Pro Display", "SF Pro Text", -apple-system,
+    BlinkMacSystemFont, "Roboto", "Noto Sans CJK SC", "Noto Sans SC",
+    "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Helvetica Neue",
+    Helvetica, Arial, sans-serif;
+}
+
+.phraseCard {
+  border-radius: 12px;
+  border: 1px solid #e5e7eb;
+  background: white;
+
+  &:hover {
+    border-color: #212937;
+  }
+
+  .ant-card-body {
+    padding: 24px;
+
+    @media (max-width: 768px) {
+      padding: 16px;
+    }
+  }
+}
+
+.addCard {
+  border-radius: 12px;
+  background: #fafafa;
+
+  .ant-card-body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 120px;
+    transition: all 0.3s ease;
+  }
+}
+
+// 移动端优化
+@media (max-width: 768px) {
+  .container {
+    padding: 0;
+  }
+
+  .phraseCard {
+    border-radius: 8px;
+  }
+
+  .addCard {
+    margin: 0 8px;
+    border-radius: 8px;
+
+    .ant-card-body {
+      min-height: 80px;
+      padding: 16px;
+    }
+  }
+}
+
+// 按钮组样式优化
+.ant-btn-group {
+  @media (max-width: 768px) {
+    display: flex;
+    width: 100%;
+
+    .ant-btn {
+      flex: 1;
+    }
+  }
+}
+
+// 选择器样式
+.ant-select {
+  @media (max-width: 768px) {
+    .ant-select-selector {
+      height: 36px;
+    }
+  }
+}
+
+// 数字输入框样式
+.ant-input-number {
+  @media (max-width: 768px) {
+    .ant-input-number-input {
+      height: 34px;
+    }
+  }
+}

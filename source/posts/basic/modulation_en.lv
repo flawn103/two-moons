@@ -1,0 +1,689 @@
+{
+  "title": "Modal Interchange – The Secret to Making Music More Flavorful",
+  "content": [
+    {
+      "type": "heading-one",
+      "children": [{ "text": "Modal Interchange – Adding a Pinch of Wasabi to Your Chords" }]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Let’s do a quick experiment. The passage below stays entirely in C major; it sounds safe and cozy, right?"
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "modulation-1",
+      "data": {
+        "tracks": [
+          {
+            "range": ["C4", "C6"],
+            "instrument": "piano",
+            "notes": [
+              { "value": "C4", "time": 0, "duration": 2 },
+              { "value": "E4", "time": 0, "duration": 2 },
+              { "value": "G4", "time": 0, "duration": 2 },
+              { "value": "C5", "time": 0, "duration": 2 },
+              { "value": "F4", "time": 2, "duration": 2 },
+              { "value": "G4", "time": 4, "duration": 2 },
+              { "value": "A4", "time": 2, "duration": 2 },
+              { "value": "C5", "time": 2, "duration": 2 },
+              { "value": "B4", "time": 4, "duration": 2 },
+              { "value": "D5", "time": 4, "duration": 2 },
+              { "value": "C4", "time": 6, "duration": 2 },
+              { "value": "E4", "time": 6, "duration": 2 },
+              { "value": "G4", "time": 6, "duration": 2 },
+              { "value": "C5", "time": 6, "duration": 2 }
+            ]
+          },
+          { "instrument": "drum", "notes": [] }
+        ],
+        "timeLength": 8,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [{ "text": "" }]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Now listen to this version. I’ve slipped in an “outsider”—a chord that doesn’t belong to C major."
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "modulation-2",
+      "data": {
+        "tracks": [
+          {
+            "range": ["C4", "C6"],
+            "instrument": "piano",
+            "notes": [
+              { "value": "C4", "time": 0, "duration": 2 },
+              { "value": "E4", "time": 0, "duration": 2 },
+              { "value": "A4", "time": 2, "duration": 2 },
+              { "value": "G4", "time": 0, "duration": 2 },
+              {
+                "value": "G#4/Ab4",
+                "time": 4,
+                "duration": 1,
+                "tip": "Ab is outside C major; the previous Fmaj chord has become Fmin"
+              },
+              { "value": "C5", "time": 0, "duration": 2 },
+              { "value": "F4", "time": 4, "duration": 1 },
+              { "value": "F4", "time": 2, "duration": 2 },
+              { "value": "C5", "time": 2, "duration": 2 },
+              { "value": "C5", "time": 4, "duration": 1 },
+              { "value": "G4", "time": 5, "duration": 1 },
+              { "value": "B4", "time": 5, "duration": 1 },
+              { "value": "D5", "time": 5, "duration": 1 },
+              { "value": "C4", "time": 6, "duration": 2 },
+              { "value": "E4", "time": 6, "duration": 2 },
+              { "value": "G4", "time": 6, "duration": 2 },
+              { "value": "C5", "time": 6, "duration": 2 }
+            ]
+          },
+          { "instrument": "drum", "notes": [] }
+        ],
+        "timeLength": 8,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [{ "text": "" }]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Notice how, at beat 5, that Ab (highlighted in red) suddenly makes everything feel a little “off”? Then the familiar G chord returns and the world is right again."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [{ "text": "Listen closely to the “out→in” feeling from beat 5 to 6." }]
+    },
+    {
+      "type": "img",
+      "id": "72a83ef3-8861-42a8-b562-0b268cc5c1e3",
+      "url": "https://luv-club.oss-cn-chengdu.aliyuncs.com/fb8abeec-6042-42ff-ae56-2fadb81f46ff-image.png ",
+      "children": [{ "text": "" }]
+    },
+    { "type": "paragraph", "children": [{ "text": "" }] },
+    { "type": "heading-two", "children": [{ "text": "" }] },
+    {
+      "type": "heading-one",
+      "children": [{ "text": "Create Tension, Then Give Relief" }]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        { "text": "Remember the idea of “resolution” we talked about? The way G7 wants to rush home to C " },
+        { "text": "/post/basic/harmony-II#harmony-5-1 ", "link": true },
+        {
+          "text": " is the same principle—just upgraded. Modal interchange is simply the next level."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In the last chapter we said, “If you eat nothing but sweet cake, you get sick of it; a little bitter matcha resets the palate.” Interchange is one of those matcha powders—first a surprise, then a return home, and the familiar tastes sweeter than ever."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Pastry chefs do the same: a dusting of bitter cocoa or matcha, a layer of tart berry jam—anything to wake the taste buds before the sugary comfort returns. The diatonic notes are the “cake”; the foreign notes are the “matcha.”"
+        }
+      ]
+    },
+    { "type": "paragraph", "children": [{ "text": "" }] },
+    { "type": "heading-one", "children": [{ "text": "" }] },
+    { "type": "heading-one", "children": [{ "text": "More Flavor Experiments" }] },
+    {
+      "type": "paragraph",
+      "children": [
+        { "text": "Let’s try another “seasoning.” Here is a C-major 4-3-6-1 progression:" }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "modulation-3",
+      "data": {
+        "tracks": [
+          {
+            "range": ["C4", "C6"],
+            "instrument": "piano",
+            "notes": [
+              { "value": "E5", "time": 0, "duration": 2 },
+              { "value": "C5", "time": 0, "duration": 2 },
+              { "value": "A4", "time": 0, "duration": 2 },
+              { "value": "D5", "time": 2, "duration": 2 },
+              { "value": "B4", "time": 2, "duration": 2 },
+              { "value": "G5", "time": 4, "duration": 2 },
+              { "value": "E5", "time": 4, "duration": 2 },
+              { "value": "C5", "time": 4, "duration": 2 },
+              { "value": "A4", "time": 4, "duration": 2 },
+              { "value": "G4", "time": 2, "duration": 2 },
+              { "value": "E4", "time": 2, "duration": 2 },
+              { "value": "F4", "time": 0, "duration": 2 },
+              { "value": "B4", "time": 6, "duration": 2 },
+              { "value": "C4", "time": 6, "duration": 2 },
+              { "value": "E4", "time": 6, "duration": 2 },
+              { "value": "G4", "time": 6, "duration": 2 }
+            ]
+          },
+          { "instrument": "drum", "notes": [] }
+        ],
+        "timeLength": 8,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [{ "text": "" }]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Now we swap the iii chord (E-min-7) for E7 by lowering A to A♭ (red dot):"
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "modulation-3",
+      "data": {
+        "tracks": [
+          {
+            "range": ["C4", "C6"],
+            "instrument": "piano",
+            "notes": [
+              { "value": "E5", "time": 0, "duration": 2 },
+              { "value": "C5", "time": 0, "duration": 2 },
+              {
+                "value": "G#4/Ab4",
+                "time": 2,
+                "duration": 2,
+                "tip": "A becomes A♭, turning E-min-7 into E7"
+              },
+              { "value": "A4", "time": 0, "duration": 2 },
+              { "value": "D5", "time": 2, "duration": 2 },
+              { "value": "B4", "time": 2, "duration": 2 },
+              { "value": "G5", "time": 4, "duration": 2 },
+              { "value": "E5", "time": 4, "duration": 2 },
+              { "value": "C5", "time": 4, "duration": 2 },
+              { "value": "A4", "time": 4, "duration": 2 },
+              { "value": "E4", "time": 2, "duration": 2 },
+              { "value": "F4", "time": 0, "duration": 2 },
+              { "value": "B4", "time": 6, "duration": 2 },
+              { "value": "C4", "time": 6, "duration": 2 },
+              { "value": "E4", "time": 6, "duration": 2 },
+              { "value": "G4", "time": 6, "duration": 2 }
+            ]
+          },
+          { "instrument": "drum", "notes": [] }
+        ],
+        "timeLength": 8,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [{ "text": "" }]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Oddly enough, it now sounds even smoother! The III7 trick is so common in J-pop that our ears have fully accepted it. “Bitter” and “sweet” are relative; habits change."
+        }
+      ]
+    },
+    { "type": "paragraph", "children": [{ "text": "" }] },
+    { "type": "heading-one", "children": [{ "text": "Modal Interchange in Daily Life" }] },
+    {
+      "type": "paragraph",
+      "children": [{ "text": "The same tension-release recipe is everywhere:" }]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "• Movie plot twists—first the uncomfortable suspense, then the happy ending."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        { "text": "• Food pairings—sweet cake with a swipe of bitter matcha." }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "• Friday euphoria—mid-summer vacation may feel dull, but the last class on Friday always thrills."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        { "text": "Composers simply translate this psychology into sound." }
+      ]
+    },
+    { "type": "paragraph", "children": [{ "text": "" }] },
+    {
+      "type": "heading-one",
+      "children": [{ "text": "From Feelings to Formulas – The Pro’s “Secret Spice Rack”" }]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "That “tension first, comfort after” rule is a golden law. For centuries musicians have distilled it into ready-to-use formulas."
+        }
+      ]
+    },
+    { "type": "paragraph", "children": [{ "text": "" }] },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "We mentioned the 5-1 cadence last time: V is unstable, I is stable, 5-1 is the clearest “uncomfortable→comfortable” move…"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "So why not hijack that 5-1 energy and manufacture extra tension-release pockets wherever we want?"
+        }
+      ]
+    },
+    { "type": "paragraph", "children": [{ "text": "" }] },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Here’s a plain C-major I (Cmaj) → IV (Fmaj) progression:"
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "modulation-4",
+      "data": {
+        "tracks": [
+          {
+            "range": ["C4", "C6"],
+            "instrument": "piano",
+            "notes": [
+              { "value": "G4", "time": 0, "duration": 4 },
+              { "value": "E4", "time": 0, "duration": 4 },
+              { "value": "C4", "time": 0, "duration": 4 },
+              { "value": "C5", "time": 0, "duration": 4 },
+              { "value": "F4", "time": 4, "duration": 4 },
+              { "value": "A4", "time": 4, "duration": 4 },
+              { "value": "C5", "time": 4, "duration": 4 },
+              { "value": "F5", "time": 4, "duration": 4 }
+            ]
+          },
+          { "instrument": "drum", "notes": [] }
+        ],
+        "timeLength": 10,
+        "currentTrack": "piano",
+        "bpm": 80,
+        "keyboardOctave": 4
+      },
+      "children": [{ "text": "" }]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Right before IV, we fake a mini “5-1 in F major”: treat Fmaj as a temporary I. The V of F is C7 (count it on the keyboard). Slip C7 in front of Fmaj and—voilà—an local 5-1 cadence."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Inside the home key of C major this pocket feels fresh—partly outside, yet perfectly logical because it follows the same tension-release grammar:"
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "modulation-4",
+      "data": {
+        "tracks": [
+          {
+            "range": ["C4", "C6"],
+            "instrument": "piano",
+            "notes": [
+              { "value": "C4", "time": 0, "duration": 3 },
+              { "value": "E4", "time": 0, "duration": 3 },
+              { "value": "G4", "time": 0, "duration": 3 },
+              { "value": "C5", "time": 0, "duration": 3 },
+              { "value": "E4", "time": 4, "duration": 2 },
+              { "value": "C4", "time": 4, "duration": 2 },
+              { "value": "G4", "time": 4, "duration": 2 },
+              { "value": "F5", "time": 6, "duration": 2 },
+              { "value": "C5", "time": 6, "duration": 2 },
+              { "value": "F4", "time": 6, "duration": 2 },
+              { "value": "A4", "time": 6, "duration": 2 },
+              {
+                "value": "A#4/Bb4",
+                "time": 4,
+                "duration": 2,
+                "tip": "The outside note Bb builds a C7 chord"
+              }
+            ]
+          },
+          { "instrument": "drum", "notes": [] }
+        ],
+        "timeLength": 10,
+        "currentTrack": "piano",
+        "bpm": 80,
+        "keyboardOctave": 4
+      },
+      "children": [{ "text": "" }]
+    },
+    { "type": "paragraph", "children": [{ "text": "" }] },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "We simply leveraged the 5-1 psychology to generate extra, localized tension-release pockets."
+        }
+      ]
+    },
+    { "type": "paragraph", "children": [{ "text": "" }] },
+    { "type": "heading-three", "children": [{ "text": "" }] },
+    { "type": "heading-one", "children": [{ "text": "More Classic “Seasonings”" }] },
+    {
+      "type": "paragraph",
+      "children": [{ "text": "• “Tritone Substitution”: replace G7 with Db7" }]
+    },
+    { "type": "paragraph", "children": [{ "text": "" }] },
+    {
+      "type": "paragraph",
+      "children": [{ "text": "Compare the two chord tones:" }]
+    },
+    { "type": "paragraph", "children": [{ "text": "G7: G B D F" }] },
+    { "type": "paragraph", "children": [{ "text": "Db7: Db F Ab B (Cb)" }] },
+    { "type": "paragraph", "children": [{ "text": "" }] },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "First, understand that a tritone—two notes exactly six semitones apart—sounds terribly tense and begs for resolution. Listen:"
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "3d40d276-06e6-4a89-9fba-6ac0003113f2",
+      "data": {
+        "tracks": [
+          {
+            "range": ["C4", "C6"],
+            "instrument": "piano",
+            "notes": [
+              { "value": "F5", "time": 0, "duration": 4 },
+              { "value": "B4", "time": 0, "duration": 4 }
+            ]
+          },
+          { "instrument": "drum", "notes": [] }
+        ],
+        "timeLength": 4,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [{ "text": "" }]
+    },
+    { "type": "paragraph", "children": [{ "text": "" }] },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Much of a dominant chord’s unrest comes from this interval. It aches to collapse into the tonic."
+        }
+      ]
+    },
+    { "type": "paragraph", "children": [{ "text": "" }] },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Now notice: both G7 and Db7 contain the same tritone, just flipped:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [{ "text": "G7: 3rd B and 7th F → B↔F" }]
+    },
+    {
+      "type": "paragraph",
+      "children": [{ "text": "Db7: 3rd F and 7th Cb(=B) → F↔B" }]
+    },
+    {
+      "type": "paragraph",
+      "children": [{ "text": "Same pair, mirror image." }]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        { "text": "That B↔F is the most unstable, “must-return-to-C” sound around." }
+      ]
+    },
+    { "type": "paragraph", "children": [{ "text": "" }] },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Since the sore spot is identical, Db7 can stand in for G7 and still drag us home to C:"
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "modulation-5",
+      "data": {
+        "tracks": [
+          {
+            "range": ["C4", "C6"],
+            "instrument": "piano",
+            "notes": [
+              { "value": "C4", "time": 0, "duration": 2 },
+              { "value": "E4", "time": 0, "duration": 2 },
+              { "value": "G4", "time": 0, "duration": 2 },
+              { "value": "C5", "time": 0, "duration": 2 },
+              {
+                "value": "C#4/Db4",
+                "time": 4,
+                "duration": 2,
+                "tip": "Db7 shares the same tension notes as G7 and can replace it"
+              },
+              { "value": "D4", "time": 2, "duration": 2 },
+              { "value": "F4", "time": 2, "duration": 2 },
+              { "value": "A4", "time": 2, "duration": 2 },
+              { "value": "C5", "time": 2, "duration": 2 },
+              { "value": "F4", "time": 4, "duration": 2 },
+              { "value": "Ab4", "time": 4, "duration": 2 },
+              { "value": "C5", "time": 4, "duration": 2 },
+              { "value": "C4", "time": 6, "duration": 2 },
+              { "value": "E4", "time": 6, "duration": 2 },
+              { "value": "G4", "time": 6, "duration": 2 },
+              { "value": "C5", "time": 6, "duration": 2 }
+            ]
+          },
+          { "instrument": "drum", "notes": [] }
+        ],
+        "timeLength": 8,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [{ "text": "" }]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Same function, same critical notes—if it sounds good, use it!"
+        }
+      ]
+    },
+    { "type": "paragraph", "children": [{ "text": "" }] },
+    { "type": "paragraph", "children": [{ "text": "" }] },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Below are more interchange examples. Dig into the logic if you’re curious—every one has a reason that works!"
+        }
+      ]
+    },
+    { "type": "paragraph", "children": [{ "text": "" }] },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "• “4-3 cycle”: roots descend, 5ths also descend—dreamy, hazy vibe 🌙"
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "modulation-6",
+      "data": {
+        "tracks": [
+          {
+            "range": ["C4", "C6"],
+            "instrument": "piano",
+            "notes": [
+              { "value": "F4", "time": 0, "duration": 1 },
+              { "value": "A4", "time": 1, "duration": 1 },
+              { "value": "C5", "time": 2, "duration": 1 },
+              { "value": "E5", "time": 3, "duration": 1 },
+              { "value": "E4", "time": 4, "duration": 1 },
+              { "value": "G4", "time": 5, "duration": 1 },
+              { "value": "B4", "time": 6, "duration": 1 },
+              { "value": "D#4/Eb4", "time": 8, "duration": 1 },
+              { "value": "G4", "time": 9, "duration": 1 },
+              { "value": "A#4/Bb4", "time": 10, "duration": 1 },
+              { "value": "D5", "time": 7, "duration": 1 },
+              { "value": "D5", "time": 11, "duration": 1 },
+              { "value": "D4", "time": 12, "duration": 1 },
+              { "value": "F4", "time": 13, "duration": 1 },
+              { "value": "A4", "time": 14, "duration": 1 },
+              { "value": "C5", "time": 15, "duration": 1 }
+            ]
+          },
+          { "instrument": "drum", "notes": [] }
+        ],
+        "timeLength": 16,
+        "currentTrack": "piano",
+        "bpm": 120,
+        "keyboardOctave": 4
+      },
+      "children": [{ "text": "" }]
+    },
+    { "type": "paragraph", "children": [{ "text": "" }] },
+    {
+      "type": "img",
+      "id": "48041c5d-c52b-4452-a945-dc259d701211",
+      "url": "https://luv-club.oss-cn-chengdu.aliyuncs.com/1cd33a96-f37f-4987-916c-cc54c83b4c99-image.png ",
+      "children": [{ "text": "" }]
+    },
+    { "type": "paragraph", "children": [{ "text": "" }] },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "• “Glorious ending”: bVImaj – bVIImaj – Imaj, sounds like a grand curtain call 🎇"
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "modulation-6",
+      "data": {
+        "tracks": [
+          {
+            "range": ["C4", "C6"],
+            "instrument": "piano",
+            "notes": [
+              { "value": "G#4/Ab4", "time": 0, "duration": 2 },
+              { "value": "C5", "time": 0, "duration": 2 },
+              { "value": "G#4/Ab4", "time": 2, "duration": 2 },
+              { "value": "D5", "time": 4, "duration": 1 },
+              { "value": "A#4/Bb4", "time": 4, "duration": 1 },
+              { "value": "F5", "time": 5, "duration": 2 },
+              { "value": "A#4/Bb4", "time": 5, "duration": 2 },
+              { "value": "D5", "time": 5, "duration": 2 },
+              { "value": "F5", "time": 4, "duration": 1 },
+              { "value": "G5", "time": 7, "duration": 5 },
+              { "value": "E5", "time": 7, "duration": 5 },
+              { "value": "C5", "time": 7, "duration": 5 },
+              { "value": "C5", "time": 2, "duration": 2 },
+              { "value": "D#5/Eb5", "time": 2, "duration": 2 },
+              { "value": "D#5/Eb5", "time": 0, "duration": 2 }
+            ]
+          },
+          { "instrument": "drum", "notes": [] }
+        ],
+        "timeLength": 12,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [{ "text": "" }]
+    },
+    { "type": "paragraph", "children": [{ "text": "" }] },
+    { "type": "paragraph", "children": [{ "text": "" }] },
+    { "type": "heading-two", "children": [{ "text": "From Formulas to Fresh Creations" }] },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "There are countless interchange formulas. Yet the more “unconventional” a device becomes, the more familiar it sounds after repeated use. We humans are novelty addicts."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Remember the simple truth you felt today: slip in a tasteful “stranger,” then let it “come home,” and the familiar becomes unforgettable. Use that principle to invent your own interchanges! But treat them like seasoning—just enough to serve the emotion, not to show off. Like cooking, the right pinch of spice makes the dish."
+        }
+      ]
+    },
+    { "type": "paragraph", "children": [{ "text": "" }] },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Next time a tune makes your heart skip, listen for that little “jolt”—chances are modal interchange is working its magic."
+        }
+      ]
+    }
+  ]
+}

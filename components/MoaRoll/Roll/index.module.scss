@@ -1,0 +1,83 @@
+$colorPrimary: rgb(33, 41, 55);
+
+.moa-roll * {
+  box-sizing: border-box;
+}
+.moa-roll {
+  font-family:
+    ui-sans-serif,
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    "Helvetica Neue",
+    Arial,
+    "Noto Sans",
+    sans-serif,
+    "Apple Color Emoji",
+    "Segoe UI Emoji",
+    "Segoe UI Symbol",
+    "Noto Color Emoji";
+}
+
+$sider-width: 100px;
+
+.moa-roll {
+  line-height: normal;
+  display: flex;
+  color: rgb(44, 56, 68);
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+@media (min-width: 768px) {
+  .moa-roll {
+    display: flex;
+    color: rgb(44, 56, 68);
+    flex-direction: row;
+  }
+}
+
+.sider {
+  display: flex;
+  flex-direction: column;
+  width: $sider-width;
+}
+.sider-item {
+  display: flex;
+  justify-content: center;
+  padding: 8px 12px;
+  cursor: pointer;
+  background: rgb(255, 255, 255);
+}
+.sider-item--active {
+  color: white;
+  background-color: $colorPrimary;
+}
+
+.content {
+  background: rgb(255, 255, 255);
+  position: relative;
+
+  &::-webkit-scrollbar {
+    background-color: transparent;
+    width: 6px;
+  }
+  &::-webkit-scrollbar-thumb {
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+}
+
+.notes {
+  display: flex;
+  &__col {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+.keyboard {
+  display: flex;
+  flex-direction: column;
+}

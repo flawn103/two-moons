@@ -1,0 +1,1980 @@
+{
+  "title": "Chord - Chapter I",
+  "content": [
+    {
+      "type": "heading-one",
+      "children": [
+        {
+          "text": "Chord – The Foundation of Music"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Previously we introduced “melody,” which floats on top of the song and is the easiest part for our ears to catch. Let’s review the opening phrase:"
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "4a31a037-7903-4c95-8aa1-c304bcef1bf5",
+      "data": {
+        "tracks": [
+          {
+            "range": [
+              "C3",
+              "C5"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "C4",
+                "time": 0,
+                "duration": 1
+              },
+              {
+                "value": "D4",
+                "time": 1,
+                "duration": 1
+              },
+              {
+                "value": "E4",
+                "time": 2,
+                "duration": 1
+              },
+              {
+                "value": "G4",
+                "time": 3,
+                "duration": 1
+              },
+              {
+                "value": "A4",
+                "time": 4,
+                "duration": 1
+              },
+              {
+                "value": "A3",
+                "time": 1,
+                "duration": 5
+              },
+              {
+                "value": "G3",
+                "time": 6,
+                "duration": 3
+              },
+              {
+                "value": "B3",
+                "time": 6,
+                "duration": 3
+              },
+              {
+                "value": "F3",
+                "time": 0,
+                "duration": 6
+              },
+              {
+                "value": "B3",
+                "time": 9,
+                "duration": 1
+              },
+              {
+                "value": "G3",
+                "time": 9,
+                "duration": 1
+              },
+              {
+                "value": "E4",
+                "time": 5,
+                "duration": 1
+              },
+              {
+                "value": "G3",
+                "time": 11,
+                "duration": 2
+              },
+              {
+                "value": "B3",
+                "time": 11,
+                "duration": 2
+              },
+              {
+                "value": "C4",
+                "time": 14,
+                "duration": 3
+              },
+              {
+                "value": "G4",
+                "time": 6,
+                "duration": 1
+              },
+              {
+                "value": "C5",
+                "time": 16,
+                "duration": 1
+              },
+              {
+                "value": "B4",
+                "time": 17,
+                "duration": 1
+              },
+              {
+                "value": "A3",
+                "time": 14,
+                "duration": 3
+              },
+              {
+                "value": "C5",
+                "time": 19,
+                "duration": 1
+              },
+              {
+                "value": "G4",
+                "time": 20,
+                "duration": 1
+              },
+              {
+                "value": "D4",
+                "time": 21,
+                "duration": 1
+              },
+              {
+                "value": "E4",
+                "time": 10,
+                "duration": 1
+              },
+              {
+                "value": "C4",
+                "time": 17,
+                "duration": 3
+              },
+              {
+                "value": "A3",
+                "time": 17,
+                "duration": 3
+              },
+              {
+                "value": "E3",
+                "time": 24,
+                "duration": 3
+              },
+              {
+                "value": "C3",
+                "time": 24,
+                "duration": 3
+              },
+              {
+                "value": "C4",
+                "time": 22,
+                "duration": 1
+              },
+              {
+                "value": "D4",
+                "time": 23,
+                "duration": 1
+              },
+              {
+                "value": "G3",
+                "time": 26,
+                "duration": 2
+              },
+              {
+                "value": "E4",
+                "time": 24,
+                "duration": 1
+              },
+              {
+                "value": "A3",
+                "time": 25,
+                "duration": 1
+              },
+              {
+                "value": "D4",
+                "time": 11,
+                "duration": 1
+              },
+              {
+                "value": "C4",
+                "time": 12,
+                "duration": 1
+              },
+              {
+                "value": "G4",
+                "time": 13,
+                "duration": 1
+              },
+              {
+                "value": "E4",
+                "time": 14,
+                "duration": 1
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": [
+              {
+                "value": "kick",
+                "time": 0,
+                "duration": 1
+              },
+              {
+                "value": "kick",
+                "time": 8,
+                "duration": 1
+              },
+              {
+                "value": "kick",
+                "time": 12,
+                "duration": 1
+              },
+              {
+                "value": "kick",
+                "time": 5,
+                "duration": 1
+              },
+              {
+                "value": "kick",
+                "time": 24,
+                "duration": 1
+              },
+              {
+                "value": "kick",
+                "time": 20,
+                "duration": 1
+              }
+            ]
+          }
+        ],
+        "timeLength": 28,
+        "currentTrack": "piano",
+        "bpm": 120,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The melody is the part shown above:"
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "0ee431fa-038f-4898-9b22-13de7e9a513c",
+      "data": {
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C5"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "C4",
+                "time": 0,
+                "duration": 1
+              },
+              {
+                "value": "D4",
+                "time": 1,
+                "duration": 1
+              },
+              {
+                "value": "E4",
+                "time": 2,
+                "duration": 1
+              },
+              {
+                "value": "G4",
+                "time": 3,
+                "duration": 1
+              },
+              {
+                "value": "A4",
+                "time": 4,
+                "duration": 1
+              },
+              {
+                "value": "E4",
+                "time": 5,
+                "duration": 1
+              },
+              {
+                "value": "G4",
+                "time": 6,
+                "duration": 1
+              },
+              {
+                "value": "C5",
+                "time": 16,
+                "duration": 1
+              },
+              {
+                "value": "B4",
+                "time": 17,
+                "duration": 1
+              },
+              {
+                "value": "C5",
+                "time": 19,
+                "duration": 1
+              },
+              {
+                "value": "G4",
+                "time": 20,
+                "duration": 1
+              },
+              {
+                "value": "D4",
+                "time": 21,
+                "duration": 1
+              },
+              {
+                "value": "E4",
+                "time": 10,
+                "duration": 1
+              },
+              {
+                "value": "C4",
+                "time": 22,
+                "duration": 1
+              },
+              {
+                "value": "D4",
+                "time": 23,
+                "duration": 1
+              },
+              {
+                "value": "E4",
+                "time": 24,
+                "duration": 1
+              },
+              {
+                "value": "A3",
+                "time": 25,
+                "duration": 1
+              },
+              {
+                "value": "D4",
+                "time": 11,
+                "duration": 1
+              },
+              {
+                "value": "C4",
+                "time": 12,
+                "duration": 1
+              },
+              {
+                "value": "G4",
+                "time": 13,
+                "duration": 1
+              },
+              {
+                "value": "E4",
+                "time": 14,
+                "duration": 1
+              },
+              {
+                "value": "G3",
+                "time": 26,
+                "duration": 2
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 28,
+        "currentTrack": "piano",
+        "bpm": 120,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Does the melody alone feel a bit monotonous?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Let’s add the chords; the chord part is shown below:"
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "8c7a7df8-ebd9-46ab-a3b2-dff37d574dc9",
+      "data": {
+        "tracks": [
+          {
+            "range": [
+              "C3",
+              "C4"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "A3",
+                "time": 1,
+                "duration": 5
+              },
+              {
+                "value": "G3",
+                "time": 6,
+                "duration": 3
+              },
+              {
+                "value": "B3",
+                "time": 6,
+                "duration": 3
+              },
+              {
+                "value": "F3",
+                "time": 0,
+                "duration": 6
+              },
+              {
+                "value": "B3",
+                "time": 9,
+                "duration": 1
+              },
+              {
+                "value": "G3",
+                "time": 9,
+                "duration": 1
+              },
+              {
+                "value": "G3",
+                "time": 11,
+                "duration": 2
+              },
+              {
+                "value": "B3",
+                "time": 11,
+                "duration": 2
+              },
+              {
+                "value": "C4",
+                "time": 14,
+                "duration": 3
+              },
+              {
+                "value": "A3",
+                "time": 14,
+                "duration": 3
+              },
+              {
+                "value": "C4",
+                "time": 17,
+                "duration": 3
+              },
+              {
+                "value": "A3",
+                "time": 17,
+                "duration": 3
+              },
+              {
+                "value": "E3",
+                "time": 24,
+                "duration": 3
+              },
+              {
+                "value": "C3",
+                "time": 24,
+                "duration": 3
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 28,
+        "currentTrack": "piano",
+        "bpm": 120,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Subjectively, chords feel like a layer of accompaniment lying beneath the melody, supporting it and enriching its otherwise single-dimensional sound."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Put them together:"
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "b531f4a6-33dc-43fa-92b4-3148fc764470",
+      "data": {
+        "tracks": [
+          {
+            "range": [
+              "C3",
+              "C5"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "C4",
+                "time": 0,
+                "duration": 1
+              },
+              {
+                "value": "D4",
+                "time": 1,
+                "duration": 1
+              },
+              {
+                "value": "E4",
+                "time": 2,
+                "duration": 1
+              },
+              {
+                "value": "G4",
+                "time": 3,
+                "duration": 1
+              },
+              {
+                "value": "A4",
+                "time": 4,
+                "duration": 1
+              },
+              {
+                "value": "A3",
+                "time": 1,
+                "duration": 5
+              },
+              {
+                "value": "G3",
+                "time": 6,
+                "duration": 3
+              },
+              {
+                "value": "B3",
+                "time": 6,
+                "duration": 3
+              },
+              {
+                "value": "F3",
+                "time": 0,
+                "duration": 6
+              },
+              {
+                "value": "B3",
+                "time": 9,
+                "duration": 1
+              },
+              {
+                "value": "G3",
+                "time": 9,
+                "duration": 1
+              },
+              {
+                "value": "E4",
+                "time": 5,
+                "duration": 1
+              },
+              {
+                "value": "G3",
+                "time": 11,
+                "duration": 2
+              },
+              {
+                "value": "B3",
+                "time": 11,
+                "duration": 2
+              },
+              {
+                "value": "C4",
+                "time": 14,
+                "duration": 3
+              },
+              {
+                "value": "G4",
+                "time": 6,
+                "duration": 1
+              },
+              {
+                "value": "C5",
+                "time": 16,
+                "duration": 1
+              },
+              {
+                "value": "B4",
+                "time": 17,
+                "duration": 1
+              },
+              {
+                "value": "A3",
+                "time": 14,
+                "duration": 3
+              },
+              {
+                "value": "C5",
+                "time": 19,
+                "duration": 1
+              },
+              {
+                "value": "G4",
+                "time": 20,
+                "duration": 1
+              },
+              {
+                "value": "D4",
+                "time": 21,
+                "duration": 1
+              },
+              {
+                "value": "E4",
+                "time": 10,
+                "duration": 1
+              },
+              {
+                "value": "C4",
+                "time": 17,
+                "duration": 3
+              },
+              {
+                "value": "A3",
+                "time": 17,
+                "duration": 3
+              },
+              {
+                "value": "E3",
+                "time": 24,
+                "duration": 3
+              },
+              {
+                "value": "C3",
+                "time": 24,
+                "duration": 3
+              },
+              {
+                "value": "C4",
+                "time": 22,
+                "duration": 1
+              },
+              {
+                "value": "D4",
+                "time": 23,
+                "duration": 1
+              },
+              {
+                "value": "G3",
+                "time": 26,
+                "duration": 2
+              },
+              {
+                "value": "E4",
+                "time": 24,
+                "duration": 1
+              },
+              {
+                "value": "A3",
+                "time": 25,
+                "duration": 1
+              },
+              {
+                "value": "D4",
+                "time": 11,
+                "duration": 1
+              },
+              {
+                "value": "C4",
+                "time": 12,
+                "duration": 1
+              },
+              {
+                "value": "G4",
+                "time": 13,
+                "duration": 1
+              },
+              {
+                "value": "E4",
+                "time": 14,
+                "duration": 1
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": [
+              {
+                "value": "kick",
+                "time": 0,
+                "duration": 1
+              },
+              {
+                "value": "kick",
+                "time": 8,
+                "duration": 1
+              },
+              {
+                "value": "kick",
+                "time": 12,
+                "duration": 1
+              },
+              {
+                "value": "kick",
+                "time": 5,
+                "duration": 1
+              },
+              {
+                "value": "kick",
+                "time": 24,
+                "duration": 1
+              },
+              {
+                "value": "kick",
+                "time": 20,
+                "duration": 1
+              }
+            ]
+          }
+        ],
+        "timeLength": 28,
+        "currentTrack": "piano",
+        "bpm": 120,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "While listening, keep your eyes on the chord part below the piano roll, follow the timeline from left to right, and let your ears focus on the supporting chords."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "You should already feel subjectively how chords sound to the ear—they are like the solid foundation beneath a beautiful high-rise, lying under the melody."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Next, let’s look at what a chord actually is from a more serious theoretical standpoint. Keep the auditory impression above in mind while you digest the theory."
+        }
+      ]
+    },
+    {
+      "type": "block-quote",
+      "children": [
+        {
+          "text": "Chord (from Greek χορδή) in music theory refers to two or more different pitches sounding together. In European classical music and related styles, it usually means three or more pitches; two-note combinations are described as intervals. Chord tones may be sounded simultaneously or separately. When separated, they are called broken or arpeggiated chords. Chords may be tertian (stacked in thirds) or non-tertian; traditional Western harmony builds chords in thirds."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "From the encyclopedia we learn: a chord is a group of pitches obeying specific pitch rules—different pitches sounded together."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "So compared with a melody, which is single notes in succession, any group of notes sounded together can be called a “chord”:"
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "1bacc25f-83c6-4a72-b2b4-ce08334fe8fe",
+      "data": {
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C5"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "C4",
+                "time": 0,
+                "duration": 2
+              },
+              {
+                "value": "D4",
+                "time": 0,
+                "duration": 2
+              },
+              {
+                "value": "D4",
+                "time": 7,
+                "duration": 2
+              },
+              {
+                "value": "E4",
+                "time": 8,
+                "duration": 2
+              },
+              {
+                "value": "E4",
+                "time": 3,
+                "duration": 3
+              },
+              {
+                "value": "G4",
+                "time": 3,
+                "duration": 3
+              },
+              {
+                "value": "D4",
+                "time": 3,
+                "duration": 3
+              },
+              {
+                "value": "G4",
+                "time": 9,
+                "duration": 2
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 12,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "So what specific pitches are these?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "We said in the melody chapter that a melody is simply “notes from a scale combined in various ways.” A chord, briefly, is “notes from a scale combined and sounded together.” Both melody and chords come from the scale, which is why we call the scale the cornerstone of music."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Stage summary:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Chord definition: notes from a scale combined and sounded together (not necessarily absolutely simultaneous)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Chord function: provides the bedding of music, supports the melody, enriches the listening experience."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "But you probably noticed that randomly picked notes may not sound good."
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "30c774c8-2a6f-4876-9c07-a51c90f02d6d",
+      "data": {
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C5"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "C4",
+                "time": 0,
+                "duration": 2
+              },
+              {
+                "value": "D4",
+                "time": 0,
+                "duration": 2
+              },
+              {
+                "value": "D4",
+                "time": 7,
+                "duration": 2
+              },
+              {
+                "value": "E4",
+                "time": 8,
+                "duration": 2
+              },
+              {
+                "value": "E4",
+                "time": 3,
+                "duration": 3
+              },
+              {
+                "value": "G4",
+                "time": 3,
+                "duration": 3
+              },
+              {
+                "value": "D4",
+                "time": 3,
+                "duration": 3
+              },
+              {
+                "value": "G4",
+                "time": 9,
+                "duration": 2
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 12,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "So pleasant chords obey rules too."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Remember: all music theory is simply a summary of what sounds good, not black magic."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "If we pick a note and add the pitch two scale steps above it, the result is stable and consonant. In C major, starting from the root"
+        },
+        {
+          "type": "note",
+          "note": true,
+          "id": "9b714042-c624-4fe0-81e7-8e49a1983927",
+          "noteStr": "C4",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": ", the scale is C D E F G A B; two steps above C is"
+        },
+        {
+          "type": "note",
+          "note": true,
+          "id": "90a28a50-380e-48b0-93e1-b3d62c188361",
+          "noteStr": "E4",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " (skipping D)."
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "9fe2dd96-6ebb-4f5b-a823-7b1a613427aa",
+      "data": {
+        "scale": {
+          "root": "C",
+          "type": "ionian"
+        },
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C5"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "C4",
+                "time": 0,
+                "duration": 2
+              },
+              {
+                "value": "C4",
+                "time": 6,
+                "duration": 2
+              },
+              {
+                "value": "E4",
+                "time": 3,
+                "duration": 2
+              },
+              {
+                "value": "E4",
+                "time": 6,
+                "duration": 2
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 8,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This already sounds much better than random clusters."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Do the same again: two steps above"
+        },
+        {
+          "type": "note",
+          "note": true,
+          "id": "04564a4f-2aa7-4670-9795-b0a86bf30f36",
+          "noteStr": "E4",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " is"
+        },
+        {
+          "type": "note",
+          "note": true,
+          "id": "947479ec-dd12-4b48-8d30-f4a356a428f3",
+          "noteStr": "G4",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "2f135b7f-1427-4a02-b0ae-b0e8bf2298fb",
+      "data": {
+        "scale": {
+          "root": "C",
+          "type": "ionian"
+        },
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C5"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "C4",
+                "time": 0,
+                "duration": 2
+              },
+              {
+                "value": "E4",
+                "time": 3,
+                "duration": 2
+              },
+              {
+                "value": "G4",
+                "time": 6,
+                "duration": 2
+              },
+              {
+                "value": "G4",
+                "time": 9,
+                "duration": 3
+              },
+              {
+                "value": "C4",
+                "time": 9,
+                "duration": 3
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 12,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Sounds nice, right? You’ve discovered the trick: inside a scale, pick every other note and stack them—pleasant chords appear!"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Try it yourself in C major: skip every other note when stacking (click empty space to add notes, drag to lengthen)."
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "23be6b63-d53a-4fc2-8cfb-02168f0b0e53",
+      "data": {
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C6"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "C4",
+                "time": 0,
+                "duration": 8
+              },
+              {
+                "value": "E4",
+                "time": 1,
+                "duration": 7
+              },
+              {
+                "value": "G4",
+                "time": 2,
+                "duration": 6
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 8,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Have you built a pleasant combination? That’s a chord (*^▽^*)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Usually the most convenient and non-cliché stack uses four notes, called a seventh chord."
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "016837a3-c053-4a78-b453-b2bd9ef7ca89",
+      "data": {
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C6"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "F4",
+                "time": 0,
+                "duration": 4
+              },
+              {
+                "value": "A4",
+                "time": 1,
+                "duration": 3
+              },
+              {
+                "value": "C5",
+                "time": 2,
+                "duration": 2
+              },
+              {
+                "value": "E5",
+                "time": 3,
+                "duration": 1
+              },
+              {
+                "value": "E4",
+                "time": 6,
+                "duration": 4
+              },
+              {
+                "value": "G4",
+                "time": 7,
+                "duration": 3
+              },
+              {
+                "value": "B4",
+                "time": 8,
+                "duration": 2
+              },
+              {
+                "value": "D5",
+                "time": 9,
+                "duration": 1
+              },
+              {
+                "value": "D4",
+                "time": 12,
+                "duration": 4
+              },
+              {
+                "value": "F4",
+                "time": 13,
+                "duration": 3
+              },
+              {
+                "value": "A4",
+                "time": 14,
+                "duration": 2
+              },
+              {
+                "value": "C5",
+                "time": 15,
+                "duration": 1
+              },
+              {
+                "value": "C4",
+                "time": 18,
+                "duration": 2
+              },
+              {
+                "value": "E4",
+                "time": 18,
+                "duration": 2
+              },
+              {
+                "value": "G4",
+                "time": 18,
+                "duration": 2
+              },
+              {
+                "value": "B4",
+                "time": 18,
+                "duration": 2
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 20,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In the scale chapter we said a scale is a set of intervallic relationships. Major: W-W-H-W-W-W-H; each mode has its own. Likewise, chords—built from several notes—have their own intervallic recipes, which determine their character and name."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Take C E G for example:"
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "5ba36dcf-1119-41d5-8877-db04fa517a1c",
+      "data": {
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C5"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "C4",
+                "time": 0,
+                "duration": 4
+              },
+              {
+                "value": "E4",
+                "time": 0,
+                "duration": 4
+              },
+              {
+                "value": "G4",
+                "time": 0,
+                "duration": 4
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 4,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "note",
+          "note": true,
+          "id": "30913f45-f86a-446d-a012-07a64c72d7df",
+          "noteStr": "C4",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "to"
+        },
+        {
+          "type": "note",
+          "note": true,
+          "id": "c5b78fcc-8bb0-4623-aa4c-f240d9cf9fd0",
+          "noteStr": "E4",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "is 4 semitones;"
+        },
+        {
+          "type": "note",
+          "note": true,
+          "id": "d120944c-da54-4aba-9b66-61a4456a38ec",
+          "noteStr": "E4",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "to"
+        },
+        {
+          "type": "note",
+          "note": true,
+          "id": "0561eabf-d0a0-4f78-9ee0-26b2edbb97dc",
+          "noteStr": "G4",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "is 3 semitones."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Now look at D F A:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "note",
+          "note": true,
+          "id": "e1519456-d9a3-4337-a838-44acc9f816f1",
+          "noteStr": "D4",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "to"
+        },
+        {
+          "type": "note",
+          "note": true,
+          "id": "b261e486-b694-4242-b524-62db6d46292b",
+          "noteStr": "F4",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "is 3 semitones;"
+        },
+        {
+          "type": "note",
+          "note": true,
+          "id": "3b7036b3-ef50-4267-804c-245c4e64b9b4",
+          "noteStr": "F4",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "to"
+        },
+        {
+          "type": "note",
+          "note": true,
+          "id": "1120f63d-3bea-4975-815a-7f516ebfe315",
+          "noteStr": "A4",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "is 4 semitones—opposite pattern."
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "97c3d503-cccf-4797-a6e9-d87de1553022",
+      "data": {
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C5"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "D4",
+                "time": 0,
+                "duration": 4
+              },
+              {
+                "value": "F4",
+                "time": 0,
+                "duration": 4
+              },
+              {
+                "value": "A4",
+                "time": 0,
+                "duration": 4
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 4,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Because scale steps are not all equal, the intervallic patterns of chords formed by “every-other-note” stacking differ from chord to chord."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "C E G (4 + 3 semitones) is called a major chord, abbreviated “maj.” With C as the root, the full name is “C major” or “Cmaj.” It sounds open and stable."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "D F A (3 + 4 semitones) is a minor chord, abbreviated “min.” With D as the root, “D minor” or “Dmin.” It sounds softer."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Four-note stacks are called seventh chords because the span from the root"
+        },
+        {
+          "type": "note",
+          "note": true,
+          "id": "dd30cbf1-cc2d-4700-8ac3-f4b8ce9efc22",
+          "noteStr": "C4",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "to the top note"
+        },
+        {
+          "type": "note",
+          "note": true,
+          "id": "e6e4a5a9-06a3-44cd-879e-095e0ea3de16",
+          "noteStr": "B4",
+          "editing": false,
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "is a seventh."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "We now meet the term “degree.” It’s simple: count the letter names. C-D is a 2nd, E-G a 3rd, etc. 1-3 is a major third (4 semitones), 2-4 a minor third (3 semitones). The nomenclature is historical; just memorise as needed (*^▽^*)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Here is a table relating degrees to semitones—no need to memorise, just consult when necessary."
+        }
+      ]
+    },
+    {
+      "type": "img",
+      "id": "8de6d198-3f01-46c6-870a-c217fd22742e",
+      "url": "https://luv-club.oss-cn-chengdu.aliyuncs.com/f216a184-523c-4a21-a62e-ee7c998372d7-image.png ",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Next, the modern-pop-important “seventh chords.” If the bottom three notes make a major triad and we add a major third on top, we get a major-seventh chord, symbol Cmaj7."
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "d03c2f99-a49c-49ff-b225-f1bc6d2ddabb",
+      "data": {
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C5"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "G4",
+                "time": 2,
+                "duration": 5
+              },
+              {
+                "value": "B4",
+                "time": 3,
+                "duration": 4
+              },
+              {
+                "value": "E4",
+                "time": 1,
+                "duration": 6
+              },
+              {
+                "value": "C4",
+                "time": 0,
+                "duration": 7
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 8,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "If the triad is minor and we add a minor third on top, we get a minor-seventh chord, Cmin7."
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "dd80fdd3-a4a1-4605-94cd-b1ec6baac4d0",
+      "data": {
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C5"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "G4",
+                "time": 2,
+                "duration": 5
+              },
+              {
+                "value": "D#4/Eb4",
+                "time": 1,
+                "duration": 6
+              },
+              {
+                "value": "C4",
+                "time": 0,
+                "duration": 7
+              },
+              {
+                "value": "A#4/Bb4",
+                "time": 3,
+                "duration": 4
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 8,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "If the triad is major but the added interval is a minor third, we get a dominant (major-minor) seventh chord, written simply C7."
+        }
+      ]
+    },
+    {
+      "type": "roll",
+      "id": "d1ab5e43-48bf-46de-888f-6fd8236d4b63",
+      "data": {
+        "tracks": [
+          {
+            "range": [
+              "C4",
+              "C5"
+            ],
+            "instrument": "piano",
+            "notes": [
+              {
+                "value": "G4",
+                "time": 2,
+                "duration": 5
+              },
+              {
+                "value": "C4",
+                "time": 0,
+                "duration": 7
+              },
+              {
+                "value": "A#4/Bb4",
+                "time": 3,
+                "duration": 4
+              },
+              {
+                "value": "E4",
+                "time": 1,
+                "duration": 6
+              }
+            ]
+          },
+          {
+            "instrument": "drum",
+            "notes": []
+          }
+        ],
+        "timeLength": 8,
+        "currentTrack": "piano",
+        "bpm": 90,
+        "keyboardOctave": 4
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Seventh chords sound more contemporary and colourful than basic triads."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "There are many other intervallic recipes, but knowing major, minor, and their seventh versions is enough for now."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "For deeper exploration, see"
+        },
+        {
+          "text": "https://www.bilibili.com/video/BV1Xs411374a?p=2&vd_source=46298d0a1193054930d8f3a0b2b49106 ",
+          "link": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Final recap:\n- Chords are the bedding of music, supporting and enriching melody.\n- Like melody, chords use notes from a scale.\n- Different chord types produce different colours.\n- Pleasant chords rely on specific stacking rules."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "We now know how to build individual chords. A single chord is like one spice in cooking; we must understand its flavour and mix spices at will. But how do we place several chords in a piece? How do they connect? Must we use only scale notes? Let’s enter "
+        },
+        {
+          "text": "Chord – Chapter II",
+          "bold": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "/post/basic/harmony-II",
+          "link": true
+        }
+      ]
+    }
+  ]
+}
