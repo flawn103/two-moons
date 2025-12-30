@@ -1,4 +1,4 @@
-import { aiApi, api } from "@/services/api";
+import { api } from "@/services/api";
 import { Button } from "antd";
 import { player } from "../roll";
 import { CaretRightOutlined } from "@ant-design/icons";
@@ -9,41 +9,6 @@ export const genNotesPrompt = (features) => `
 Do not include any explanations, only provide a RFC8259 compliant JSON response following this format without deviation.
 [{"value":"C4","time":0,"duration":1},{"value":"D4","time":2,"duration":2},{"value":"E4","time":4,"duration":1}]
 `;
-
-// export const toolComposer = {
-//   type: "function",
-//   function: {
-//     name: "moa-roll",
-//     description: "此工具可以根据ai生产的音符数组进行播放，音符由ai自己生产",
-//     parameters: {
-//       type: "object",
-//       properties: {
-//         notes: {
-//           description: "音符的数组",
-//           type: "array",
-//           items: {
-//             type: "object",
-//             properties: {
-//               value: {
-//                 type: "string",
-//                 description: "实际播放音符的值，比如C4，B6",
-//               },
-//               time: {
-//                 type: "number",
-//                 description: "音符播放的开始时间，比如2代表第2拍",
-//               },
-//               duration: {
-//                 type: "number",
-//                 description: "实际播放音符的持续时间，比如1代表这个音持续一拍",
-//               },
-//             },
-//           },
-//         },
-//       },
-//       required: ["notes"],
-//     },
-//   },
-// };
 
 export const json = {
   type: "function",

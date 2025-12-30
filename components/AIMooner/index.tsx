@@ -1,14 +1,8 @@
-// heavy
+// heavy component
 
 import { api } from "@/services/api";
-import { Alert, Button, Card, Divider, Input, Space } from "antd";
+import { Alert, Button, Divider, Input, Space } from "antd";
 import { useContext, useEffect, useRef, useState } from "react";
-import {
-  RightOutlined,
-  LeftOutlined,
-  BookOutlined,
-  BookFilled,
-} from "@ant-design/icons";
 import styles from "./index.module.scss";
 import { proxy, useSnapshot } from "valtio";
 import classNames from "classnames";

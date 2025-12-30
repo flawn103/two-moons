@@ -6,6 +6,7 @@
 
 <p align="center">
  <img src="/public/banner.jpg" width="800px" style="">
+ <img src="/public/tutorial.png" width="800px" style="">
 </p>
 
 ## 📖 简介

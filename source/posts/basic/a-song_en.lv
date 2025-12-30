@@ -18,7 +18,7 @@
         {
           "text": "Libre Music Theory",
           "bold": true
-        },
+        }
       ]
     },
     {
@@ -226,10 +226,7 @@
       "data": {
         "tracks": [
           {
-            "range": [
-              "C3",
-              "C5"
-            ],
+            "range": ["C3", "C5"],
             "instrument": "piano",
             "notes": [
               {
